@@ -1,0 +1,2732 @@
+[
+    {
+        "identifier": "7708234640-threeasixanineaeightafour",
+        "title": "Количество адвокатов, имеющих действующий статус (по состоянию на конец отчетного периода)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixanineaeightafour/data-2021-10-27-structure-2021-10-27.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenafourazeroafive",
+        "title": "Бюджетные ассигнования на социальное обеспечение населения, предусмотренные законом субъекта Российской Федерации (муниципальным правовым актом представительного органа муниципального образования) о бюджете на отчетный год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenafourazeroafive/data-2023-03-14-structure-2023-03-14.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeathreeanineanine",
+        "title": "Величина компенсационного фонда саморегулируемой организации аудиторов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeathreeanineanine/data-2022-07-06-structure-2022-07-06.xml"
+    },
+    {
+        "identifier": "7708234640-threeazeroanineafiveaseven",
+        "title": "Величина прожиточного минимума",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeazeroanineafiveaseven/data-2021-09-29-structure-2021-09-29.xml"
+    },
+    {
+        "identifier": "7708234640-threeazeroanineasevenatwo",
+        "title": "Вознаграждения, начисленные страховым агентом - физическим лицам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeazeroanineasevenatwo/data-2020-12-29-structure-2020-12-29.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneanineasix",
+        "title": "Всего разыскивалось лиц",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneanineasix/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourafourafourasevenazero",
+        "title": "Вынесено предупреждений по выявленным нарушениям",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafourafourasevenazero/data-2019-07-15-structure-2019-07-15.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoatwoatwo",
+        "title": "Выполнение за отчетный период утвержденного ежегодного плана проведения проверок",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoatwoatwo/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaeightazeroafive",
+        "title": "Выполнение мероприятий по обеспечению контроля (надзора)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaeightazeroafive/data-2017-07-12-structure-2017-07-12.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaeightazeroasix",
+        "title": "Выполнение плана проверок",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaeightazeroasix/data-2013-09-09-structure-2013-09-09.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoazeroanine",
+        "title": "Выявлено женщин, совершивших преступления",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoazeroanine/data-2023-07-12-structure-2023-07-12.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoaoneazero",
+        "title": "Выявлено лиц, совершивших преступления",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoaoneazero/data-2023-07-12-structure-2023-07-12.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoafouratwo",
+        "title": "Выявлено нарушений по вопросам оплаты и нормирования труда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoafouratwo/data-2019-04-18-structure-2019-04-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoazeroaeight",
+        "title": "Выявлено несовершеннолетних, совершивших преступления",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoazeroaeight/data-2023-07-12-structure-2023-07-12.xml"
+    },
+    {
+        "identifier": "7708234640-threeanineafiveafourazero",
+        "title": "Выявлено повреждений по заявлениям абонентов местной телефонной сети в городской местности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeanineafiveafourazero/data-2020-09-22-structure-2020-09-22.xml"
+    },
+    {
+        "identifier": "7708234640-threeanineafiveathreeaeight",
+        "title": "Выявлено повреждений по заявлениям абонентов местной телефонной сети в сельской местности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeanineafiveathreeaeight/data-2020-09-22-structure-2020-09-22.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafourathreeazero",
+        "title": "Децильный коэффициент (соотношение минимальных доходов 10% наиболее обеспеченного населения и максимальных доходов 10% наименее обеспеченного населения)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafourathreeazero/data-2020-09-14-structure-2020-09-14.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoathreeanineaone",
+        "title": "Доля выявленных несовершеннолетних, совершивших преступления, в возрасте от 14 до 17 лет (включительно) в общем числе лиц, совершивших преступления",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoathreeanineaone/data-2023-06-15-structure-2023-06-15.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoaoneathreeafour",
+        "title": "Доля данных по документам обязательной отчетности, обрабатываемая и хранящаяся в электронном виде, в том числе на Едином портале государственных услуг и региональном портале государственных услуг",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoaoneathreeafour/data-2023-01-31-structure-2023-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroasevenafiveasix",
+        "title": "Доля денежных доходов приходящаяся на каждую из 10-процентных групп населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroasevenafiveasix/data-2020-12-14-structure-2020-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasixasevenatwo",
+        "title": "Доля женщин на руководящих должностях (5.5.2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasixasevenatwo/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoazeroafouraseven",
+        "title": "Доля женщин среди муниципальных служащих (5.5.1(b))",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoazeroafouraseven/data-2022-03-24-structure-2022-03-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneaeightaseven",
+        "title": "Доля занятых в общей численности населения по данным ОРС по полу",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneaeightaseven/data-2021-01-13-structure-2021-01-13.xml"
+    },
+    {
+        "identifier": "7706562710-sixatwoatwoaeightatwo",
+        "title": "Доля лиц, числящихся за следственными органами и судами первой инстанции, от количества подозреваемых, обвиняемых и осужденных, содержащихся в следственных изоляторах, помещениях, функционирующих в режиме следственных изоляторов, на конец отчетного периода",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706562710-sixatwoatwoaeightatwo/data-2023-01-23-structure-2023-01-23.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafourasevenaseven",
+        "title": "Доля мест, занимаемых женщинами в национальных парламентах (5.5.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafourasevenaseven/data-2020-09-07-structure-2020-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenanineaeight",
+        "title": "Доля населения Российской Федерации, имеющего возможность приема эфирных цифровых телеканалов, в общей численности населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenanineaeight/data-2020-09-22-structure-2020-09-22.xml"
+    },
+    {
+        "identifier": "7706562710-sixazeroanineatwoaeight",
+        "title": "Доля несовершеннолетних осужденных, отбывающих наказание в воспитательных колониях, участвующих в общероссийских, региональных, городских мероприятиях, конкурсах, акциях, в общей численности осужденных, прошедших через воспитательные колонии, за истекший год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706562710-sixazeroanineatwoaeight/data-2023-07-26-structure-2023-07-26.xml"
+    },
+    {
+        "identifier": "7706562710-sixazeroanineatwoafive",
+        "title": "Доля несовершеннолетних осужденных, состоящих на учете в уголовно-исполнительных инспекциях, и их родителей, участвующих в мероприятиях, проводимых общественными организациями, в общем числе лиц, изъявивших желание принять участие в указанных мероприятиях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706562710-sixazeroanineatwoafive/data-2023-07-26-structure-2023-07-26.xml"
+    },
+    {
+        "identifier": "7706562710-sixazeroanineatwoasix",
+        "title": "Доля несовершеннолетних осужденных, у которых восстановлены социально полезные связи, в числе лиц, их утративших",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706562710-sixazeroanineatwoasix/data-2020-12-30-structure-2020-12-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaeightathreeasix",
+        "title": "Доля несовершеннолетних участников преступлений от численности детского населения в возрасте от 14 до 17 лет",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaeightathreeasix/data-2023-07-12-structure-2023-07-12.xml"
+    },
+    {
+        "identifier": "7706016118-sixaoneasixasevenaone",
+        "title": "Доля обращений граждан за государственными услугами Пенсионного фонда Российской Федерации, поступивших в электронном виде",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixaoneasixasevenaone/data-2021-12-15-structure-2021-12-15.xml"
+    },
+    {
+        "identifier": "7707418081-sixaoneaoneathreeasix",
+        "title": "Доля общеобразовательных организаций, оснащенных в целях внедрения цифровой образовательной среды (E4)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixaoneaoneathreeasix/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveanineazeroaeight",
+        "title": "Доля объектов федерального имущества, проданных с использованием системы электронных торгов, в общем количестве объектов федерального имущества, включенных в прогнозный план (программу) приватизации и проданных в текущем году",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveanineazeroaeight/data-2016-04-07-structure-2016-04-07.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveazeroaseven",
+        "title": "Доля площади жилищного фонда, обеспеченного всеми видами благоустройства, в общей площади жилищного фонда субъекта Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveazeroaseven/data-2023-10-05-structure-2023-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenazeroaeight",
+        "title": "Доля площади жилищного фонда, обеспеченного всеми видами благоустройства, в общей площади жилищного фонда субъекта Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenazeroaeight/data-2019-06-26-structure-2019-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoaoneathreeafive",
+        "title": "Доля судебных дел в арбитражных судах, рассматриваемых в электронном виде",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoaoneathreeafive/data-2023-01-31-structure-2023-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourafourafive",
+        "title": "Доля устраненных административных правонарушений в общем количестве выявленных административных правонарушений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourafourafive/data-2017-05-30-structure-2017-05-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasixanineafour",
+        "title": "Доля хозяйствующих субъектов, считающих, что антиконкурентных действий органов государственной власти и местного самоуправления стало меньше в общем числе опрошенных хозяйствующих субъектов (за истекший год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasixanineafour/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasixanineafive",
+        "title": "Доля хозяйствующих субъектов, считающих, что состояние конкурентной среды улучшилось за истекший год, в общем числе опрошенных хозяйствующих субъектов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasixanineafive/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoaoneathreeaseven",
+        "title": "Доля юридически значимых уведомлений, направляемых государственными органами исключительно в электронном виде",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoaoneathreeaseven/data-2023-06-06-structure-2023-06-06.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoafiveasevenafour",
+        "title": "Дополнительно начислено налогов по выездным проверкам организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoafiveasevenafour/data-2018-12-24-structure-2018-12-24.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoafiveasevenazero",
+        "title": "Дополнительно начислено налогов по выездным проверкам организаций и физических лиц",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoafiveasevenazero/data-2018-12-24-structure-2018-12-24.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoafiveasixafive",
+        "title": "Дополнительно начислено налогов по камеральным проверкам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoafiveasixafive/data-2018-12-24-structure-2018-12-24.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoafiveasevenafive",
+        "title": "Дополнительно начислено пени за несвоевременную уплату налогов, взносов, сборов и штрафные санкции по результатам проверок соблюдения банками требований, установленных статьями 46, 60, 76, 86 НК РФ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoafiveasevenafive/data-2018-12-24-structure-2018-12-24.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoafiveasevenathree",
+        "title": "Дополнительно начислено платежей по выездным проверкам организаций (включая налоговые санкции и пени)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoafiveasevenathree/data-2018-12-24-structure-2018-12-24.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoafiveasixanine",
+        "title": "Дополнительно начислено платежей по выездным проверкам организаций и физических лиц (включая налоговые санкции и пени)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoafiveasixanine/data-2018-12-24-structure-2018-12-24.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoafiveasixafour",
+        "title": "Дополнительно начислено платежей по камеральным проверкам (включая налоговые санкции и пени)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoafiveasixafour/data-2018-12-24-structure-2018-12-24.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourafiveaeight",
+        "title": "Защита прав некоммерческих организаций при осуществлении государственного контроля, снижение административных барьеров (увеличение доли документарных проверок по отношению к выездным)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourafiveaeight/data-2018-03-28-structure-2018-03-28.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeafiveatwo",
+        "title": "Изъято из оборота (забраковано) проверенных потребительских товаров",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeafiveatwo/data-2019-06-05-structure-2019-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeafouraseven",
+        "title": "Изъято из оборота (забраковано) проинспектированных потребительских товаров на розничных рынках",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeafouraseven/data-2019-06-21-structure-2019-06-21.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenaeightatwo",
+        "title": "Количество (остаток) неразысканных преступников по отношению к 2011 году",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenaeightatwo/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoafourafive",
+        "title": "Количество внеплановых проверок",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoafourafive/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoafourafour",
+        "title": "Количество внеплановых проверок, проведенных по поручению органов прокуратуры",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoafourafour/data-2018-07-20-structure-2018-07-20.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourazeroafour",
+        "title": "Количество внешних проверок деятельности аудиторских организаций, проводивших аудит бухгалтерской (финансовой) отчетности общественно значимых организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourazeroafour/data-2023-07-04-structure-2023-07-04.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourazeroasix",
+        "title": "Количество внешних проверок деятельности аудиторов, проведенных саморегулируемой организацией аудиторов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourazeroasix/data-2023-07-04-structure-2023-07-04.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourazeroaseven",
+        "title": "Количество внешних проверок деятельности аудиторских организаций и аудиторов, проведенных саморегулируемой организацией аудиторов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourazeroaseven/data-2023-07-04-structure-2023-07-04.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourazeroafive",
+        "title": "Количество внешних проверок деятельности аудиторских организаций, проведенных саморегулируемой организацией аудиторов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourazeroafive/data-2023-07-04-structure-2023-07-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoafouraone",
+        "title": "Количество возбужденных дел об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoafouraone/data-2022-12-29-structure-2022-12-29.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoafourazero",
+        "title": "Количество возбужденных уголовных дел",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoafourazero/data-2022-12-29-structure-2022-12-29.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasixasix",
+        "title": "Количество возвращенных прокурором дознавателям дел для производства дополнительного расследования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasixasix/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasevenasix",
+        "title": "Количество возвращенных прокурором следователям дел для производства дополнительного расследования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasevenasix/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fourafouraoneatwoaeight",
+        "title": "Количество выданных сертификатов соответствия требованиям технических регламентов Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafouraoneatwoaeight/data-2017-06-08-structure-2017-06-08.xml"
+    },
+    {
+        "identifier": "7708234640-fourafouraoneathreeatwo",
+        "title": "Количество выданных сертификатов соответствия требованиям технических регламентов Таможенного союза",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafouraoneathreeatwo/data-2017-06-08-structure-2017-06-08.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoatwoaseven",
+        "title": "Количество выявленных административных правонарушений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoatwoaseven/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneasixaone",
+        "title": "Количество выявленных административных правонарушений, связанных с незаконным оборотом наркотических средств, психотропных веществ и их прекурсоров или аналогов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneasixaone/data-2023-04-03-structure-2023-04-03.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafouratwoafour",
+        "title": "Количество выявленных административных правонарушений, связанных с незаконным оборотом наркотических средств, психотропных веществ и их прекурсоров или аналогов, по данным ФСКН России (по 2015 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafouratwoafour/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneaoneaseven",
+        "title": "Количество выявленных нарушений земельного законодательства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneaoneaseven/data-2017-11-30-structure-2017-11-30.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoathreeasix",
+        "title": "Количество выявленных нарушений обязательных требований законодательства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoathreeasix/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasixathreeanine",
+        "title": "Количество выявленных нарушений при осуществление общественного контроля по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasixathreeanine/data-2023-02-09-structure-2023-02-09.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoafourazero",
+        "title": "Количество выявленных нарушений при проведении проверок соблюдения трудового законодательства при использовании иностранных работников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoafourazero/data-2021-02-24-structure-2021-02-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafourazeroanine",
+        "title": "Количество выявленных нарушений против порядка управления, государственной власти и общественного порядка",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafourazeroanine/data-2017-11-21-structure-2017-11-21.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoafouraone",
+        "title": "Количество выявленных нарушений трудового законодательства и иных нормативных правовых актов, содержащих нормы трудового права",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoafouraone/data-2019-04-18-structure-2019-04-18.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasevenatwoasix",
+        "title": "Количество выявленных правонарушений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasevenatwoasix/data-2019-04-09-structure-2019-04-09.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoathreeaseven",
+        "title": "Количество выявленных правонарушений - всего",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoathreeaseven/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneaeightafive",
+        "title": "Количество выявленных сотрудниками милиции общественной безопасности несовершеннолетних, совершивших уголовные правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneaeightafive/data-2023-04-04-structure-2023-04-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneasevenanine",
+        "title": "Количество выявленных сотрудниками органов следствия несовершеннолетних, совершивших уголовные правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneasevenanine/data-2023-04-04-structure-2023-04-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneatwoazero",
+        "title": "Количество госземинспекторов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneatwoazero/data-2018-11-23-structure-2018-11-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneanineaoneatwo",
+        "title": "Количество дел по заявлениям о присуждении компенсации за нарушение права на судопроизводство в разумный срок или права на исполнение судебного акта в разумный срок, рассмотренных арбитражными судами округов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneanineaoneatwo/data-2015-02-25-structure-2015-02-25.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightaeightathree",
+        "title": "Количество дел, принятых к производству следователями",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightaeightathree/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasevenathree",
+        "title": "Количество дел, принятых дознавателями к производству",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasevenathree/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneanineaoneaone",
+        "title": "Количество дел, рассмотренных арбитражными апелляционными судами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneanineaoneaone/data-2015-02-18-structure-2015-02-18.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneanineaoneafour",
+        "title": "Количество дел, рассмотренных арбитражными судами округов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneanineaoneafour/data-2015-02-18-structure-2015-02-18.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneanineaoneasix",
+        "title": "Количество дел, рассмотренных арбитражными судами субъектов Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneanineaoneasix/data-2015-02-18-structure-2015-02-18.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeatwoatwoafour",
+        "title": "Количество дел, рассмотренных Судом по интеллектуальным правам в кассационной инстанции",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeatwoatwoafour/data-2015-02-25-structure-2015-02-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeatwoatwoafive",
+        "title": "Количество дел, рассмотренных Судом по интеллектуальным правам по первой инстанции",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeatwoatwoafive/data-2015-02-25-structure-2015-02-25.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafourasevenaseven",
+        "title": "Количество забастовок по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafourasevenaseven/data-2020-08-18-structure-2020-08-18.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightazeroaeightathree",
+        "title": "Количество забастовок с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightazeroaeightathree/data-2022-03-25-structure-2022-03-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoanineafive",
+        "title": "Количество заключенных договоров - аудит (обязательный и инициативный) за отчетный год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoanineafive/data-2021-06-23-structure-2021-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneanineazeroanine",
+        "title": "Количество заявлений и представлений о пересмотре судебных актов в порядке надзора, рассмотренных Высшим Арбитражным Судом Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneanineazeroanine/data-2015-02-18-structure-2015-02-18.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroatwoanineanine",
+        "title": "Количество измененных нормативных правовых актов (доля от перечня)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroatwoanineanine/data-2020-06-11-structure-2020-06-11.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroanineafiveanine",
+        "title": "Количество исполнительных производств о взыскании алиментов, не оконченных на конец отчетного периода, не больше значения исполнительных производств на начало отчетного периода",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroanineafiveanine/data-2021-02-17-structure-2021-02-17.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaeightazeroasix",
+        "title": "Количество исполнительных производств, возбужденных в отчетном периоде",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaeightazeroasix/data-2021-10-28-structure-2021-10-28.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoafourasix",
+        "title": "Количество коллективных трудовых споров",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoafourasix/data-2018-10-01-structure-2018-10-01.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneaoneatwo",
+        "title": "Количество лиц, привлеченных к административной ответственности за нарушения земельного законодательства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneaoneatwo/data-2017-11-30-structure-2017-11-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafouraoneatwo",
+        "title": "Количество лиц, привлеченных к административной ответственности за нарушения против порядка управления, государственной власти и общественного порядка",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafouraoneatwo/data-2018-03-28-structure-2018-03-28.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafouraeight",
+        "title": "Количество лиц, совершивших преступления",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafouraeight/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafourazero",
+        "title": "Количество лиц, совершивших преступления занимающих должности в органах законодательной власти на уровне органа местного самоуправления",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafourazero/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafouratwo",
+        "title": "Количество лиц, совершивших преступления занимающих должности в органах законодательной власти на уровне Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafouratwo/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafouraone",
+        "title": "Количество лиц, совершивших преступления занимающих должности в органах законодательной власти на уровне субъекта Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafouraone/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafiveathreeaeight",
+        "title": "Количество лиц, совершивших преступления занимающих должности в органах исполнительной власти (за исключением правоохранительных) на уровне субъекта Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafiveathreeaeight/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafiveathreeanine",
+        "title": "Количество лиц, совершивших преступления занимающих должности в органах исполнительной власти (за исключением правоохранительных) на уровне органа местного самоуправления",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafiveathreeanine/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafiveathreeaseven",
+        "title": "Количество лиц, совершивших преступления занимающих должности в органах исполнительной власти (за исключением правоохранительных) на уровне Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafiveathreeaseven/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafourathree",
+        "title": "Количество лиц, совершивших преступления занимающих должности в органах исполнительной власти на уровне органа местного самоуправления",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafourathree/data-2019-10-18-structure-2019-10-18.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafourafive",
+        "title": "Количество лиц, совершивших преступления занимающих должности в органах исполнительной власти на уровне Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafourafive/data-2019-10-18-structure-2019-10-18.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafourafour",
+        "title": "Количество лиц, совершивших преступления занимающих должности в органах исполнительной власти на уровне субъекта Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafourafour/data-2019-10-18-structure-2019-10-18.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafouraseven",
+        "title": "Количество лиц, совершивших преступления занимающих должности в органах правоохранительных (правоприменительных)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafouraseven/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafourasix",
+        "title": "Количество лиц, совершивших преступления занимающих должности в органах системы Министерства обороны",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafourasix/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightathreeasix",
+        "title": "Количество лиц, совершивших преступления, в отношении которых применяется особый порядок производства по уголовным делам в соответствии со ст. 447 УПК РФ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightathreeasix/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightathreeanine",
+        "title": "Количество лиц, совершивших преступления, занимающих должности в коммерческой или иной организации, связанные с выполнением управленческих функций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightathreeanine/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightathreeaseven",
+        "title": "Количество лиц, совершивших преступления, освобожденных от уголовной ответственности по нереабилитирующим основаниям",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightathreeaseven/data-2020-08-27-structure-2020-08-27.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafourasixazero",
+        "title": "Количество лиц, совершивших преступления, освобожденных от уголовной ответственности по нереабилитирующим основаниям",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafourasixazero/data-2023-06-27-structure-2023-06-27.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightathreeaeight",
+        "title": "Количество лиц, совершивших преступления, уголовные дела и материалы по которым направлены в суд",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightathreeaeight/data-2018-09-25-structure-2018-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafiveafourazero",
+        "title": "Количество лиц, совершивших преступления, уголовные дела и материалы по которым направлены в суд",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafiveafourazero/data-2023-06-27-structure-2023-06-27.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafouraoneaone",
+        "title": "Количество материалов, направленных в уполномоченные органы и в суд для принудительного прекращения прав на землю за правонарушения, предусмотренные ч. 1, 3, 4 ст. 8.8 КоАП",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafouraoneaone/data-2020-02-17-structure-2020-02-17.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoatwoaone",
+        "title": "Количество направленных в органы прокуратуры заявлений о согласовании проведения внеплановых выездных проверок",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoatwoaone/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneathreeanine",
+        "title": "Количество направленных в органы прокуратуры заявлений о согласовании проведения внеплановых выездных проверок",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneathreeanine/data-2012-02-14-structure-2012-02-14.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasevenaone",
+        "title": "Количество направленных дознавателями в суд дел с обвинительным заключением (актом), постановлением о применении принудительных мер медицинского характера",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasevenaone/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasixafive",
+        "title": "Количество направленных прокурором дознавателям дел, возвращенных судом в порядке ст. 237 УПК РФ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasixafive/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasevenafive",
+        "title": "Количество направленных прокурором следователям дел, возвращенных судом в порядке ст. 237 УПК РФ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasevenafive/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightaeightaone",
+        "title": "Количество направленных следователями дел в суд с обвинительным заключением (актом), постановлением о применении принудительных мер медицинского характера",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightaeightaone/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafouratwoafive",
+        "title": "Количество наркотических средств, психотропных веществ и их прекурсоров, сильнодействующих веществ, изъятых на момент возбуждения уголовного дела, по данным ФСКН России (по 2015 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafouratwoafive/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoatwoasix",
+        "title": "Количество нарушителей правил дорожного движения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoatwoasix/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoafiveazero",
+        "title": "Количество объектов контроля (точек розничных продаж), в которых выявлены (зарегистрированы) преступления (возбуждены уголовные дела) в сфере регулирования рынков промышленной продукции по обращениям граждан",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoafiveazero/data-2022-12-29-structure-2022-12-29.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoafiveaone",
+        "title": "Количество объектов контроля (точек розничных продаж), в которых выявлены административные правонарушения (возбуждены дела об административных правонарушениях) в сфере регулирования рынков промышленной продукции по обращениям граждан",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoafiveaone/data-2022-12-29-structure-2022-12-29.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoafiveafour",
+        "title": "Количество объектов контроля (точек розничных продаж), в которых выявлены нарушения в сфере регулирования рынков промышленной продукции",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoafiveafour/data-2022-12-29-structure-2022-12-29.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoafiveatwo",
+        "title": "Количество объектов контроля (точек розничных продаж), не передающих данные в ГИС МТ (по товарной группе «Лекарственные препараты для медицинского применения» – не зарегистрированных в системе мониторинга движения лекарственных препаратов для медицинского применения), в которых выявлены нарушения в сфере регулирования рынков промышленной продукции",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoafiveatwo/data-2022-12-29-structure-2022-12-29.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoafiveathree",
+        "title": "Количество объектов контроля (точек розничных продаж), фактически осуществляющих деятельность по данным ГИС МТ (по товарной группе «Лекарственные препараты для медицинского применения» – зарегистрированных в системе мониторинга движения лекарственных препаратов для медицинского применения), в которых выявлены нарушения в сфере регулирования рынков промышленной продукции",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoafiveathree/data-2022-12-29-structure-2022-12-29.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroasixaeight",
+        "title": "Количество объектов, в которых для инвалидов по зрению обеспечивается дублирование необходимой для ознакомления текстовой и графической информации знаками, выполненными рельефно-точечным шрифтом Брайля",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroasixaeight/data-2021-04-16-structure-2021-04-16.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroasixaseven",
+        "title": "Количество объектов, в которых для инвалидов по слуху обеспечивается дублирование необходимой звуковой информации доступными графическими средствами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroasixaseven/data-2021-04-16-structure-2021-04-16.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroasixasix",
+        "title": "Количество объектов, в которых для инвалидов с нарушением функций опорно-двигательного аппарата обеспечивается оснащение средствами для самостоятельного передвижения, входа и выхода, в том числе с использованием кресла-коляски, а также имеется в наличии специальное оборудование",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroasixasix/data-2021-04-16-structure-2021-04-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoafouratwo",
+        "title": "Количество объявленных предостережений в отношении объектов контроля (точек розничных продаж)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoafouratwo/data-2022-12-29-structure-2022-12-29.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasevenatwo",
+        "title": "Количество оконченных дознавателями дел",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasevenatwo/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightaeightatwo",
+        "title": "Количество оконченных следователями дел",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightaeightatwo/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasixazero",
+        "title": "Количество оставшихся сообщений о преступлении, по которым не принято решений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasixazero/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightaeightanine",
+        "title": "Количество осужденных женщин",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightaeightanine/data-2021-10-18-structure-2021-10-18.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightanineazero",
+        "title": "Количество осужденных мужчин",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightanineazero/data-2021-10-18-structure-2021-10-18.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneathreeaeight",
+        "title": "Количество отказов органов прокуратуры в согласовании проведения внеплановых выездных проверок",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneathreeaeight/data-2012-02-14-structure-2012-02-14.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafiveanine",
+        "title": "Количество отмененных постановлений о возбуждении уголовного дела",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafiveanine/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafiveaeight",
+        "title": "Количество отмененных постановлений об отказе в возбуждении уголовного дела",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafiveaeight/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneazeroathreeafour",
+        "title": "Количество отрицательных заключений государственной экспертизы проектной документации и (или) результатов инженерных изысканий за отчетный период",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneazeroathreeafour/data-2021-04-19-structure-2021-04-19.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneazeroathreeathree",
+        "title": "Количество отрицательных заключений негосударственной экспертизы проектной документации и (или) результатов инженерных изысканий за отчетный период",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneazeroathreeathree/data-2021-04-19-structure-2021-04-19.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoazeroazero",
+        "title": "Количество погибших, признанных потерпевшими",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoazeroazero/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneanineaseven",
+        "title": "Количество потерпевших - женщин",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneanineaseven/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoazeroaone",
+        "title": "Количество потерпевших - физических лиц",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoazeroaone/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoazeroatwo",
+        "title": "Количество потерпевших (всего)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoazeroatwo/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneanineanine",
+        "title": "Количество потерпевших, которым причинен тяжкий вред здоровью",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneanineanine/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoathreeafive",
+        "title": "Количество правонарушений по невыполнению предписаний органов государственного контроля (надзора)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoathreeafive/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoatwoaone",
+        "title": "Количество предварительно расследованных преступлений (из числа находившихся в производстве или зарегистрированных в отчетном периоде)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoatwoaone/data-2023-07-12-structure-2023-07-12.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafiveafour",
+        "title": "Количество предварительно расследованных преступлений (из числа находившихся в производстве), совершенных в крупном или особо крупном размере либо причинивших особо крупный ущерб",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafiveafour/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafiveafive",
+        "title": "Количество предварительно расследованных преступлений (из числа находившихся в производстве), совершенных организованной группой или преступным сообществом (преступной организацией)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafiveafive/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafiveathree",
+        "title": "Количество предварительно расследованных преступлений (из числа находившихся в производстве), уголовные дела о которых направлены в суд",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafiveathree/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneasevenasix",
+        "title": "Количество предварительно расследованных преступлений в отчетном периоде (из числа находившихся в производстве или зарегистрированных в отчетном периоде)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneasevenasix/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoaoneafour",
+        "title": "Количество предварительно расследованных преступлений в отчетном периоде (из числа находившихся в производстве или зарегистрированных в отчетном периоде), совершенных группой лиц",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoaoneafour/data-2023-07-12-structure-2023-07-12.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoaoneathree",
+        "title": "Количество предварительно расследованных преступлений в отчетном периоде (из числа находившихся в производстве или зарегистрированных в отчетном периоде), совершенных группой лиц по предварительному сговору",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoaoneathree/data-2023-07-12-structure-2023-07-12.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoaoneatwo",
+        "title": "Количество предварительно расследованных преступлений в отчетном периоде (из числа находившихся в производстве или зарегистрированных в отчетном периоде), совершенных организованной группой",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoaoneatwo/data-2023-07-12-structure-2023-07-12.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoaoneaone",
+        "title": "Количество предварительно расследованных преступлений в отчетном периоде (из числа находившихся в производстве или зарегистрированных в отчетном периоде), совершенных преступным сообществом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoaoneaone/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafiveasix",
+        "title": "Количество предварительно расследованных преступлений в отчетном периоде (из числа находившихся в производстве)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafiveasix/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoaoneanine",
+        "title": "Количество предварительно расследованных преступлений экономической направленности (из числа находившихся в производстве или зарегистрированных в отчетном периоде)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoaoneanine/data-2023-07-12-structure-2023-07-12.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneafiveaseven",
+        "title": "Количество предварительно расследованных преступлений, связанных с незаконным оборотом наркотических средств, психотропных веществ и их прекурсоров или аналогов, сильнодействующих веществ, новых потенциально опасных психоактивных веществ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneafiveaseven/data-2023-04-03-structure-2023-04-03.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafouratwoaseven",
+        "title": "Количество предварительно расследованных преступлений, связанных с незаконным оборотом наркотических средств, психотропных веществ и их прекурсоров или аналогов, сильнодействующих веществ, по данным ФСКН России (по 2015 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafouratwoaseven/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoatwoazero",
+        "title": "Количество предварительно расследованных тяжких и особо тяжких преступлений (из числа находившихся в производстве или зарегистрированных в отчетном периоде)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoatwoazero/data-2023-07-12-structure-2023-07-12.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneaoneafour",
+        "title": "Количество предписаний, выданных по нарушениям земельного законодательства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneaoneafour/data-2017-11-30-structure-2017-11-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneaoneathree",
+        "title": "Количество предупреждений о возможном прекращении прав на землю, выданных при выявлении нарушений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneaoneathree/data-2020-02-17-structure-2020-02-17.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasevenazero",
+        "title": "Количество прекращенных дознавателями дел",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasevenazero/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightaeightazero",
+        "title": "Количество прекращенных следователями дел с повторными",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightaeightazero/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoazeroasix",
+        "title": "Количество преступлений (из числа предварительно расследованных), совершенных в состоянии алкогольного опьянения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoazeroasix/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoazeroafive",
+        "title": "Количество преступлений (из числа предварительно расследованных), совершенных в состоянии наркотического опьянения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoazeroafive/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoazeroafour",
+        "title": "Количество преступлений (из числа предварительно расследованных), совершенных в состоянии токсического опьянения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoazeroafour/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoazeroaseven",
+        "title": "Количество преступлений (из числа предварительно расследованных), совершенных лицами, ранее совершавшими преступления",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoazeroaseven/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoatwoatwo",
+        "title": "Количество преступлений экономической направленности, зарегистрированных в отчетном периоде",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoatwoatwo/data-2023-07-12-structure-2023-07-12.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafiveazero",
+        "title": "Количество преступлений, (из числа находящиеся в производстве), уголовные дела по которым приостановлены по основанию, указанному в п. 4 ч.1 ст. 208 УПК РФ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafiveazero/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafiveaone",
+        "title": "Количество преступлений, (из числа находящиеся в производстве), уголовные дела по которым приостановлены по основаниям, указанным в пп. 1, 2, 3 ч.1 ст. 208 УПК РФ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafiveaone/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafiveaseven",
+        "title": "Количество преступлений, зарегистрированных в отчетном периоде",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafiveaseven/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoatwoafour",
+        "title": "Количество преступлений, зарегистрированных в отчетном периоде",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoatwoafour/data-2023-07-12-structure-2023-07-12.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoatwoafive",
+        "title": "Количество преступлений, зарегистрированных в отчетном периоде",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoatwoafive/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenaeightasix",
+        "title": "Количество преступлений, предусмотренных ст. 111 УК РФ, уголовные дела о которых впервые приостановлены по п.п. 1-3 ч. 1 ст. 208 УПК РФ (остаток нераскрытых умышленных причинений тяжкого вреда здоровью), по отношению к 2011 году",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenaeightasix/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenaeightafive",
+        "title": "Количество преступлений, предусмотренных ст. 162 УК РФ, уголовные дела о которых впервые приостановлены по п.п. 1-3 ч. 1 ст. 208 УПК РФ (остаток нераскрытых разбоев), по отношению к 2011 году",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenaeightafive/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenaeightaseven",
+        "title": "Количество преступлений, предусмотренных ст.ст. 105, 106, 107 УК РФ , в том числе с применением ч. 3 ст. 30 УК РФ, уголовные дела о которых впервые приостановлены по п.п. 1-3 ч. 1 ст. 208 УПК РФ (остаток нераскрытых убийств), по отношению к 2011 году",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenaeightaseven/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeathreeafourafour",
+        "title": "Количество преступлений, связанных с незаконным оборотом наркотических средств, психотропных веществ и их прекурсоров или аналогов, сильнодействующих веществ, зарегистрированных в отчетном периоде, по данным ФСКН России (по 2015 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeathreeafourafour/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneafiveaeight",
+        "title": "Количество преступлений, связанных с незаконным оборотом наркотических средств, психотропных веществ и их прекурсоров или аналогов, сильнодействующих веществ, новых потенциально опасных психоактивных веществ, зарегистрированных в отчетном периоде",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneafiveaeight/data-2023-04-03-structure-2023-04-03.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafiveatwo",
+        "title": "Количество преступлений, уголовные дела о которых (из числа находящиеся в производстве) прекращены по основаниям, указанным в пп.1, 2 ч.1 ст. 24 УПК РФ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafiveatwo/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafiveathreeasix",
+        "title": "Количество преступлений, уголовные дела о которых (из числа находящиеся в производстве) прекращены по реабилитирующим основаниям",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafiveathreeasix/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasixafour",
+        "title": "Количество принятых по сообщениям о преступлении решений о возбуждении уголовного дела",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasixafour/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasixaone",
+        "title": "Количество принятых по сообщениям о преступлении решений о передаче по подследственности или подсудности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasixaone/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasixathree",
+        "title": "Количество принятых по сообщениям о преступлении решений об отказе в возбуждении уголовного дела",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasixathree/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasixatwo",
+        "title": "Количество принятых по сообщениям о преступлении решений об отказе в возбуждении уголовного дела за отсутствием события или состава преступления",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasixatwo/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoafourafive",
+        "title": "Количество проведенных административных расследований в отношении объектов контроля (точек розничных продаж)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoafourafive/data-2022-12-29-structure-2022-12-29.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoafiveasevenaone",
+        "title": "Количество проведенных выездных проверок организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoafiveasevenaone/data-2018-12-24-structure-2018-12-24.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoafiveasixasix",
+        "title": "Количество проведенных выездных проверок организаций и физических лиц",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoafiveasixasix/data-2018-12-24-structure-2018-12-24.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoafiveasixaeight",
+        "title": "Количество проведенных выездных проверок организаций и физических лиц, выявивших нарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoafiveasixaeight/data-2018-12-24-structure-2018-12-24.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoafiveasevenatwo",
+        "title": "Количество проведенных выездных проверок организаций, выявивших нарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoafiveasevenatwo/data-2018-12-24-structure-2018-12-24.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaoneasevenanine",
+        "title": "Количество проведенных камеральных проверок",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaoneasevenanine/data-2018-12-24-structure-2018-12-24.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoafiveasixathree",
+        "title": "Количество проведенных камеральных проверок, выявивших нарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoafiveasixathree/data-2018-12-24-structure-2018-12-24.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoafourasix",
+        "title": "Количество проведенных контрольных (надзорных) мероприятий в отношении объектов контроля (точек розничных продаж)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoafourasix/data-2023-06-29-structure-2023-06-29.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoafourafour",
+        "title": "Количество проведенных проверок по формам таможенного контроля",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoafourafour/data-2022-12-29-structure-2022-12-29.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneaoneanine",
+        "title": "Количество проведенных проверок соблюдения земельного законодательства госземинспекторами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneaoneanine/data-2018-11-23-structure-2018-11-23.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoafourathree",
+        "title": "Количество проведенных профилактических мероприятий в отношении объектов контроля (точек розничных продаж)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoafourathree/data-2022-12-29-structure-2022-12-29.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoatwoazero",
+        "title": "Количество проверок, проводимых с привлечением экспертных организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoatwoazero/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoatwoathree",
+        "title": "Количество проверок, предусмотренных ежегодным планом проведения проверок",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoatwoathree/data-2017-12-18-structure-2017-12-18.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafourazero",
+        "title": "Количество проверок, предусмотренных ежегодным планом проведения проверок на отчетный год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafourazero/data-2016-03-15-structure-2016-03-15.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasevenatwoaseven",
+        "title": "Количество проверок, проведённых в отношении юридических лиц, индивидуальных предпринимателей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasevenatwoaseven/data-2019-04-10-structure-2019-04-10.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoatwoasix",
+        "title": "Количество проверок, проведенных с нарушением требований законодательства о порядке их проведения, по результатам выявления которых к должностным лицам органов государственного контроля (надзора) и муниципального контроля применены меры дисциплинарного наказания",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoatwoasix/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoafourathree",
+        "title": "Количество проверок, проведенных совместно с другими органами государственного контроля (надзора)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoafourathree/data-2018-01-20-structure-2018-01-20.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoaoneanine",
+        "title": "Количество проверок, проводимых с привлечением экспертов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoaoneanine/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoatwoaseven",
+        "title": "Количество проверок, результаты которых были признаны недействительными",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoatwoaseven/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafouraone",
+        "title": "Количество проверок, результаты которых были признаны недействительными",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafouraone/data-2013-08-27-structure-2013-08-27.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaoneaeightanine",
+        "title": "Количество проверок, результаты которых были признаны недействительными",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaoneaeightanine/data-2023-05-12-structure-2023-05-12.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneaoneafive",
+        "title": "Количество протоколов, оформленных и переданных на рассмотрение по нарушениям земельного законодательства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneaoneafive/data-2017-11-30-structure-2017-11-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafouraoneazero",
+        "title": "Количество протоколов, оформленных и переданных на рассмотрение по нарушениям против порядка управления, государственной власти и общественного порядка",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafouraoneazero/data-2017-11-21-structure-2017-11-21.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightanineanine",
+        "title": "Количество рассмотренных гражданских дел в апелляционном порядке районными судами (до 2012 года)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightanineanine/data-2015-02-17-structure-2015-02-17.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightanineaseven",
+        "title": "Количество рассмотренных гражданских и административных дел в апелляционном (до 2012 года в кассационном) порядке",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightanineaseven/data-2021-10-18-structure-2021-10-18.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneanineazeroaone",
+        "title": "Количество рассмотренных гражданских и административных дел по первой инстанции",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneanineazeroaone/data-2021-10-14-structure-2021-10-14.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightanineafive",
+        "title": "Количество рассмотренных гражданских, административных дел в кассационном и надзорном порядках",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightanineafive/data-2021-10-14-structure-2021-10-14.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightanineafour",
+        "title": "Количество рассмотренных дел об административных правонарушениях по первой инстанции",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightanineafour/data-2021-10-14-structure-2021-10-14.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightanineathree",
+        "title": "Количество рассмотренных дел по жалобам и протестам на не вступившие в законную силу постановления по делам об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightanineathree/data-2021-10-14-structure-2021-10-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafourathreeaone",
+        "title": "Количество рассмотренных заявлений о досудебном урегулировании споров и тарифных разногласий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafourathreeaone/data-2019-01-29-structure-2019-01-29.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightanineaeight",
+        "title": "Количество рассмотренных уголовных дел в апелляционном (до 2013 года в кассационном) порядке",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightanineaeight/data-2021-10-14-structure-2021-10-14.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneanineazeroazero",
+        "title": "Количество рассмотренных уголовных дел в апелляционном порядке районными судами (до 2013 года)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneanineazeroazero/data-2015-02-17-structure-2015-02-17.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightanineasix",
+        "title": "Количество рассмотренных уголовных дел в кассационном и надзорном порядках",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightanineasix/data-2021-10-14-structure-2021-10-14.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneanineazeroatwo",
+        "title": "Количество рассмотренных уголовных дел по первой инстанции",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneanineazeroatwo/data-2021-10-14-structure-2021-10-14.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaeightaoneatwo",
+        "title": "Количество решений об отказе в предоставлении, продлении срока действия, переоформлении, о прекращении действия лицензии, отмененных судом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaeightaoneatwo/data-2020-08-31-structure-2020-08-31.xml"
+    },
+    {
+        "identifier": "7702235133-fouratwoaeightanineaeight",
+        "title": "Количество решений об отказе в предоставлении, продлении срока действия, переоформлении, о прекращении действия лицензии, отмененных судом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7702235133-fouratwoaeightanineaeight/data-2017-07-20-structure-2017-07-20.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeatwoazeroatwo",
+        "title": "Количество решений об отказе в предоставлении, продлении срока действия, переоформлении, о прекращении действия лицензии, отмененных судом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeatwoazeroatwo/data-2013-01-25-structure-2013-01-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveazeroanineathreeatwo",
+        "title": "Количество решений об отказе в предоставлении, продлении срока действия, переоформлении, о прекращении действия лицензии, отмененных судом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveazeroanineathreeatwo/data-2015-07-24-structure-2015-07-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoaeightaone",
+        "title": "Количество решений об отказе в предоставлении, продлении срока действия, переоформлении, о прекращении действия лицензии, отмененных судом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoaeightaone/data-2019-01-17-structure-2019-01-17.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaeightazeroaseven",
+        "title": "Количество решений об отказе в предоставлении, продлении срока действия, переоформлении, о прекращении действия лицензии, отмененных судом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaeightazeroaseven/data-2014-11-28-structure-2014-11-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneazeroafiveaseven",
+        "title": "Количество решений об отказе в предоставлении, продлении срока действия, переоформлении, о прекращении действия лицензии, отмененных судом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneazeroafiveaseven/data-2019-12-03-structure-2019-12-03.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasixanineanine",
+        "title": "Количество решений об отказе в предоставлении, продлении срока действия, переоформлении, о прекращении действия лицензии, отмененных судом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasixanineanine/data-2012-07-24-structure-2012-07-24.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaeightafourafour",
+        "title": "Количество решений об отказе в предоставлении, продлении срока действия, переоформлении, о прекращении действия лицензии, отмененных судом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaeightafourafour/data-2012-08-13-structure-2012-08-13.xml"
+    },
+    {
+        "identifier": "7722377866-fiveaeightasevenafiveatwo",
+        "title": "Количество решений об отказе в предоставлении, продлении срока действия, переоформлении, о прекращении действия лицензии, отмененных судом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7722377866-fiveaeightasevenafiveatwo/data-2019-08-28-structure-2019-08-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasixatwoaeightanine",
+        "title": "Количество решений об отказе в предоставлении, продлении срока действия, переоформлении, о прекращении действия лицензии, отмененных судом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasixatwoaeightanine/data-2018-06-14-structure-2018-06-14.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaoneathreeathree",
+        "title": "Количество решений об отказе в предоставлении, продлении срока действия, переоформлении, о прекращении действия лицензии, отмененных судом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaoneathreeathree/data-2012-10-31-structure-2012-10-31.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeazeroaeightafour",
+        "title": "Количество решений об отказе в предоставлении, продлении срока действия, переоформлении, о прекращении действия лицензии, отмененных судом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeazeroaeightafour/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeaeightatwoanine",
+        "title": "Количество решений об отказе в предоставлении, продлении срока действия, переоформлении, о прекращении действия лицензии, отмененных судом, по данным ФМС России (по 2014 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeaeightatwoanine/data-2017-12-06-structure-2017-12-06.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasevenaeightanine",
+        "title": "Количество решений об отказе в предоставлении, продлении срока действия, переоформлении, о прекращении действия лицензий, отмененных судом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasevenaeightanine/data-2018-09-13-structure-2018-09-13.xml"
+    },
+    {
+        "identifier": "7708234640-fourafourathreeazeroaseven",
+        "title": "Количество решений об отказе в предоставлении, продлении срока действия, переоформления, о прекращении действия лицензии, отмененных судом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafourathreeazeroaseven/data-2014-11-28-structure-2014-11-28.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeathreeanineaseven",
+        "title": "Количество случаев выплат из компенсационного фонда саморегулируемой организации аудиторов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeathreeanineaseven/data-2022-07-06-structure-2022-07-06.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoatwoathree",
+        "title": "Количество тяжких и особо тяжких преступлений, зарегистрированных в отчетном периоде",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoatwoathree/data-2023-07-12-structure-2023-07-12.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaeightathreeafive",
+        "title": "Количество тяжких и особо тяжких преступлений, уголовные дела о которых впервые приостановлены по п.п. 1-3 ч. 1 ст. 208 УПК РФ (остаток нераскрытых тяжких и особо тяжких преступлений), по отношению к 2011 году",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaeightathreeafive/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasevenanine",
+        "title": "Количество уголовных дел, по которым предварительное следствие приостановлено",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasevenanine/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasixanine",
+        "title": "Количество уголовных дел, производство по которым дознавателями приостановлено",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasixanine/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaoneafourafour",
+        "title": "Количество урегулированных трудовых споров при содействии Роструда и органов исполнительной власти субъектов Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaoneafourafour/data-2018-09-17-structure-2018-09-17.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneazeroanine",
+        "title": "Количество устраненных нарушений земельного законодательства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneazeroanine/data-2017-11-30-structure-2017-11-30.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoafouraone",
+        "title": "Количество утвержденных в отчетном периоде документов национальной системы стандартизации в сфере строительства, которые были пересмотрены или в которые были внесены изменения, определяемое по количеству положительных заключений на такие документы профильного технического комитета по стандартизации ТК 465 'Строительство'",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoafouraone/data-2022-02-08-structure-2022-02-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoafourathree",
+        "title": "Количество утвержденных в отчетном периоде сводов правил в сфере строительства, которые были пересмотрены или в которые были внесены изменения, определяемое по количеству приказов Минстроя России об утверждении изменений сводов правил",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoafourathree/data-2022-02-08-structure-2022-02-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoafouraeight",
+        "title": "Количество фактически осуществляющих деятельность по данным ГИС МТ объектов контроля (точек розничных продаж) (по товарной группе «Лекарственные препараты для медицинского применения» – зарегистрированных в системе мониторинга движения лекарственных препаратов для медицинского применения), проверенных в ходе внеплановых контрольных (надзорных) мероприятий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoafouraeight/data-2022-12-29-structure-2022-12-29.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoafouranine",
+        "title": "Количество фактически осуществляющих деятельность по данным ГИС МТ объектов контроля (точек розничных продаж) (по товарной группе «Лекарственные препараты для медицинского применения» – зарегистрированных в системе мониторинга движения лекарственных препаратов для медицинского применения), проверенных в ходе контрольных (надзорных) мероприятий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoafouranine/data-2022-12-29-structure-2022-12-29.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaoneaeightafive",
+        "title": "Количество фактов изъятия наркотических средств и психотропных веществ в значительном количестве (по классификации УНП ООН) по данным ФСКН России (по 2015 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaoneaeightafive/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fourafourafourasevenathree",
+        "title": "Количество хозяйствующих субъектов, в которых выявлены нарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafourafourasevenathree/data-2019-07-09-structure-2019-07-09.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoaoneaeight",
+        "title": "Количество штатных единиц по должностям, предусматривающим выполнение функций по контролю (надзору)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoaoneaeight/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaeightazeroaseven",
+        "title": "Наличие независимых национальных правозащитных институтов, действующих в соответствии с Парижскими принципами (16.a.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaeightazeroaseven/data-2023-01-24-structure-2023-01-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneasixafive",
+        "title": "Общая площадь уничтоженных незаконно выращенных посевов наркосодержащих растений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneasixafive/data-2023-04-03-structure-2023-04-03.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafouratwoatwo",
+        "title": "Общая площадь уничтоженных незаконно выращенных посевов наркосодержащих растений по данным ФСКН России (по 2015 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafouratwoatwo/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneasixasix",
+        "title": "Общая площадь уничтоженных очагов произрастания дикорастущих наркосодержащих растений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneasixasix/data-2023-04-03-structure-2023-04-03.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafouratwoazero",
+        "title": "Общая площадь уничтоженных очагов произрастания дикорастущих наркосодержащих растений по данным ФСКН России (по 2015 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafouratwoazero/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoathreeatwo",
+        "title": "Общая сумма наложенных административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoathreeatwo/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenasixazero",
+        "title": "Общая сумма наложенных административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenasixazero/data-2013-08-15-structure-2013-08-15.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaeightafouraeight",
+        "title": "Общая сумма наложенных административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaeightafouraeight/data-2012-08-13-structure-2012-08-13.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroanineatwoanine",
+        "title": "Общая сумма наложенных административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroanineatwoanine/data-2013-07-12-structure-2013-07-12.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneathreeasixanine",
+        "title": "Общая сумма наложенных административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneathreeasixanine/data-2021-07-20-structure-2021-07-20.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafouraoneasix",
+        "title": "Общая сумма наложенных административных штрафов по данным ФСКН России (по 2015 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafouraoneasix/data-2017-12-06-structure-2017-12-06.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeazeroaeight",
+        "title": "Общая сумма наложенных территориальными органами Роспотребнадзора административных штрафов за нарушения, выявленные в детских и подростковых летних оздоровительных учреждениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeazeroaeight/data-2014-06-19-structure-2014-06-19.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeafourafive",
+        "title": "Общая сумма наложенных штрафов за нарушения норм и правил торговли на розничных рынках",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeafourafive/data-2019-06-21-structure-2019-06-21.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoathreeaone",
+        "title": "Общая сумма уплаченных (взысканных) административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoathreeaone/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenafiveanine",
+        "title": "Общая сумма уплаченных (взысканных) административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenafiveanine/data-2013-08-15-structure-2013-08-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeafouraeight",
+        "title": "Общая сумма штрафов за нарушения норм и правил торговли",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeafouraeight/data-2019-06-05-structure-2019-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoafourazero",
+        "title": "Общее время проведения проверок, в рабочих днях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoafourazero/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenasixaone",
+        "title": "Общее количество административных наказаний, наложенных по итогам проверок",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenasixaone/data-2013-08-15-structure-2013-08-15.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoazeroasevenasix",
+        "title": "Общее количество административных наказаний, наложенных по итогам проверок",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoazeroasevenasix/data-2020-08-30-structure-2020-08-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenathreeatwoanine",
+        "title": "Общее количество административных наказаний, наложенных по итогам проверок в части государственного контроля (надзора)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenathreeatwoanine/data-2017-08-21-structure-2017-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenathreeatwoafour",
+        "title": "Общее количество административных наказаний, наложенных по итогам проверок в части лицензионного контроля",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenathreeatwoafour/data-2017-08-21-structure-2017-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-threeanineasixaeightaseven",
+        "title": "Общее количество административных наказаний, наложенных по итогам проверок соблюдения трудового законодательства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeanineasixaeightaseven/data-2019-09-02-structure-2019-09-02.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoathreeathree",
+        "title": "Общее количество административных наказаний, наложенных по итогам проверок, административных расследований - всего",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoathreeathree/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoasixanine",
+        "title": "Общее количество административных наказаний, наложенных по итогам проверок, административных расследований",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoasixanine/data-2012-01-23-structure-2012-01-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneathreeasevenatwo",
+        "title": "Общее количество административных расследований",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneathreeasevenatwo/data-2018-03-29-structure-2018-03-29.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneathreeasevenazero",
+        "title": "Общее количество административных расследований, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneathreeasevenazero/data-2018-01-12-structure-2018-01-12.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafourathree",
+        "title": "Общее количество внеплановых проверок",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafourathree/data-2012-02-14-structure-2012-02-14.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaoneanineazero",
+        "title": "Общее количество внеплановых проверок, основания для проведения которых не подтвердились",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaoneanineazero/data-2023-05-12-structure-2023-05-12.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoatwoaeight",
+        "title": "Общее количество внеплановых проверок, основания для проведения которых не подтвердились",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoatwoaeight/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoafouraone",
+        "title": "Общее количество выездных проверок",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoafouraone/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafourafourafour",
+        "title": "Общее количество выездных проверок",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafourafourafour/data-2023-05-12-structure-2023-05-12.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafourafouraseven",
+        "title": "Общее количество документарных проверок",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafourafouraseven/data-2023-05-12-structure-2023-05-12.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoafouratwo",
+        "title": "Общее количество документарных проверок",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoafouratwo/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaeightaoneafive",
+        "title": "Общее количество зданий, помещений арбитражных судов, кассационных и апелляционных судов общей юрисдикции, кассационного и апелляционного военных судов, окружных (флотских) военных судов, верховных судов республик, краевых и областных судов, судов городов федерального значения, судов автономной области и автономных округов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaeightaoneafive/data-2021-10-27-structure-2021-10-27.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeathreeasixasix",
+        "title": "Общее количество исполненных заявок на обеспечение безопасности судей и участников судебного процесса в судебных заседаниях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeathreeasixasix/data-2021-10-28-structure-2021-10-28.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeathreeasevenafive",
+        "title": "Общее количество исполнительных производств, находившихся на исполнении в отчетном периоде",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeathreeasevenafive/data-2021-10-28-structure-2021-10-28.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenafouraseven",
+        "title": "Общее количество исполнительных производств, оконченных в связи с заменой штрафа другим видом наказания или отменой наказания в виде штрафа, со смертью должника-осужденного или объявлением его умершим",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenafouraseven/data-2021-10-28-structure-2021-10-28.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightaeightaseven",
+        "title": "Общее количество лиц, осужденных за преступления, связанные с незаконным оборотом наркотических средств, психотропных и сильнодействующих веществ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightaeightaseven/data-2021-10-18-structure-2021-10-18.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenafouratwo",
+        "title": "Общее количество лиц, подлежащих приводу по постановлениям суда (судей)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenafouratwo/data-2021-10-28-structure-2021-10-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeathreeanineafive",
+        "title": "Общее количество наложенных административных штрафов по данным ФМС России (по 2014 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeathreeanineafive/data-2017-12-06-structure-2017-12-06.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeazeroasevenaseven",
+        "title": "Общее количество наложенных административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeazeroasevenaseven/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaeightanineaone",
+        "title": "Общее количество наложенных административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaeightanineaone/data-2017-06-05-structure-2017-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasixatwoanineazero",
+        "title": "Общее количество наложенных административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasixatwoanineazero/data-2018-05-30-structure-2018-05-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaoneathreeanine",
+        "title": "Общее количество наложенных административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaoneathreeanine/data-2020-02-14-structure-2020-02-14.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroathreeatwoanine",
+        "title": "Общее количество наложенных административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroathreeatwoanine/data-2012-10-30-structure-2012-10-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveazeroanineaoneatwo",
+        "title": "Общее количество наложенных административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveazeroanineaoneatwo/data-2017-06-06-structure-2017-06-06.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaeightaeightafive",
+        "title": "Общее количество наложенных административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaeightaeightafive/data-2016-04-05-structure-2016-04-05.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasevenazeroanine",
+        "title": "Общее количество наложенных административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasevenazeroanine/data-2023-08-29-structure-2023-08-29.xml"
+    },
+    {
+        "identifier": "7702235133-fouratwoanineazeroatwo",
+        "title": "Общее количество наложенных административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7702235133-fouratwoanineazeroatwo/data-2013-02-28-structure-2013-02-28.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasixatwoatwo",
+        "title": "Общее количество наложенных административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasixatwoatwo/data-2012-05-30-structure-2012-05-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneazeroasevenasix",
+        "title": "Общее количество наложенных административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneazeroasevenasix/data-2019-12-03-structure-2019-12-03.xml"
+    },
+    {
+        "identifier": "7722377866-fiveaeightasevenafiveasix",
+        "title": "Общее количество наложенных административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7722377866-fiveaeightasevenafiveasix/data-2019-08-28-structure-2019-08-28.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaeightazeroafive",
+        "title": "Общее количество обеспеченных охраной в круглосуточном режиме зданий, помещений арбитражных судов, кассационных и апелляционных судов общей юрисдикции, кассационного и апелляционного военных судов, окружных (флотских) военных судов, верховных судов республик, краевых и областных судов, судов городов федерального значения, судов автономной области и автономных округов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaeightazeroafive/data-2021-10-27-structure-2021-10-27.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeathreeasixaeight",
+        "title": "Общее количество обеспеченных охраной зданий судов и судебных участков мировых судей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeathreeasixaeight/data-2021-10-28-structure-2021-10-28.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeathreeasevenathree",
+        "title": "Общее количество оконченных и прекращенных исполнительных производств в отчетном периоде",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeathreeasevenathree/data-2021-10-28-structure-2021-10-28.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightanineaone",
+        "title": "Общее количество осужденных лиц по всем составам Уголовного кодекса Российской Федерации (по вступившим в законную силу приговорам)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightanineaone/data-2021-10-18-structure-2021-10-18.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeathreeasixaseven",
+        "title": "Общее количество осуществленных приводов в суды по постановлениям судей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeathreeasixaseven/data-2021-10-28-structure-2021-10-28.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaeightazeroaeight",
+        "title": "Общее количество плановых и внеплановых контрольных (надзорных) мероприятий, проведенных в отношении контролируемых лиц в отчетном периоде",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaeightazeroaeight/data-2021-10-27-structure-2021-10-27.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafourafour",
+        "title": "Общее количество плановых проверок",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafourafour/data-2012-02-14-structure-2012-02-14.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroanineatwoaeight",
+        "title": "Общее количество предписаний, по результатам проведения проверок, административных расследований",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroanineatwoaeight/data-2013-07-12-structure-2013-07-12.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaeightaoneafour",
+        "title": "Общее количество принятых судами к рассмотрению заявлений, административных исковых заявлений об оспаривании постановлений, действий (бездействия) должностных лиц ФССП России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaeightaoneafour/data-2021-10-27-structure-2021-10-27.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafourafive",
+        "title": "Общее количество проверок",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafourafive/data-2012-02-14-structure-2012-02-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneaeightanine",
+        "title": "Общее количество проверок в отношении субъектов Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneaeightanine/data-2022-02-12-structure-2022-02-12.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneanineazero",
+        "title": "Общее количество проверок в отношении субъектов Российской Федерации, по итогам проведения которых выявлены нарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneanineazero/data-2022-02-12-structure-2022-02-12.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneanineaone",
+        "title": "Общее количество проверок в отношении субъектов Российской Федерации, по итогам проведения которых по фактам выявленных нарушений возбуждены дела об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneanineaone/data-2022-02-12-structure-2022-02-12.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaeightanineatwo",
+        "title": "Общее количество проверок по итогам проведения которых по фактам выявленных нарушений возбуждены дела об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaeightanineatwo/data-2017-06-05-structure-2017-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeaeightafiveazero",
+        "title": "Общее количество проверок по итогам проведения которых по фактам выявленных нарушений возбуждены дела об административных правонарушениях, по данным ФМС России (по 2014 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeaeightafiveazero/data-2017-12-06-structure-2017-12-06.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaeightaeightaseven",
+        "title": "Общее количество проверок, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaeightaeightaseven/data-2016-08-11-structure-2016-08-11.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoasevenatwo",
+        "title": "Общее количество проверок, административных расследований, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoasevenatwo/data-2012-01-23-structure-2012-01-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoathreeaeight",
+        "title": "Общее количество проверок, административных расследований, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoathreeaeight/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoatwoanine",
+        "title": "Общее количество проверок, административных расследований, по итогам проведения которых не выявлено правонарушений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoatwoanine/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoathreeafour",
+        "title": "Общее количество проверок, административных расследований, по итогам проведения которых по фактам выявленных нарушений возбуждены дела об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoathreeafour/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoasevenazero",
+        "title": "Общее количество проверок, административных расследований, по итогам проведения которых по фактам выявленных нарушений возбуждены дела об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoasevenazero/data-2012-01-23-structure-2012-01-23.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenathreeatwoasix",
+        "title": "Общее количество проверок, в части государственного контроля (надзора), по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenathreeatwoasix/data-2017-08-21-structure-2017-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenathreeatwoaeight",
+        "title": "Общее количество проверок, в части государственного контроля (надзора), по итогам проведения которых по фактам выявленных нарушений возбуждены дела об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenathreeatwoaeight/data-2017-08-21-structure-2017-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenathreeatwoafive",
+        "title": "Общее количество проверок, в части государственного контроля (надзора), проведенных в отношении юридических лиц, индивидуальных предпринимателей, проводимых с привлечением экспертов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenathreeatwoafive/data-2017-08-21-structure-2017-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenathreeatwoaone",
+        "title": "Общее количество проверок, в части лицензионного контроля, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenathreeatwoaone/data-2017-08-21-structure-2017-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenathreeatwoathree",
+        "title": "Общее количество проверок, в части лицензионного контроля, по итогам проведения которых по фактам выявленных нарушений возбуждены дела об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenathreeatwoathree/data-2017-08-21-structure-2017-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenathreeatwoazero",
+        "title": "Общее количество проверок, в части лицензионного контроля, проведенных в отношении юридических лиц, индивидуальных предпринимателей, проводимых с привлечением экспертов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenathreeatwoazero/data-2017-08-21-structure-2017-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaeightafouranine",
+        "title": "Общее количество проверок, по итогам которых по фактам выявленных нарушений наложены административные наказания",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaeightafouranine/data-2012-08-13-structure-2012-08-13.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaeightafiveaone",
+        "title": "Общее количество проверок, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaeightafiveaone/data-2012-08-13-structure-2012-08-13.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasixatwoafive",
+        "title": "Общее количество проверок, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasixatwoafive/data-2012-05-30-structure-2012-05-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenasixathree",
+        "title": "Общее количество проверок, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenasixathree/data-2013-08-15-structure-2013-08-15.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneazeroafiveafive",
+        "title": "Общее количество проверок, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneazeroafiveafive/data-2019-12-03-structure-2019-12-03.xml"
+    },
+    {
+        "identifier": "7708234640-fiveazeroanineaoneathree",
+        "title": "Общее количество проверок, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveazeroanineaoneathree/data-2017-06-06-structure-2017-06-06.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneathreeasevenaone",
+        "title": "Общее количество проверок, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneathreeasevenaone/data-2021-07-20-structure-2021-07-20.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafouraeightatwo",
+        "title": "Общее количество проверок, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafouraeightatwo/data-2023-09-11-structure-2023-09-11.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafouratwo",
+        "title": "Общее количество проверок, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafouratwo/data-2012-02-14-structure-2012-02-14.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoazeroasevenazero",
+        "title": "Общее количество проверок, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoazeroasevenazero/data-2020-08-30-structure-2020-08-30.xml"
+    },
+    {
+        "identifier": "7702235133-fouratwoanineazeroafive",
+        "title": "Общее количество проверок, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7702235133-fouratwoanineazeroafive/data-2012-11-29-structure-2012-11-29.xml"
+    },
+    {
+        "identifier": "7722377866-fiveaeightasevenafouranine",
+        "title": "Общее количество проверок, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7722377866-fiveaeightasevenafouranine/data-2019-08-28-structure-2019-08-28.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaeightanineafour",
+        "title": "Общее количество проверок, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaeightanineafour/data-2017-06-05-structure-2017-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasixatwoaeightafour",
+        "title": "Общее количество проверок, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasixatwoaeightafour/data-2018-06-01-structure-2018-06-01.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaoneathreeazero",
+        "title": "Общее количество проверок, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaoneathreeazero/data-2020-02-14-structure-2020-02-14.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeazeroaeightazero",
+        "title": "Общее количество проверок, по итогам проведения которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeazeroaeightazero/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeazeroasevenaeight",
+        "title": "Общее количество проверок, по итогам проведения которых по фактам выявленных нарушений возбуждены дела об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeazeroasevenaeight/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaoneathreeaeight",
+        "title": "Общее количество проверок, по итогам проведения которых по фактам выявленных нарушений возбуждены дела об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaoneathreeaeight/data-2020-02-14-structure-2020-02-14.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroathreeathreeathree",
+        "title": "Общее количество проверок, по итогам проведения которых по фактам выявленных нарушений возбуждены дела об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroathreeathreeathree/data-2012-10-30-structure-2012-10-30.xml"
+    },
+    {
+        "identifier": "7702235133-fouratwoanineazeroathree",
+        "title": "Общее количество проверок, по итогам проведения которых по фактам выявленных нарушений возбуждены дела об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7702235133-fouratwoanineazeroathree/data-2012-11-29-structure-2012-11-29.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoazeroasevenatwo",
+        "title": "Общее количество проверок, по итогам проведения которых по фактам выявленных нарушений возбуждены дела об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoazeroasevenatwo/data-2020-08-30-structure-2020-08-30.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafouraeightaone",
+        "title": "Общее количество проверок, по итогам проведения которых по фактам выявленных нарушений возбуждены дела об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafouraeightaone/data-2023-09-11-structure-2023-09-11.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaeightaeightasix",
+        "title": "Общее количество проверок, по итогам проведения которых по фактам выявленных нарушений возбуждены дела об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaeightaeightasix/data-2016-08-11-structure-2016-08-11.xml"
+    },
+    {
+        "identifier": "7708234640-fiveazeroanineaoneaone",
+        "title": "Общее количество проверок, по итогам проведения которых по фактам выявленных нарушений возбуждены дела об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveazeroanineaoneaone/data-2017-06-06-structure-2017-06-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneazeroasixafour",
+        "title": "Общее количество проверок, по итогам проведения которых по фактам выявленных нарушений возбуждены дела об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneazeroasixafour/data-2020-03-04-structure-2020-03-04.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasixatwoathree",
+        "title": "Общее количество проверок, по итогам проведения которых по фактам выявленных нарушений возбуждены дела об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasixatwoathree/data-2012-05-30-structure-2012-05-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenasixatwo",
+        "title": "Общее количество проверок, по итогам проведения которых по фактам выявленных нарушений наложены административные наказания",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenasixatwo/data-2013-08-15-structure-2013-08-15.xml"
+    },
+    {
+        "identifier": "7722377866-fiveaeightasevenafiveaseven",
+        "title": "Общее количество проверок, по итогам проведения которых по фактам выявленных правонарушений возбуждены дела об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7722377866-fiveaeightasevenafiveaseven/data-2019-08-28-structure-2019-08-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasixatwoanineathree",
+        "title": "Общее количество проверок, по итогам проведения которых по фактам выявленных правонарушений возбуждены дела об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasixatwoanineathree/data-2018-06-01-structure-2018-06-01.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaeightazeroaseven",
+        "title": "Общее количество протоколов об административных правонарушениях в сфере деятельности по возврату просроченной задолженности, составленных по результатам контрольных (надзорных) мероприятий, проведенных в отношении контролируемых лиц в отчетном периоде",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaeightazeroaseven/data-2021-10-27-structure-2021-10-27.xml"
+    },
+    {
+        "identifier": "7708234640-fourafiveaoneafourafive",
+        "title": "Общее количество уголовных дел, направленных в суд дознавателями ФССП России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafiveaoneafourafive/data-2021-10-28-structure-2021-10-28.xml"
+    },
+    {
+        "identifier": "7708234640-fourafiveaoneafourafour",
+        "title": "Общее количество уголовных дел, по которым судами вынесены оправдательные приговоры и постановления о прекращении уголовных дел по реабилитирующим основаниям",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafiveaoneafourafour/data-2021-10-28-structure-2021-10-28.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaeightaoneathree",
+        "title": "Общее количество удовлетворенных судами заявлений, административных исковых заявлений об оспаривании постановлений, действий (бездействия) должностных лиц ФССП России в текущем отчетном периоде",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaeightaoneathree/data-2021-10-27-structure-2021-10-27.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoatwoafour",
+        "title": "Общее количество юридических лиц и индивидуальных предпринимателей, в отношении которых проводились плановые, внеплановые проверки",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoatwoafour/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneathreeasevenafive",
+        "title": "Общее количество юридических лиц и индивидуальных предпринимателей, в отношении которых проводились плановые, внеплановые проверки",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneathreeasevenafive/data-2022-02-11-structure-2022-02-11.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafouraoneaseven",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в отношении которых в ходе проведения проверок, административных расследований выявлены правонарушения, по данным ФСКН России (по 2015 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafouraoneaseven/data-2017-12-06-structure-2017-12-06.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneathreeasevenafour",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneathreeasevenafour/data-2022-02-11-structure-2022-02-11.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenathreeatwoaseven",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок (в части государственного контроля (надзора) в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenathreeatwoaseven/data-2017-08-21-structure-2017-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenathreeatwoatwo",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок (в части лицензионного контроля), в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenathreeatwoatwo/data-2017-08-21-structure-2017-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveazeroanineaoneafour",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveazeroanineaoneafour/data-2015-07-21-structure-2015-07-21.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaeightaeightaeight",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaeightaeightaeight/data-2016-08-11-structure-2016-08-11.xml"
+    },
+    {
+        "identifier": "7702235133-fouratwoanineazeroafour",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7702235133-fouratwoanineazeroafour/data-2012-11-29-structure-2012-11-29.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoazeroasixathree",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoazeroasixathree/data-2020-08-30-structure-2020-08-30.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoathreeanine",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoathreeanine/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaeightafiveazero",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaeightafiveazero/data-2012-08-13-structure-2012-08-13.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneazeroasixathree",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneazeroasixathree/data-2019-12-03-structure-2019-12-03.xml"
+    },
+    {
+        "identifier": "7722377866-fiveaeightasevenafiveaeight",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7722377866-fiveaeightasevenafiveaeight/data-2019-08-28-structure-2019-08-28.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeazeroasevenanine",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeazeroasevenanine/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaoneathreeaseven",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaoneathreeaseven/data-2020-02-14-structure-2020-02-14.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaeightanineathree",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaeightanineathree/data-2017-06-05-structure-2017-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasixatwoanineatwo",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasixatwoanineatwo/data-2018-06-01-structure-2018-06-01.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeathreeanineathree",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок в отношении которых выявлены правонарушения, по данным ФМС России (по 2014 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeathreeanineathree/data-2017-12-06-structure-2017-12-06.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaoneafourafive",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок которых выявлены нарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaoneafourafive/data-2012-10-31-structure-2012-10-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneathreeazeroathree",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок, административных расследований в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneathreeazeroathree/data-2012-07-25-structure-2012-07-25.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoasevenathree",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок, административных расследований, в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoasevenathree/data-2012-01-23-structure-2012-01-23.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafouraeightathree",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок, в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafouraeightathree/data-2023-08-29-structure-2023-08-29.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasixatwoafour",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, в ходе проведения проверок, в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasixatwoafour/data-2012-05-30-structure-2012-05-30.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneathreeasevenasix",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, осуществляющих деятельность на территории Российской Федерации, соответствующего субъекта Российской Федерации, соответствующего муниципального образования, деятельность которых подлежит государственному контролю (надзору), муниципальному контролю со стороны контрольного органа",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneathreeasevenasix/data-2022-02-11-structure-2022-02-11.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneathreeazeroafour",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей, осуществляющих деятельность на территории Российской Федерации, соответствующего субъекта Российской Федерации, соответствующего муниципального образования, деятельность которых подлежит государственному контролю (надзору), муниципальному контролю со стороны контрольного органа",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneathreeazeroafour/data-2012-01-16-structure-2012-01-16.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenasixafour",
+        "title": "Общее количество юридических лиц, индивидуальных предпринимателей,в ходе проведения проверок в отношении которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenasixafour/data-2013-08-15-structure-2013-08-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeafourasix",
+        "title": "Общее число вынесенных постановлений о наложении штрафных санкций за нарушения норм и правил торговли на розничных рынках",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeafourasix/data-2019-06-21-structure-2019-06-21.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeafouranine",
+        "title": "Общее число наложенных административных штрафов (полномочными органами) за нарушения норм и правил торговли",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeafouranine/data-2019-06-05-structure-2019-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeazeroanine",
+        "title": "Общее число наложенных территориальными органами Роспотребнадзора административных штрафов за нарушения, выявленные в детских и подростковых летних оздоровительных учреждениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeazeroanine/data-2014-06-19-structure-2014-06-19.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeafiveazero",
+        "title": "Общее число проверок организаций, предприятий и индивидуальных предпринимателей, осуществляющих деятельность без образования юридического лица, в ходе которых выявлены нарушения норм и правил торговли",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeafiveazero/data-2019-06-21-structure-2019-06-21.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoafouraseven",
+        "title": "Объем изъятой из оборота продукции",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoafouraseven/data-2023-06-30-structure-2023-06-30.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasevenafour",
+        "title": "Остаток неоконченных дел, находившихся в производстве дознавателей, на начало отчетного периода",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasevenafour/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightaeightafour",
+        "title": "Остаток неоконченных дел, находившихся в производстве следователей, на начало отчетного периода",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightaeightafour/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightazeroasevenasix",
+        "title": "Отказано во внесении сведений об арбитражном управляющем в СГРАУ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightazeroasevenasix/data-2020-12-11-structure-2020-12-11.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneaoneaeight",
+        "title": "Площадь, на которой проведены проверки соблюдения земельного законодательства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneaoneaeight/data-2018-11-23-structure-2018-11-23.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightafouranine",
+        "title": "Размер причиненного материального ущерба по оконченным и приостановленным уголовным делам, материалам об отказе в возбуждении уголовного дела",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightafouranine/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneanineafive",
+        "title": "Разыскивалось лиц, скрывшихся от органов дознания, следствия, суда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneanineafive/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneazeroasix",
+        "title": "Сведения о количестве отмененных ранее принятых решений (за предыдущий и отчетный периоды) о наложении штрафных санкций вышестоящими должностными лицами и судами (за нарушения земельного законодательства, нарушения против порядка управления, государственной власти и общественного порядка)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneazeroasix/data-2017-11-30-structure-2017-11-30.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoaoneazeroasix",
+        "title": "Снижение времени реагирования по блокировке распространения фишинговых сайтов, имитирующих работу сайтов органов государственной власти",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoaoneazeroasix/data-2022-06-10-structure-2022-06-10.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourasixaone",
+        "title": "Снижение количества жалоб граждан на действия (бездействие) нотариусов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourasixaone/data-2022-02-16-structure-2022-02-16.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourafiveanine",
+        "title": "Снижение количества жалоб граждан на действия (бездействие) органов, осуществляющих государственную регистрацию актов гражданского состояния",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourafiveanine/data-2022-02-16-structure-2022-02-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoaoneazeroaseven",
+        "title": "Снижение количества звонков, осуществляемых в целях совершения мошеннических действий в сети связи общего пользования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoaoneazeroaseven/data-2022-06-10-structure-2022-06-10.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoaoneathreeanine",
+        "title": "Снижение ущерба экономике страны от мошеннических действий при идентификации в различных сервисах",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoaoneathreeanine/data-2023-10-12-structure-2023-10-12.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoazeroathree",
+        "title": "Содержалось несовершеннолетних в ЦВСНП (количество)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoazeroathree/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoaoneafourazero",
+        "title": "Сокращение расходов представителей бизнеса на проверку и обработку данных на 1 млрд. очных обращений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoaoneafourazero/data-2023-10-12-structure-2023-10-12.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneaoneazero",
+        "title": "Сумма взысканных штрафов за нарушения земельного законодательства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneaoneazero/data-2017-11-30-structure-2017-11-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafouraoneafour",
+        "title": "Сумма взысканных штрафов за нарушения против порядка управления, государственной власти и общественного порядка",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafouraoneafour/data-2017-11-21-structure-2017-11-21.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafiveaoneafive",
+        "title": "Сумма наложенного штрафа",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafiveaoneafive/data-2022-04-01-structure-2022-04-01.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneaoneaone",
+        "title": "Сумма наложенных штрафов за нарушения земельного законодательства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneaoneaone/data-2017-11-30-structure-2017-11-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafouraoneathree",
+        "title": "Сумма наложенных штрафов за нарушения против порядка управления, государственной власти и общественного порядка",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafouraoneathree/data-2017-11-21-structure-2017-11-21.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneazeroafive",
+        "title": "Сумма отмененных административных штрафов (за предыдущий и отчетный периоды) о наложении штрафных санкций вышестоящими должностными лицами и судами (за нарушения земельного законодательства, нарушения против порядка управления, государственной власти и общественного порядка)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneazeroafive/data-2017-11-30-structure-2017-11-30.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasevenatwoafive",
+        "title": "Сумма уплаченных (взысканных) административных штрафов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasevenatwoafive/data-2019-04-11-structure-2019-04-11.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightaeightasix",
+        "title": "Сумма ущерба от преступлений, определенных судебными актами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightaeightasix/data-2021-10-18-structure-2021-10-18.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaeightafouratwo",
+        "title": "Удельный вес возмещенного ущерба от фактически причиненного по уголовным делам, оконченным дознавателями,%",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaeightafouratwo/data-2019-10-18-structure-2019-10-18.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaeightafourathree",
+        "title": "Удельный вес возмещенного ущерба от фактически причиненного по уголовным делам, оконченным следователями,%",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaeightafourathree/data-2019-10-18-structure-2019-10-18.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaeightafourazero",
+        "title": "Удельный вес уголовных дел, возвращенных для дополнительного расследования либо пересоставления обвинительного акта, от числа направленных дознавателями прокурору с обвинительным актом,%",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaeightafourazero/data-2019-10-18-structure-2019-10-18.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaeightafouraone",
+        "title": "Удельный вес уголовных дел, возвращенных для дополнительного расследования от числа направленных следователями прокурору с обвинительным заключением, постановлением о применении принудительных мер медицинского характера ,%",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaeightafouraone/data-2018-09-25-structure-2018-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafouraoneaone",
+        "title": "Удельный вес устраненных нарушений в общем количестве выявленных нарушений по вопросам соблюдения трудовых прав работников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafouraoneaone/data-2019-11-05-structure-2019-11-05.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroathreeaoneazero",
+        "title": "Удовлетворенность пользователей отработкой заявок по снижению административно-правовых барьеров",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroathreeaoneazero/data-2020-06-11-structure-2020-06-11.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneanineathree",
+        "title": "Установлено лиц из числа находившихся в розыске",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneanineathree/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneanineatwo",
+        "title": "Установлено лиц из числа находившихся в розыске, скрывшихся от органов дознания, следствия, суда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneanineatwo/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneanineaone",
+        "title": "Установлено пропавших без вести лиц из числа находившихся в розыске",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneanineaone/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeanineafiveathreeaone",
+        "title": "Утраты и хищения почтовых отправлений, количество",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeanineafiveathreeaone/data-2020-09-22-structure-2020-09-22.xml"
+    },
+    {
+        "identifier": "7708234640-threeanineafiveathreeazero",
+        "title": "Утраты и хищения почтовых отправлений, сумма",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeanineafiveathreeazero/data-2020-09-22-structure-2020-09-22.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveazeroathreeaeight",
+        "title": "Фактическое наличие судов в годном техническом состоянии на ВВТ РФ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveazeroathreeaeight/data-2021-04-09-structure-2021-04-09.xml"
+    },
+    {
+        "identifier": "7706562710-sixatwoafourafiveafive",
+        "title": "Численность несовершеннолетних осужденных, состоящих на учете в уголовно-исполнительных инспекциях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706562710-sixatwoafourafiveafive/data-2023-07-27-structure-2023-07-27.xml"
+    },
+    {
+        "identifier": "7708234640-fourafourazeroaeightaseven",
+        "title": "Численность работников в органах исполнительной власти субъекта Российской Федерации на 10 тысяч человек постоянного населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafourazeroaeightaseven/data-2023-04-12-structure-2023-04-12.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeazeroasix",
+        "title": "Число вынесенных территориальными органами Роспотребнадзора постановлений о направлении в правоохранительные органы материалов для возбуждения уголовных дел о нарушениях, выявленных в детских и подростковых летних оздоровительных учреждениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeazeroasix/data-2014-06-19-structure-2014-06-19.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafiveanineafour",
+        "title": "Число выявленных правонарушений, связанных с незаконным производством и оборотом этилового спирта, алкогольной и спиртосодержащей продукции",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafiveanineafour/data-2022-04-01-structure-2022-04-01.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafiveasevenafour",
+        "title": "Число дел об административных правонарушениях, возбужденных должностными лицами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafiveasevenafour/data-2022-04-01-structure-2022-04-01.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafiveasevenafive",
+        "title": "Число дел об административных правонарушениях, рассмотренных в установленном порядке",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafiveasevenafive/data-2022-12-28-structure-2022-12-28.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixazeroaeight",
+        "title": "Число клиентов, подвергшихся преступным посягательствам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixazeroaeight/data-2012-07-17-structure-2012-07-17.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneasixatwo",
+        "title": "Число лиц, в отношении которых составлены протоколы об административных правонарушениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneasixatwo/data-2023-04-03-structure-2023-04-03.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafouratwoathree",
+        "title": "Число лиц, в отношении которых составлены протоколы об административных правонарушениях, по данным ФСКН России (по 2015 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafouratwoathree/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightanineatwo",
+        "title": "Число лиц, которым было назначено уголовное наказание в виде лишения свободы",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightanineatwo/data-2021-10-15-structure-2021-10-15.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaeightafouraeight",
+        "title": "Число лиц, необоснованно привлеченных к уголовной ответственности (в относительном выражении на 1000 обвиняемых); усл. ед.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaeightafouraeight/data-2019-10-18-structure-2019-10-18.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoasixasix",
+        "title": "Число лиц, потерпевших от преступлений, направленных на умышленное причинение смерти или тяжкого вреда здоровью и повлекших смерть потерпевшего (16.1.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoasixasix/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneasixazero",
+        "title": "Число лиц, совершивших преступления, связанные с незаконным оборотом наркотических средств, психотропных веществ и их прекурсоров или аналогов, сильнодействующих веществ, новых потенциально опасных психоактивных веществ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneasixazero/data-2023-04-03-structure-2023-04-03.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafouratwoasix",
+        "title": "Число лиц, совершивших преступления, связанные с незаконным оборотом наркотических средств, психотропных веществ и их прекурсоров или аналогов, сильнодействующих веществ, по данным ФСКН России (по 2015 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafouratwoasix/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasixaeight",
+        "title": "Число обвиняемых, а также подозреваемых, в отношении которых избиралась мера пресечения и впоследствии производство прекращено дознавателями за отсутствием события, состава преступления либо в связи с непричастностью",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasixaeight/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasevenaeight",
+        "title": "Число обвиняемых, а также подозреваемых, в отношении которых избиралась мера пресечения и впоследствии производство прекращено следователями за отсутствием события, состава преступления либо в связи с непричастностью",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasevenaeight/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasixaseven",
+        "title": "Число оправданных и лиц, дела дознавателей о которых прекращены судом за отсутствием события, состава преступления, а также уголовное преследование прекращено за непричастностью",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasixaseven/data-2023-06-26-structure-2023-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightasevenaseven",
+        "title": "Число оправданных и лиц, дела следователей о которых прекращены судом за отсутствием события, состава преступления, а также уголовное преследование прекращено за непричастностью",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightasevenaseven/data-2023-06-23-structure-2023-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-fourafourafourasevenafour",
+        "title": "Число получивших тяжкие телесные повреждения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafourafourasevenafour/data-2014-06-27-structure-2014-06-27.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneasixazeroaone",
+        "title": "Число проверок по выявлению незаконного производства и оборота этилового спирта, алкогольной и спиртосодержащей продукции , в ходе которых выявлены правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneasixazeroaone/data-2022-04-01-structure-2022-04-01.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourazeroanineazero",
+        "title": "Число проверок по выявлению правонарушений, связанных с незаконным производством и оборотом этилового спирта, алкогольной и спиртосодержащей продукции",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourazeroanineazero/data-2022-04-01-structure-2022-04-01.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourazeroanineatwo",
+        "title": "Число протоколов об административных правонарушениях, составленных по результатам проверок по выявлению незаконного производства и оборота этилового спирта и алкогольной продукции",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourazeroanineatwo/data-2022-04-01-structure-2022-04-01.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroaoneanine",
+        "title": "Число семей лиц, в отношении которых проведено повторное рассмотрение ходатайства в результате обжалования, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroaoneanine/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroaoneaone",
+        "title": "Число семей лиц, ходатайствующих о признании беженцем, обжалующих отрицательные решения, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroaoneaone/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenaeightaeight",
+        "title": "Число тяжких и особо тяжких преступлений, совершенных на улицах, площадях, в парках, скверах, по отношению к 2011 году",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenaeightaeight/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeafouraoneazeroatwo",
+        "title": "Число уголовных дел, возбужденных по результатам проверок по выявлению незаконного производства и оборота этилового спирта, алкогольной и спиртосодержащей продукции",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafouraoneazeroatwo/data-2022-04-01-structure-2022-04-01.xml"
+    },
+    {
+        "identifier": "7708234640-fourafiveasixafouraone",
+        "title": "Штрафы за невыполнение (ненадлежащее выполнение) условий договора о финансовом обеспечении обязательного медицинского страхования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafiveasixafouraone/data-2020-12-29-structure-2020-12-29.xml"
+    }
+]

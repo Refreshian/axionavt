@@ -1,0 +1,26 @@
+[
+    {
+        "identifier": "7708234640-sixaoneazeroatwoafive",
+        "title": "Поступление денежных средств и иного имущества в религиозную организацию",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneazeroatwoafive/data-2023-02-09-structure-2023-02-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneazeroatwoafour",
+        "title": "Распределение количества религиозных организаций по видам деятельности согласно учредительным документам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneazeroatwoafour/data-2023-02-09-structure-2023-02-09.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenafiveathreeazero",
+        "title": "Расходы на благотворительные цели",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenafiveathreeazero/data-2020-12-15-structure-2020-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenasevenanine",
+        "title": "Численность работников парков культуры и отдыха Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenasevenanine/data-2018-10-04-structure-2018-10-04.xml"
+    }
+]

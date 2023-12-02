@@ -1,0 +1,26 @@
+[
+    {
+        "identifier": "7708234640-fiveafiveaoneatwoaseven",
+        "title": "Ассигновано средств на проведение работ по сохранению объектов культурного наследия",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveaoneatwoaseven/data-2015-09-30-structure-2015-09-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveathreeazeroaeight",
+        "title": "Доля изданных за год в Российской Федерации наименований книг, включенных в Национальную библиотеку",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveathreeazeroaeight/data-2016-04-29-structure-2016-04-29.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafourafiveathree",
+        "title": "Доля коммерческой выручки федерального центра компетенций от общего годового объема финансирования деятельности федерального центра компетенций в рамках национального проекта",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafourafiveathree/data-2023-07-27-structure-2023-07-27.xml"
+    },
+    {
+        "identifier": "7710539135-sixaoneaoneaoneatwo",
+        "title": "Доля профессорско-преподавательского состава в возрасте до 39 лет в общей численности профессорско-преподавательского состава (S7)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7710539135-sixaoneaoneaoneatwo/data-2022-02-02-structure-2022-02-02.xml"
+    }
+]

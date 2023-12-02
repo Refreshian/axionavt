@@ -1,0 +1,3020 @@
+[
+    {
+        "identifier": "7708234640-fiveaeightafourafourasix",
+        "title": "Биомасса и численность промыслового запаса водных биологических ресурсов (тыс. тонн, млн. шт.) (14.4.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafourafourasix/data-2018-07-30-structure-2018-07-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveasixanine",
+        "title": "Биотехнические мероприятия по сохранению и воспроизводству охотничьих ресурсов - всего",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveasixanine/data-2020-10-01-structure-2020-10-01.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaeightaeightanine",
+        "title": "Больничная летальность от острого нарушения мозгового кровообращения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaeightaeightanine/data-2021-12-08-structure-2021-12-08.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaeightasixaeight",
+        "title": "Больничная летальность пострадавших в результате дорожно–транспортных происшествий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaeightasixaeight/data-2013-10-24-structure-2013-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoaoneaone",
+        "title": "Валовая добавленная стоимость туристской индустрии",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoaoneaone/data-2020-12-10-structure-2020-12-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoaoneatwo",
+        "title": "Валовая добавленная стоимость туристской индустрии (ОКВЭД 2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoaoneatwo/data-2023-03-15-structure-2023-03-15.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoaoneanineanine",
+        "title": "Валовая добавленная стоимость туристской индустрии в экономике субъекта Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoaoneanineanine/data-2022-08-23-structure-2022-08-23.xml"
+    },
+    {
+        "identifier": "7708234640-threeazeroanineafiveazero",
+        "title": "Валовой сбор сельскохозяйственных культур",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeazeroanineafiveazero/data-2020-08-31-structure-2020-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafiveafourasix",
+        "title": "Ввезено сельскохозяйственных продуктов на территорию субъекта Российской Федерации от сельскохозяйственных организаций других субъектов Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafiveafourasix/data-2020-08-31-structure-2020-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveaeightaone",
+        "title": "Ввод в действие природоохранных мощностей по 2008 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveaeightaone/data-2021-07-09-structure-2021-07-09.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroasixafour",
+        "title": "Ввод в действие природоохранных мощностей с 2009 г. по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroasixafour/data-2021-07-09-structure-2021-07-09.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightazeroaeightatwo",
+        "title": "Ввод в действие природоохранных мощностей с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightazeroaeightatwo/data-2023-06-06-structure-2023-06-06.xml"
+    },
+    {
+        "identifier": "7708234640-fourafouraoneafiveaone",
+        "title": "Ввоз (покупка) продовольственных товаров по субъектам Российской Федерации по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafouraoneafiveaone/data-2023-11-10-structure-2023-11-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightafourasix",
+        "title": "Ввоз (покупка) продовольственных товаров по субъектам Российской Федерации с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightafourasix/data-2023-11-10-structure-2023-11-10.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveaeightafive",
+        "title": "Взносы в ревизионный союз за период с начала отчетного года снабженческо-сбытовыми сельскохозяйственными потребительскими кооперативами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveaeightafive/data-2022-03-04-structure-2022-03-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveaeightafour",
+        "title": "Взносы в снабженческо-сбытовые сельскохозяйственные потребительские кооперативы последующего уровня за период с начала отчетного года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveaeightafour/data-2022-03-04-structure-2022-03-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveaeightasix",
+        "title": "Виды маршрутов на территории государственных природных заповедников (включая экотропы и маршруты в охранной зоне)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveaeightasix/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveaeightaseven",
+        "title": "Виды маршрутов на территории национальных парков (включая экотропы и маршруты в охранной зоне)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveaeightaseven/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-fourafouraoneafouraseven",
+        "title": "Виды экологических троп и маршрутов на территории особо охраняемых природных территорий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafouraoneafouraseven/data-2021-03-16-structure-2021-03-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoathreeaeightazero",
+        "title": "Внедрение стандартных методов учета в целях отслеживания экономических и экологических характеристик устойчивости туризма (12.b.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoathreeaeightazero/data-2023-05-31-structure-2023-05-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasixafouraone",
+        "title": "Внесено минеральных удобрений сельхозорганизациями на площади, загрязненной радионуклидами, по 2020г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasixafouraone/data-2023-02-22-structure-2023-02-22.xml"
+    },
+    {
+        "identifier": "7708234640-threeazeroanineasixatwo",
+        "title": "Внесено сельскохозяйственными организациями гипса, фосфогипса и других гипсосодержащих пород",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeazeroanineasixatwo/data-2022-07-18-structure-2022-07-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeazeroanineafiveanine",
+        "title": "Внесено сельскохозяйственными организациями гипса, фосфогипса и других гипсосодержащих пород на 1 га посева",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeazeroanineafiveanine/data-2022-07-18-structure-2022-07-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeazeroanineasixazero",
+        "title": "Внесено сельскохозяйственными организациями известняковой муки и других известковых материалов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeazeroanineasixazero/data-2022-07-18-structure-2022-07-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeazeroanineasixaone",
+        "title": "Внесено сельскохозяйственными организациями известняковой муки и других известковых материалов на 1 га посева",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeazeroanineasixaone/data-2022-07-18-structure-2022-07-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeazeroanineasixathree",
+        "title": "Внесено сельскохозяйственными организациями минеральных удобрений в пересчете на 100 % питательных веществ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeazeroanineasixathree/data-2022-07-18-structure-2022-07-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeazeroanineasixafour",
+        "title": "Внесено сельскохозяйственными организациями минеральных удобрений в пересчете на 100 % питательных веществ на 1 га посева",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeazeroanineasixafour/data-2022-07-18-structure-2022-07-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeazeroanineasixafive",
+        "title": "Внесено сельскохозяйственными организациями органических удобрений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeazeroanineasixafive/data-2022-07-18-structure-2022-07-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeazeroanineasixasix",
+        "title": "Внесено сельскохозяйственными организациями органических удобрений на 1 га посева",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeazeroanineasixasix/data-2022-07-18-structure-2022-07-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveaeightaeight",
+        "title": "Внесено сельскохозяйственными организациями фосфоритной муки",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveaeightaeight/data-2022-07-18-structure-2022-07-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveaeightanine",
+        "title": "Внесено сельскохозяйственными организациями фосфоритной муки на 1 га посева",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveaeightanine/data-2022-07-18-structure-2022-07-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveanineathree",
+        "title": "Вспахано зяби сельскохозяйственными организациями",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveanineathree/data-2021-09-14-structure-2021-09-14.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafiveazeroaseven",
+        "title": "Выбросы в атмосферный воздух от объектов обработки и утилизации отходов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafiveazeroaseven/data-2023-10-25-structure-2023-10-25.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveanineafive",
+        "title": "Выбросы загрязняющих атмосферу веществ, отходящих от стационарных источников, за I полугодие",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveanineafive/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroasevenasixaeight",
+        "title": "Выбросы СО2, связанные с энергетическим сектором",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroasevenasixaeight/data-2023-01-26-structure-2023-01-26.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasixazeroazero",
+        "title": "Выброшено в атмосферу загрязняющих веществ за отчетный год от сжигания топлива (для выработки электро- и теплоэнергии)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasixazeroazero/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoaeightaseven",
+        "title": "Выброшено в атмосферу загрязняющих веществ за отчетный год от сжигания топлива (для выработки электро- и теплоэнергии)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoaeightaseven/data-2019-05-13-structure-2019-05-13.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroasixafouratwo",
+        "title": "Выброшено в атмосферу загрязняющих веществ, отходящих от стационарных источников по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroasixafouratwo/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasixazeroaeight",
+        "title": "Выброшено в атмосферу загрязняющих веществ, отходящих от стационарных источников, за 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasixazeroaeight/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasevenazeroatwo",
+        "title": "Вывезено за год твердых коммунальных отходов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasevenazeroatwo/data-2019-06-25-structure-2019-06-25.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasevenazeroaone",
+        "title": "Вывезено твердых коммунальных отходов на объекты, используемые для обработки отходов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasevenazeroaone/data-2019-06-25-structure-2019-06-25.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafiveasixafour",
+        "title": "Выполнение водоохранных работ в натуральном выражении (по перечню видов работ ф.№2-ос)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafiveasixafour/data-2017-05-26-structure-2017-05-26.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeathreeafouranine",
+        "title": "Выполнение водохозяйственных и водоохранных работ в натуральном выражении (с 2012г.)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeathreeafouranine/data-2022-02-25-structure-2022-02-25.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourafiveaeightaeight",
+        "title": "Выпуск водных биологических ресурсов в водные объекты рыбохозяйственного значения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourafiveaeightaeight/data-2022-11-18-structure-2022-11-18.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneazeroazeroafour",
+        "title": "Выход живых телят на сто коров и нетелей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneazeroazeroafour/data-2023-01-11-structure-2023-01-11.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasixathreeafour",
+        "title": "Выход масла растительного из семян подсолнечника в процентах от массы переработанных семян",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasixathreeafour/data-2020-09-09-structure-2020-09-09.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasixaoneazero",
+        "title": "Выход приплода в расчете на 100 маток",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasixaoneazero/data-2020-09-22-structure-2020-09-22.xml"
+    },
+    {
+        "identifier": "7708234640-threeazeroanineaeightasix",
+        "title": "Выход приплода в расчете на 100 маток за год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeazeroanineaeightasix/data-2020-09-22-structure-2020-09-22.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasixathreeafive",
+        "title": "Выход сахара-песка в процентах к массе переработанной свеклы",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasixathreeafive/data-2020-09-09-structure-2020-09-09.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafourafouratwo",
+        "title": "Доля животных отечественной репродукции, используемых для целей сельскохозяйственного производства на территории Российской Федерации (2.5.2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafourafouratwo/data-2023-03-28-structure-2023-03-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneafiveafouraseven",
+        "title": "Доля загрязненных (без очистки) и недостаточно-очищенных сточных вод в общем объеме сточных вод, сбрасываемых в поверхностные водные объекты",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneafiveafouraseven/data-2019-08-13-structure-2019-08-13.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourafiveathree",
+        "title": "Доля крупных лесных пожаров в общем количестве лесных пожаров",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourafiveathree/data-2022-03-21-structure-2022-03-21.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafouratwoanine",
+        "title": "Доля лесных культур в общем объеме лесовосстановления на землях лесного фонда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafouratwoanine/data-2017-05-30-structure-2017-05-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafouratwoaeight",
+        "title": "Доля лесных культур, созданных посадочным материалом с улучшенными наследственными свойствами, в общем объеме искусственного лесовосстановления",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafouratwoaeight/data-2022-03-22-structure-2022-03-22.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafouratwoaeight",
+        "title": "Доля лесных площадей в пределах установленных законом охраняемых территорий (15.2.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafouratwoaeight/data-2020-10-01-structure-2020-10-01.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourafiveasix",
+        "title": "Доля лесных пожаров, возникших по вине граждан, в общем количестве лесных пожаров",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourafiveasix/data-2022-03-21-structure-2022-03-21.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourafiveafour",
+        "title": "Доля лесных пожаров, ликвидированных в течение первых суток с момента обнаружения (по количеству случаев), в общем количестве лесных пожаров",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourafiveafour/data-2023-04-11-structure-2023-04-11.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineafouratwo",
+        "title": "Доля направленных на захоронение твёрдых коммунальных отходов, в том числе прошедших обработку (сортировку), в общей массе образованных твёрдых коммунальных отходов (G2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineafouratwo/data-2023-03-29-structure-2023-03-29.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineafouraone",
+        "title": "Доля направленных на утилизацию отходов, выделенных в результате раздельного накопления и обработки (сортировки) твёрдых коммунальных отходов, в общей массе образованных твёрдых коммунальных отходов (G2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineafouraone/data-2023-03-29-structure-2023-03-29.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneaoneasix",
+        "title": "Доля населения Российской Федерации, обеспеченного качественной питьевой водой из систем централизованного водоснабжения (F5)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneaoneasix/data-2023-01-18-structure-2023-01-18.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafouraoneafour",
+        "title": "Доля оборотного и повторно-последовательного водоснабжения в общем объеме использования воды из поверхностных водных объектов за отчетный год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafouraoneafour/data-2023-02-06-structure-2023-02-06.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourafourazero",
+        "title": "Доля объема заготовки древесины выборочными рубками в общем объеме заготовки древесины",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourafourazero/data-2022-03-22-structure-2022-03-22.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafouratwoatwo",
+        "title": "Доля объема финансирования лесных научных исследований в общем финансировании лесного хозяйства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafouratwoatwo/data-2022-03-23-structure-2022-03-23.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenatwoanineaseven",
+        "title": "Доля организаций коммунального комплекса, осуществляющих производство товаров, оказание услуг по водо-, тепло-, газо-, электроснабжению, водоотведению, очистке сточных вод, утилизации (захоронению) твердых бытовых отходов и использующих объекты коммунальной инфраструктуры (25% в частной собственности )",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenatwoanineaseven/data-2018-04-26-structure-2018-04-26.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafourafiveazero",
+        "title": "Доля охраняемых морских районов (14.5.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafourafiveazero/data-2020-04-14-structure-2020-04-14.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourathreeafour",
+        "title": "Доля площади дистанционного мониторинга использования лесов в площади защитных и эксплуатационных лесов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourathreeafour/data-2023-03-13-structure-2023-03-13.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourafouraeight",
+        "title": "Доля площади земель лесного фонда, возвращенных в хозяйственный оборот, в общей площади земель лесного фонда, загрязненных радионуклидами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourafouraeight/data-2022-03-21-structure-2022-03-21.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourafouraone",
+        "title": "Доля площади земель лесного фонда, переданных в пользование, в общей площади земель лесного фонда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourafouraone/data-2023-03-13-structure-2023-03-13.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourathreeasix",
+        "title": "Доля площади земель лесного фонда, поставленной на кадастровый учет, в общей площади земель лесного фонда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourathreeasix/data-2022-03-22-structure-2022-03-22.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourafiveaone",
+        "title": "Доля площади лесов на землях лесного фонда, в которых осуществляется в течение года наземный лесопатологический мониторинг, в общей площади лесов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourafiveaone/data-2022-03-21-structure-2022-03-21.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourathreeafive",
+        "title": "Доля площади лесов, в которых осуществляется государственная инвентаризация лесов на основе постоянных пробных площадей, в общей площади лесов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourathreeafive/data-2022-03-22-structure-2022-03-22.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourafiveazero",
+        "title": "Доля площади лесов, в которых осуществляются лесопатологические обследования, в общей площади земель лесного фонда, покрытых лесной растительностью",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourafiveazero/data-2022-03-21-structure-2022-03-21.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourafiveatwo",
+        "title": "Доля площади лесов, выбывших из состава покрытых лесной растительностью земель лесного фонда в связи с воздействием пожаров, вредных организмов, рубок и других факторов, в общей площади покрытых лесной растительностью земель лесного фонда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourafiveatwo/data-2022-03-21-structure-2022-03-21.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourathreeaeight",
+        "title": "Доля площади лесов, на которых проведены мероприятия лесоустройства в течение последних 10 лет, в общей площади лесов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourathreeaeight/data-2017-05-30-structure-2017-05-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneatwoazeroaeight",
+        "title": "Доля площади лесов, на которых проведены мероприятия лесоустройства в течении последних 10 лет, в площади лесов с интенсивным ведением лесного хозяйства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneatwoazeroaeight/data-2016-06-22-structure-2016-06-22.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafouraeightafour",
+        "title": "Доля площади особо охраняемых природных территорий федерального, регионального и местного значения в общей площади территории страны (15.1.2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafouraeightafour/data-2020-10-01-structure-2020-10-01.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourathreeazero",
+        "title": "Доля посадочного материала с закрытой корневой системой в общем количестве посадочного материала",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourathreeazero/data-2022-03-22-structure-2022-03-22.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafouraoneatwo",
+        "title": "Доля потерь воды при ее транспортировке в объеме годового водозабора по поверхностным водным объектам за отчетный год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafouraoneatwo/data-2023-02-06-structure-2023-02-06.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveafouranine",
+        "title": "Доля предприятий, осуществляющих хозяйственную деятельность, оказывающую негативное воздействие на окружающую среду, без получения разрешений, в общем количестве наблюдаемых предприятий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveafouranine/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourafourafour",
+        "title": "Доля проведенных санитарно-оздоровительных мероприятий к площади поврежденных лесных насаждений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourafourafour/data-2023-03-13-structure-2023-03-13.xml"
+    },
+    {
+        "identifier": "7708234640-fiveatwoanineasevenasix",
+        "title": "Доля рекультивированных земель в общей площади земель, подвергшихся нарушению, в Арктической зоне Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveatwoanineasevenasix/data-2023-10-26-structure-2023-10-26.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourathreeaone",
+        "title": "Доля семян с улучшенными наследственными свойствами в общем объеме заготовленных семян",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourathreeaone/data-2022-03-22-structure-2022-03-22.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveafiveafive",
+        "title": "Доля сточных вод, очищенных до нормативных значений, в общем объеме сточных вод, пропущенных через очистные сооружения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveafiveafive/data-2023-06-02-structure-2023-06-02.xml"
+    },
+    {
+        "identifier": "7708234640-fiveazeroanineatwoafour",
+        "title": "Доля строений зоопарка, находящихся в неудовлетворительном состоянии",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveazeroanineatwoafour/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineafourathree",
+        "title": "Доля твёрдых коммунальных отходов, направленных на обработку (сортировку), в общей массе образованных твёрдых коммунальных отходов (G2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineafourathree/data-2023-03-29-structure-2023-03-29.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafourafouranine",
+        "title": "Доля трансграничных водных бассейнов, охваченных действующими договоренностями о сотрудничестве в области водопользования (6.5.2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafourafouranine/data-2022-12-14-structure-2022-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveafiveazero",
+        "title": "Доля уловленных и обезвреженных загрязняющих атмосферу веществ в общем количестве отходящих от стационарных источников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveafiveazero/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoaeightasix",
+        "title": "Доля уловленных и обезвреженных загрязняющих атмосферу веществ в общем количестве отходящих от стационарных источников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoaeightasix/data-2019-05-08-structure-2019-05-08.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineathreeafive",
+        "title": "Доля утечек и неучтенного расхода воды в общем объеме поданной воды",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineathreeafive/data-2018-08-01-structure-2018-08-01.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaoneasevenaseven",
+        "title": "Доля утилизированных и обезвреженных отходов в общем объеме отходов I и II классов опасности, подлежащих утилизации и обезвреживанию, переданных федеральному оператору по обращению с отходами I и II классов опасности (G3)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaoneasevenaseven/data-2023-09-07-structure-2023-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveazeroaoneanineaeight",
+        "title": "Доля эксплуатационных автобусов, имеющих возможность использовать газ в качестве моторного топлива в общем числе эксплуатационных автобусов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveazeroaoneanineaeight/data-2023-02-03-structure-2023-02-03.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineasevenasix",
+        "title": "Доля энергетических ресурсов, производимых с использованием возобновляемых источников энергии, в общем объеме энергетических ресурсов, производимых на территории субъекта Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineasevenasix/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafouraoneasix",
+        "title": "Забор (добыча) воды из природных водных объектов за отчетный год в натуральном измерении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafouraoneasix/data-2023-02-06-structure-2023-02-06.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourafiveasixathree",
+        "title": "Забор воды из природных водных объектов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourafiveasixathree/data-2018-12-04-structure-2018-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneazeroaoneanine",
+        "title": "Заготовлено кормов в кормовых единицах",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneazeroaoneanine/data-2020-08-31-structure-2020-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneazeroatwoazero",
+        "title": "Заготовлено кормов в расчете на 1 условную голову крупного скота",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneazeroatwoazero/data-2020-08-31-structure-2020-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafouraoneaeight",
+        "title": "Запасы водных ресурсов на конец отчетного года в натуральном измерении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafouraoneaeight/data-2023-02-06-structure-2023-02-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneazeroathree",
+        "title": "Запасы водных ресурсов на конец отчетного года в натуральном измерении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneazeroathree/data-2023-02-07-structure-2023-02-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneazeroafour",
+        "title": "Запасы водных ресурсов на конец отчетного года в стоимостном выражении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneazeroafour/data-2023-01-31-structure-2023-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroanineathree",
+        "title": "Запасы некультивируемых биологических ресурсов животного мира (охотничьих ресурсов) на конец отчетного года в стоимостном измерении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroanineathree/data-2021-09-06-structure-2021-09-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneazeroaseven",
+        "title": "Запасы некультивируемых биологических ресурсов растительного мира (древесных лесных ресурсов) на конец отчетного года в натуральном измерении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneazeroaseven/data-2023-11-09-structure-2023-11-09.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneazeroaeight",
+        "title": "Запасы некультивируемых биологических ресурсов растительного мира (древесных лесных ресурсов) на конец отчетного года в стоимостном измерении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneazeroaeight/data-2023-11-09-structure-2023-11-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafourazeroaseven",
+        "title": "Запасы охотничьих ресурсов (лимитируемых видов охотничьих ресурсов (объектов отстрела, отлова)) на конец отчетного года в натуральном измерении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafourazeroaseven/data-2022-08-22-structure-2022-08-22.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroanineatwo",
+        "title": "Запасы ресурсов некультивируемых биологических ресурсов животного мира (охотничьих ресурсов) на конец отчетного года в натуральном измерении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroanineatwo/data-2021-09-06-structure-2021-09-06.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafouraoneaone",
+        "title": "Запасы эксплуатационных лесов на конец отчетного года в натуральном измерении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafouraoneaone/data-2023-03-22-structure-2023-03-22.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightanineafourathree",
+        "title": "Затраты на искусственное воспроизводство водных биологических русурсов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightanineafourathree/data-2018-06-13-structure-2018-06-13.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasixathreeatwo",
+        "title": "Затраты на капитальный ремонт основных фондов по охране окружающей среды",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasixathreeatwo/data-2023-01-30-structure-2023-01-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveafourasix",
+        "title": "Затраты на капитальный ремонт основных фондов по охране окружающей среды (по направлениям природоохранной деятельности)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveafourasix/data-2023-01-30-structure-2023-01-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenathreeathreeanine",
+        "title": "Затраты на охрану окружающей среды в процентах к ВВП",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenathreeathreeanine/data-2023-01-30-structure-2023-01-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeathreeafouraeight",
+        "title": "Затраты на проведение водохозяйственных и водоохранных работ в отчетном году (с 2012г.)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeathreeafouraeight/data-2013-10-22-structure-2013-10-22.xml"
+    },
+    {
+        "identifier": "7708234640-fourafourazeroatwoafour",
+        "title": "Затраты на содержание государственных природных заповедников и национальных парков из всех источников финансирования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafourazeroatwoafour/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasixathreeafour",
+        "title": "Затраты на содержание государственных природных заповедников из всех источников финансирования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasixathreeafour/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasixathreeafive",
+        "title": "Затраты на содержание национальных парков из всех источников финансирования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasixathreeafive/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneazeroafouraone",
+        "title": "Защита лесов от вредных организмов биологическим методом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneazeroafouraone/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasixathreeasix",
+        "title": "Защита лесов от вредных организмов химическим методом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasixathreeasix/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafouraoneathree",
+        "title": "Изменение годового объема оборотного и повторно-последовательного использования воды из поверхностных водных объектов за отчетный год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafouraoneathree/data-2023-02-06-structure-2023-02-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneazeroafive",
+        "title": "Изменение запасов водных ресурсов за отчетный год в натуральном измерении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneazeroafive/data-2023-01-31-structure-2023-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneazeroasix",
+        "title": "Изменение запасов водных ресурсов за отчетный год в стоимостном измерении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneazeroasix/data-2023-01-31-structure-2023-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroanineafour",
+        "title": "Изменение запасов некультивируемых биологических ресурсов животного мира (охотничьих ресурсов) за отчетный год в натуральном измерении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroanineafour/data-2021-09-06-structure-2021-09-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroanineasix",
+        "title": "Изменение запасов некультивируемых биологических ресурсов животного мира (охотничьих ресурсов) за отчетный год в стоимостном измерении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroanineasix/data-2021-09-06-structure-2021-09-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneazeroanine",
+        "title": "Изменение запасов некультивируемых биологических ресурсов растительного мира (древесных лесных ресурсов) за отчетный год в натуральном измерении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneazeroanine/data-2023-11-09-structure-2023-11-09.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneaoneaone",
+        "title": "Изменение запасов некультивируемых биологических ресурсов растительного мира (древесных лесных ресурсов) за отчетный год в стоимостном измерении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneaoneaone/data-2023-11-09-structure-2023-11-09.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasixaeightasix",
+        "title": "Изменение объема запасов некультивируемых видов водных биологических ресурсов за год за счет их естественного прироста",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasixaeightasix/data-2018-07-30-structure-2018-07-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasixaeightathree",
+        "title": "Изменение объема запасов некультивируемых видов водных биологических ресурсов за год за счет их истощения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasixaeightathree/data-2018-07-30-structure-2018-07-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasixaeightafour",
+        "title": "Изменение объема запасов некультивируемых видов водных биологических ресурсов за год за счет их экономического использования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasixaeightafour/data-2018-07-30-structure-2018-07-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasixaeightatwo",
+        "title": "Изменение объема запасов некультивируемых видов водных биологических ресурсов за год за счет потерь вследствие чрезвычайных ситуаций природного техногенного характера",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasixaeightatwo/data-2018-07-30-structure-2018-07-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasixaeightafive",
+        "title": "Изменение объема запасов некультивируемых видов водных биологических ресурсов за год, всего",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasixaeightafive/data-2018-07-30-structure-2018-07-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneazeroasixazero",
+        "title": "Инвестиции в основной капитал, направленные на охрану окружающей среды и рациональное использование природных ресурсов по 2008 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneazeroasixazero/data-2021-07-09-structure-2021-07-09.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroasixafive",
+        "title": "Инвестиции в основной капитал, направленные на охрану окружающей среды и рациональное использование природных ресурсов с 2009 г. по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroasixafive/data-2021-07-09-structure-2021-07-09.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeanineazeroaone",
+        "title": "Инвестиции в основной капитал, направленные на охрану окружающей среды и рациональное использование природных ресурсов, в % к 2007 году",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeanineazeroaone/data-2023-06-06-structure-2023-06-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightazeroaeightaone",
+        "title": "Инвестиции в основной капитал, направленные на охрану окружающей среды и рациональное использование природных ресурсов, с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightazeroaeightaone/data-2023-06-06-structure-2023-06-06.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafouraoneaseven",
+        "title": "Индекс изменения запасов водных ресурсов в натуральном измерении за отчетный год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafouraoneaseven/data-2023-02-06-structure-2023-02-06.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafourazeroasix",
+        "title": "Индекс изменения запасов охотничьих ресурсов в натуральном измерении за отчетный год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafourazeroasix/data-2022-08-22-structure-2022-08-22.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafouraoneazero",
+        "title": "Индекс изменения запасов эксплуатационных лесов за отчетный год в натуральном измерении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafouraoneazero/data-2023-03-22-structure-2023-03-22.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveafouraeight",
+        "title": "Индекс посещаемости национальных парков к уровню 2010 г., в процентах к уровню 2010 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveafouraeight/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveaoneasixatwo",
+        "title": "Индекс физического объема природоохранных расходов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveaoneasixatwo/data-2023-01-30-structure-2023-01-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeafouraoneatwoaeight",
+        "title": "Индексы производства продукции сельского хозяйства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafouraoneatwoaeight/data-2022-07-04-structure-2022-07-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneazeroasixatwo",
+        "title": "Индексы производства продукции сельского хозяйства (окончательные данные) по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneazeroasixatwo/data-2022-07-01-structure-2022-07-01.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroazeroaone",
+        "title": "Индексы производства продукции сельского хозяйства (окончательные данные) с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroazeroaone/data-2022-07-01-structure-2022-07-01.xml"
+    },
+    {
+        "identifier": "7708234640-threeafouraoneatwoaseven",
+        "title": "Индексы производства продукции сельского хозяйства (предварительные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafouraoneatwoaseven/data-2022-07-04-structure-2022-07-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenazeroasixasix",
+        "title": "Индексы производства продукции сельского хозяйства сельскохозяйственными организациями по государственному сектору экономики",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenazeroasixasix/data-2022-07-01-structure-2022-07-01.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneaoneathreeaeight",
+        "title": "Искусственное лесовосстановление",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneaoneathreeaeight/data-2020-10-15-structure-2020-10-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourafiveasixaone",
+        "title": "Использование воды",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourafiveasixaone/data-2018-12-04-structure-2018-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafiveazeroafour",
+        "title": "Использование выбросов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafiveazeroafour/data-2023-10-25-structure-2023-10-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveafiveafour",
+        "title": "Качество окружающей среды",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveafiveafour/data-2022-10-07-structure-2022-10-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneazeroaoneafour",
+        "title": "Количество автомобильной техники, использующих в качестве моторного топлива компримированный природный газ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneazeroaoneafour/data-2023-01-26-structure-2023-01-26.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneazeroaoneaone",
+        "title": "Количество автомобильной техники, использующих в качестве моторного топлива сжиженный природный газ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneazeroaoneaone/data-2021-09-07-structure-2021-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightathreeafiveatwo",
+        "title": "Количество автомобильной техники, использующих в качестве моторного топлива сжиженный углеводородный газ (СУГ)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightathreeafiveatwo/data-2021-09-07-structure-2021-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasevenazeroaseven",
+        "title": "Количество визит-центров на территории государственных природных заповедников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasevenazeroaseven/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasevenazeroaeight",
+        "title": "Количество визит-центров на территории национальных парков",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasevenazeroaeight/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineazeroasix",
+        "title": "Количество выданных комплексных экологических разрешений всем объектам, оказывающим значительное негативное воздействие на атмосферный воздух и реализующим программы повышения экологической эффективности с применением наилучших доступных технологий для снижения выбросов в крупных промышленных центрах России, включая города Братск, Красноярск, Липецк, Магнитогорск, Медногорск, Нижний Тагил, Новокузнецк, Норильск, Омск, Челябинск, Череповец, Чита (G4)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineazeroasix/data-2022-08-29-structure-2022-08-29.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineazeroafive",
+        "title": "Количество выданных комплексных экологических разрешений всем объектам, оказывающим значительное негативное воздействие на р. Волгу и реализующим программы повышения экологической эффективности с применением наилучших доступных технологий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineazeroafive/data-2023-10-26-structure-2023-10-26.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafourathreeasix",
+        "title": "Количество выданных разрешений на ввоз и вывоз видов дикой фауны и флоры, подпадающих под действие Конвенции о международной торговле видами дикой фауны и флоры, находящимися под угрозой исчезновения, от 3 марта 1973 г., кроме осетровых видов рыб и продукции из них, включая икру",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafourathreeasix/data-2023-10-26-structure-2023-10-26.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafourafourafive",
+        "title": "Количество выданных разрешений на экспорт и разрешений на импорт, сертификатов на реэкспорт и сертификатов на интродукцию из моря осетровых видов рыб и продукции из них, включая икру, подпадающих под действие Конвенции о международной торговле видами дикой фауны и флоры, находящимися под угрозой исчезновения, от 3 марта 1973 г. (15.7.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafourafourafive/data-2017-12-21-structure-2017-12-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaeightaeightaseven",
+        "title": "Количество городов с высоким и очень высоким уровнем загрязнения атмосферного воздуха",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaeightaeightaseven/data-2020-04-24-structure-2020-04-24.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoazeroasix",
+        "title": "Количество городов с высоким и очень высоким уровнем загрязнения атмосферного воздуха в городах-участниках проекта (G4)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoazeroasix/data-2023-06-16-structure-2023-06-16.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightatwoaeightaone",
+        "title": "Количество городов, в которых среднегодовые концентрации одного или нескольких веществ превышали 1 ПДК",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightatwoaeightaone/data-2012-10-24-structure-2012-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightatwoasevenaeight",
+        "title": "Количество городов, в которых уровень загрязнения высокий (ИЗА>7)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightatwoasevenaeight/data-2012-10-24-structure-2012-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoaoneaoneafive",
+        "title": "Количество городов, охваченных комплексной информационной системой мониторинга состояния окружающей среды",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoaoneaoneafive/data-2023-02-14-structure-2023-02-14.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaoneaoneaeight",
+        "title": "Количество городского населения, обеспеченного качественной питьевой водой из систем централизованного водоснабжения (F5)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaoneaoneaeight/data-2023-01-18-structure-2023-01-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasevenazeroanine",
+        "title": "Количество государственных природных заповедников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasevenazeroanine/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafourazeroafive",
+        "title": "Количество добытых за отчетный год особей лимитируемого вида охотничьих ресурсов (объектов отстрела, отлова) в натуральном измерении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafourazeroafive/data-2022-08-22-structure-2022-08-22.xml"
+    },
+    {
+        "identifier": "7710539135-fiveaeightasevenatwoatwo",
+        "title": "Количество единиц хранения генетических ресурсов растений и животных для производства продовольствия и ведения сельского хозяйства в среднесрочных и долгосрочных хранилищах (2.5.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7710539135-fiveaeightasevenatwoatwo/data-2020-08-20-structure-2020-08-20.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoathreeaoneasix",
+        "title": "Количество животных прошедших диагностические исследования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoathreeaoneasix/data-2021-09-03-structure-2021-09-03.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoathreeaoneaseven",
+        "title": "Количество животных, подвергшихся профилактической вакцинации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoathreeaoneaseven/data-2021-09-03-structure-2021-09-03.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasevenaoneaeight",
+        "title": "Количество использованных отходов производства и потребления",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasevenaoneaeight/data-2023-10-26-structure-2023-10-26.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoafiveatwo",
+        "title": "Количество ликвидированных наиболее опасных объектов накопленного вреда окружающей среде (G1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoafiveatwo/data-2023-02-06-structure-2023-02-06.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoafiveazero",
+        "title": "Количество ликвидированных несанкционированных свалок в границах городов (G1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoafiveazero/data-2023-02-06-structure-2023-02-06.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafourathreeazero",
+        "title": "Количество ликвидированных скважин, сданных нефтегазодобывающим предприятиям",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafourathreeazero/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasevenatwoaseven",
+        "title": "Количество музеев на территории государственных природных заповедников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasevenatwoaseven/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasevenatwoaeight",
+        "title": "Количество музеев на территории национальных парков",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasevenatwoaeight/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoathreeaoneanine",
+        "title": "Количество на конец отчетного года взрослых самок пушных зверей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoathreeaoneanine/data-2021-09-03-structure-2021-09-03.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoathreeatwoazero",
+        "title": "Количество на конец отчетного года взрослых самцов пушных зверей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoathreeatwoazero/data-2021-09-03-structure-2021-09-03.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoathreeaoneaeight",
+        "title": "Количество на конец отчетного года молодняка рождения отчетного года пушных зверей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoathreeaoneaeight/data-2021-09-03-structure-2021-09-03.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneazeroaeightafour",
+        "title": "Количество направленных на захоронение твердых коммунальных отходов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneazeroaeightafour/data-2023-10-26-structure-2023-10-26.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneazeroaeightafive",
+        "title": "Количество направленных на обезвреживание твердых коммунальных отходов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneazeroaeightafive/data-2023-10-26-structure-2023-10-26.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneazeroaeightaone",
+        "title": "Количество направленных на обработку твердых коммунальных отходов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneazeroaeightaone/data-2023-10-26-structure-2023-10-26.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneazeroaeightasix",
+        "title": "Количество направленных на утилизацию твердых коммунальных отходов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneazeroaeightasix/data-2021-11-17-structure-2021-11-17.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneasixafourazero",
+        "title": "Количество населения, вовлеченного в мероприятия по охране, защите и воспроизводству лесов (в том числе тушению лесных пожаров, посадке леса, очистке лесов, охране лесов от правонарушений, участию в деятельности школьных лесничеств) (GA)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneasixafourazero/data-2023-08-10-structure-2023-08-10.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaoneaeightafour",
+        "title": "Количество населения, вовлеченного в мероприятия по очистке берегов водных объектов (G8)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaoneaeightafour/data-2023-08-04-structure-2023-08-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaoneaoneasix",
+        "title": "Количество населения, снабжаемого качественной водой из централизованных систем водоснабжения (F5)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaoneaoneasix/data-2023-01-18-structure-2023-01-18.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaoneanineanine",
+        "title": "Количество населения, улучшившего экологические условия проживания вблизи водных объектов (G8)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaoneanineanine/data-2023-08-04-structure-2023-08-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasevenatwoanine",
+        "title": "Количество национальных парков",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasevenatwoanine/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroanineasevenaseven",
+        "title": "Количество несанкционированных свалок отходов на территории субъекта Российской Федерации по состоянию на конец года, предшествующего отчетному",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroanineasevenaseven/data-2023-10-25-structure-2023-10-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroanineasevenaeight",
+        "title": "Количество несанкционированных свалок отходов на территории субъекта Российской Федерации по состоянию на конец отчетного периода",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroanineasevenaeight/data-2023-10-25-structure-2023-10-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroanineasevenanine",
+        "title": "Количество несанкционированных свалок отходов, выявленных за отчетный период на территории субъекта Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroanineasevenanine/data-2023-10-25-structure-2023-10-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroanineaeightazero",
+        "title": "Количество несанкционированных свалок отходов, ликвидированных в отчетном периоде на территории субъекта Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroanineaeightazero/data-2023-10-25-structure-2023-10-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroazeroaeightatwo",
+        "title": "Количество новых ООПТ федерального значения, созданных в году t в рамках федерального проекта 'Сохранение биологического разнообразия и развитие экологического туризма' национального проекта 'Экология', отнесенных к ведению Минприроды России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroazeroaeightatwo/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneafouratwo",
+        "title": "Количество новых ООПТ, созданных в отчетном году",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneafouratwo/data-2021-03-16-structure-2021-03-16.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasevenaoneaseven",
+        "title": "Количество обезвреженных отходов производства и потребления",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasevenaoneaseven/data-2014-06-05-structure-2014-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasevenatwoazero",
+        "title": "Количество образованных отходов производства и потребления",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasevenatwoazero/data-2014-06-05-structure-2014-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneazeroaeightatwo",
+        "title": "Количество образованных твердых коммунальных отходов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneazeroaeightatwo/data-2021-11-17-structure-2021-11-17.xml"
+    },
+    {
+        "identifier": "7708234640-fourafouraoneafourathree",
+        "title": "Количество объектов эколого-просветительской и туристической деятельности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafouraoneafourathree/data-2021-03-16-structure-2021-03-16.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoanineathree",
+        "title": "Количество объектов, имеющих стационарные источники загрязнения атмосферного воздуха",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoanineathree/data-2019-05-13-structure-2019-05-13.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasevenathreeazero",
+        "title": "Количество объектов, имеющих стационарные источники загрязнения атмосферного воздуха",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasevenathreeazero/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeatwoathreeaone",
+        "title": "Количество объектов, имеющих стационарные источники загрязнения с установленными нормативами ПДВ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeatwoathreeaone/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoanineatwo",
+        "title": "Количество объектов, имеющих стационарные источники загрязнения с установленными нормативами ПДВ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoanineatwo/data-2019-05-13-structure-2019-05-13.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafiveaoneafour",
+        "title": "Количество объектов, оказывающих негативное воздействие на атмосферный воздух, прошедших модернизацию, в том числе и с использованием наилучших доступных технологий и/или с использованием инструментов зеленого финансирования в крупных промышленных центрах России, включая города Братск, Красноярск, Липецк, Магнитогорск, Медногорск, Нижний Тагил, Новокузнецк, Норильск, Омск, Челябинск, Череповец и Читу (G4)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafiveaoneafour/data-2023-11-08-structure-2023-11-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineatwoanine",
+        "title": "Количество объектов, оказывающих негативное воздействие на р. Волгу, прошедших модернизацию, в том числе и с использованием наилучших доступных технологий и (или) с использованием инструментов \"зеленого\" финансирования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineatwoanine/data-2023-11-08-structure-2023-11-08.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightathreeafiveafour",
+        "title": "Количество оленей на конец отчетного года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightathreeafiveafour/data-2023-01-19-structure-2023-01-19.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroazeroaeightazero",
+        "title": "Количество ООПТ федерального значения, находившихся в ведении Минприроды России, которые в году t были преобразованы в ООПТ регионального значения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroazeroaeightazero/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroazeroaeightaone",
+        "title": "Количество ООПТ федерального значения, находившихся в ведении Минприроды России, на базе которых в году t были созданы новые ООПТ федерального значения, отнесенные к ведению Минприроды России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroazeroaeightaone/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroazeroaeightathree",
+        "title": "Количество ООПТ федерального значения, находящихся в ведении Минприроды России на конец года t",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroazeroaeightathree/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroazeroaeightafour",
+        "title": "Количество ООПТ федерального значения, находящихся в ведении Минприроды России на начало года t",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroazeroaeightafour/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightafiveazeroaone",
+        "title": "Количество опасных природных (гидрометеорологических) явлений, нанесших ущерб населению и отраслям экономики",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightafiveazeroaone/data-2012-11-07-structure-2012-11-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightafiveazeroatwo",
+        "title": "Количество опасных природных (гидрометеорологических) явлений, нанесших ущерб населению и отраслям экономики",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightafiveazeroatwo/data-2012-11-07-structure-2012-11-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasevenathreeasix",
+        "title": "Количество организованных источников загрязнения атмосферы на конец года, имеющихся у юридических лиц",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasevenathreeasix/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoanineaone",
+        "title": "Количество организованных источников загрязнения атмосферы на конец года, имеющихся у юридических лиц",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoanineaone/data-2019-05-13-structure-2019-05-13.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightafourafourafour",
+        "title": "Количество осадков в июле",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightafourafourafour/data-2012-10-24-structure-2012-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightafourafourathree",
+        "title": "Количество осадков в январе",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightafourafourathree/data-2012-10-24-structure-2012-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-fourafourazeroatwoazero",
+        "title": "Количество особо охраняемых природных территорий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafourazeroatwoazero/data-2021-03-16-structure-2021-03-16.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasevenaoneafour",
+        "title": "Количество отходов производства и потребления, накопленных в организациях на конец отчётного года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasevenaoneafour/data-2014-06-05-structure-2014-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasevenatwoaone",
+        "title": "Количество отходов производства и потребления, накопленных в организациях на начало отчётного года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasevenatwoaone/data-2019-06-10-structure-2019-06-10.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasevenaoneasix",
+        "title": "Количество отходов производства и потребления, переданных другим организациям",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasevenaoneasix/data-2023-10-26-structure-2023-10-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasevenaoneanine",
+        "title": "Количество отходов производства и потребления, поступивших от других организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasevenaoneanine/data-2023-10-26-structure-2023-10-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasevenaoneafive",
+        "title": "Количество отходов производства и потребления, размещённых на собственных объектах",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasevenaoneafive/data-2023-10-26-structure-2023-10-26.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoathreeafiveaseven",
+        "title": "Количество отходов, образованных после обезвреживания (обеззараживания) медицинских отходов, за отчетный год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoathreeafiveaseven/data-2023-04-11-structure-2023-04-11.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneasevenatwo",
+        "title": "Количество охотников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneasevenatwo/data-2022-08-24-structure-2022-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroazeroasevenatwo",
+        "title": "Количество посетителей национальных парков, государственных природных заповедников, государственных природных заказников, по данным ежегодного отчета директора i-го ФГБУ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroazeroasevenatwo/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-fourafouraoneafourasix",
+        "title": "Количество посетителей объектов эколого-просветительской и туристической деятельности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafouraoneafourasix/data-2021-03-16-structure-2021-03-16.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveazeroazero",
+        "title": "Количество посетителей особо охраняемых природных территорий, нарастающим итогом (G9)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveazeroazero/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaoneaeightatwo",
+        "title": "Количество посещений зоопарков",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaoneaeightatwo/data-2020-06-25-structure-2020-06-25.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeathreeaone",
+        "title": "Количество постоянных створов в водных объектах в местах водопользования населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeathreeaone/data-2013-08-29-structure-2013-08-29.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoafouranine",
+        "title": "Количество построенных и реконструированных (модернизированных) объектов питьевого водоснабжения и водоподготовки, предусмотренных региональными программами (F5)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoafouranine/data-2023-03-03-structure-2023-03-03.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineasevenaseven",
+        "title": "Количество построенных, реконструированных водопропускных сооружений для улучшения водообмена в низовьях р. Волги (G6)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineasevenaseven/data-2023-08-04-structure-2023-08-04.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaoneasevenatwo",
+        "title": "Количество проверок юридических лиц в рамках федерального государственного контроля (надзора) за проведением работ по активным воздействиям на гидрометеорологические процессы",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaoneasevenatwo/data-2023-01-19-structure-2023-01-19.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoathreeatwoaeight",
+        "title": "Количество проданного племенного скота",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoathreeatwoaeight/data-2021-09-03-structure-2021-09-03.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoathreeatwoatwo",
+        "title": "Количество проданных пушных зверей для племенных целей за год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoathreeatwoatwo/data-2021-09-03-structure-2021-09-03.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoathreeatwoaone",
+        "title": "Количество пушных зверей забитых на шкурки",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoathreeatwoaone/data-2021-09-03-structure-2021-09-03.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeatwoathree",
+        "title": "Количество радиационных аварий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeatwoathree/data-2012-10-31-structure-2012-10-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoathreeatwoathree",
+        "title": "Количество реализованных на убой оленей (в живом весе)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoathreeatwoathree/data-2021-09-03-structure-2021-09-03.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightatwoasevenaseven",
+        "title": "Количество случаев высокого загрязнения пресноводных объектов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightatwoasevenaseven/data-2021-06-09-structure-2021-06-09.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneanineaseven",
+        "title": "Количество случаев экстремально высокого загрязнения пресноводных объектов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneanineaseven/data-2021-06-09-structure-2021-06-09.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoanineazero",
+        "title": "Количество стационарных источников загрязнения атмосферы на конец года, имеющихся у юридических лиц",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoanineazero/data-2019-05-14-structure-2019-05-14.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasevenatwoafive",
+        "title": "Количество стационарных источников загрязнения атмосферы на конец года, имеющихся у юридических лиц",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasevenatwoafive/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineasevenanine",
+        "title": "Количество субъектов хозяйственной и иной деятельности с установленными нормативами предельно допустимых выбросов вредных (загрязняющих) веществ в атмосферный воздух, расположенных на территории субъекта Российской Федерации и подлежащих федеральному статистическому наблюдению по форме №2-ТП (воздух) \"Сведения об охране атмосферного воздуха\"",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineasevenanine/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneazeroaeightathree",
+        "title": "Количество твердых коммунальных отходов на конец отчетного года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneazeroaeightathree/data-2023-10-26-structure-2023-10-26.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneazeroasevenanine",
+        "title": "Количество твердых коммунальных отходов на начало отчетного года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneazeroasevenanine/data-2023-10-26-structure-2023-10-26.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroatwoasevenafour",
+        "title": "Количество федеральных особо охраняемых природных территорий, нарастающим итогом (G9)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroatwoasevenafour/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeatwoasevenatwo",
+        "title": "Количество экспедиций морских исследований живых ресурсов в Арктической зоне Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeatwoasevenatwo/data-2018-09-06-structure-2018-09-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeazeroaoneafive",
+        "title": "Количество экспедиций морских исследований неживых ресурсов в Арктической зоне Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeazeroaoneafive/data-2022-04-05-structure-2022-04-05.xml"
+    },
+    {
+        "identifier": "7710539135-fiveaoneaeightatwoathree",
+        "title": "Количество экспедиций морских научных исследований в Арктической зоне Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7710539135-fiveaoneaeightatwoathree/data-2016-02-12-structure-2016-02-12.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafiveazeroasix",
+        "title": "Количество экспортируемых рыбы, рыбопродуктов и морепродуктов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafiveazeroasix/data-2020-12-17-structure-2020-12-17.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightanineanineaseven",
+        "title": "Количество экспортируемых рыбы, рыбопродуктов и морепродуктов вне зоны действия таможенного контроля Российской Федерации c 2018 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightanineanineaseven/data-2023-02-20-structure-2023-02-20.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafiveazeroafive",
+        "title": "Количество экспортируемых рыбы, рыбопродуктов и морепродуктов вне зоны действия таможенного контроля Российской Федерации по 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafiveazeroafive/data-2020-12-17-structure-2020-12-17.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafiveazeroaseven",
+        "title": "Количество экспортируемых рыбы, рыбопродуктов и морепродуктов, доставленных для оформления на таможенную территорию Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafiveazeroaseven/data-2020-12-17-structure-2020-12-17.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaoneatwoazero",
+        "title": "Комплексный индекс загрязнения атмосферы",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaoneatwoazero/data-2020-05-27-structure-2020-05-27.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneanineathree",
+        "title": "Лесистость территории Российской Федерации (GA)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneanineathree/data-2022-06-27-structure-2022-06-27.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneaoneasevenathree",
+        "title": "Лесные земли, пройденные пожарами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneaoneasevenathree/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneathreeafive",
+        "title": "Лесные площади",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneathreeafive/data-2021-11-15-structure-2021-11-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneaoneasevenafour",
+        "title": "Лесовосстановление",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneaoneasevenafour/data-2020-10-15-structure-2020-10-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasevenafiveasix",
+        "title": "Лесовосстановление и лесоразведение на территориях, подвергшихся радиоактивному загрязнению",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasevenafiveasix/data-2022-07-01-structure-2022-07-01.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneatwoazeroatwo",
+        "title": "Лесопатологический мониторинг лесных участков на землях лесного фонда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneatwoazeroatwo/data-2016-06-22-structure-2016-06-22.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaoneatwoaone",
+        "title": "Наибольшая повторяемость превышений ПДК мр любым загрязняющим веществом в воздухе города",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaoneatwoaone/data-2020-05-27-structure-2020-05-27.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasevenaeightaone",
+        "title": "Нелесные земли, пройденные пожарами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasevenaeightaone/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeathreeatwo",
+        "title": "Обеспеченность населения питьевой водой, отвечающей требованиям безопасности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeathreeatwo/data-2020-04-02-structure-2020-04-02.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightatwoafiveanine",
+        "title": "Обеспеченность населенных пунктов питьевой водой, отвечающей требованиям безопасности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightatwoafiveanine/data-2020-04-02-structure-2020-04-02.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafiveaoneafour",
+        "title": "Образование выбросов (добыча полезных ископаемых)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafiveaoneafour/data-2023-10-25-structure-2023-10-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafiveaoneathree",
+        "title": "Образование выбросов (обрабатывающие производства)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafiveaoneathree/data-2023-10-25-structure-2023-10-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafiveaoneaone",
+        "title": "Образование выбросов (прочие)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafiveaoneaone/data-2023-10-25-structure-2023-10-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafiveaoneafive",
+        "title": "Образование выбросов (сельское, лесное хозяйство, охота, рыболовство и рыбоводство)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafiveaoneafive/data-2023-10-25-structure-2023-10-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafiveaoneatwo",
+        "title": "Образование выбросов (транспортировка и хранение)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafiveaoneatwo/data-2023-10-25-structure-2023-10-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafiveazeroanine",
+        "title": "Образование выбросов от домашних хозяйств (отопление)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafiveazeroanine/data-2023-10-25-structure-2023-10-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafiveazeroaeight",
+        "title": "Образование выбросов от домашних хозяйств (прочие)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafiveazeroaeight/data-2023-10-25-structure-2023-10-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafiveaoneazero",
+        "title": "Образование выбросов от домашних хозяйств (транспорт)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafiveaoneazero/data-2023-10-25-structure-2023-10-25.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeaoneaseven",
+        "title": "Общая оперативная площадь объектов, на которых проведена дезинсекция",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeaoneaseven/data-2013-09-18-structure-2013-09-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeaoneafive",
+        "title": "Общая оперативная площадь объектов, на которых проведена дератизация",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeaoneafive/data-2013-09-18-structure-2013-09-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasevenanineaeight",
+        "title": "Общая площадь государственных природных заповедников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasevenanineaeight/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeaeightazeroathree",
+        "title": "Общая площадь национальных парков",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeaeightazeroathree/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-fourafourazeroazeroasix",
+        "title": "Общая площадь особо охраняемых природных территорий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafourazeroazeroasix/data-2021-03-16-structure-2021-03-16.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeaeightazeroafour",
+        "title": "Общая площадь очагов вредных организмов на конец отчетного года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeaeightazeroafour/data-2020-10-15-structure-2020-10-15.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoazeroasevenaeight",
+        "title": "Общая площадь территорий, подвергшихся высокому и экстремально высокому загрязнению и оказывающих воздействие на озеро Байкал",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoazeroasevenaeight/data-2023-01-09-structure-2023-01-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaoneaoneafive",
+        "title": "Общее количество населения, обеспеченного питьевым водоснабжением (F5)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaoneaoneafive/data-2023-01-18-structure-2023-01-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeaeightatwoaone",
+        "title": "Общее количество охотпользователей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeaeightatwoaone/data-2020-08-31-structure-2020-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeaeightatwoatwo",
+        "title": "Общее количество посетителей визит-центров на территории государственных природных заповедников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeaeightatwoatwo/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeaeightatwoathree",
+        "title": "Общее количество посетителей визит-центров на территории национальных парков",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeaeightatwoathree/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeaeightatwoafour",
+        "title": "Общее количество посетителей музеев на территории государственных природных заповедников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeaeightatwoafour/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeaeightatwoafive",
+        "title": "Общее количество посетителей музеев на территории национальных парков",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeaeightatwoafive/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeaeightatwoasix",
+        "title": "Общее количество посетителей экотроп и маршрутов на территории государственных природных заповедников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeaeightatwoasix/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeaeightatwoaseven",
+        "title": "Общее количество посетителей экотроп и маршрутов на территории национальных парков",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeaeightatwoaseven/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineaeightathree",
+        "title": "Общее количество субъектов хозяйственной и иной деятельности, расположенных на территории субъекта Российской Федерации и подлежащих федеральному статистическому наблюдению по форме №2-ТП (воздух) \"Сведения об охране атмосферного воздуха\"",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineaeightathree/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeaeightatwoaeight",
+        "title": "Общее количество экотроп и маршрутов на территории государственных природных заповедников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeaeightatwoaeight/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeaeightatwoanine",
+        "title": "Общее количество экотроп и маршрутов на территории национальных парков",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeaeightatwoanine/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeatwoatwo",
+        "title": "Общее число объектов государственного санитарно-эпидемиологического надзора",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeatwoatwo/data-2020-04-02-structure-2020-04-02.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeaeightathreeazero",
+        "title": "Общие затраты на ведение охотничьего хозяйства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeaeightathreeazero/data-2020-10-01-structure-2020-10-01.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafiveafouraeight",
+        "title": "Общие затраты на выполнение водохранных работ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafiveafouraeight/data-2017-05-26-structure-2017-05-26.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneafiveasixafive",
+        "title": "Общие затраты на содержание особо охраняемых природных территорий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneafiveasixafive/data-2021-03-16-structure-2021-03-16.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneanineafive",
+        "title": "Общий запас древесины лесных насаждений на землях лесного фонда и землях иных категорий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneanineafive/data-2023-10-10-structure-2023-10-10.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineaeightatwo",
+        "title": "Объем выбросов вредных (загрязняющих) веществ в атмосферный воздух от стационарных источников, расположенных на территории субъекта Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineaeightatwo/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasevenatwoathree",
+        "title": "Объем выбросов вредных(загрязняющих) веществ в атмосферный воздух от автомобильного транспорта",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasevenatwoathree/data-2023-10-26-structure-2023-10-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasevenatwoatwo",
+        "title": "Объем выбросов вредных(загрязняющих) веществ в атмосферный воздух от железнодорожного транспорта",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasevenatwoatwo/data-2023-10-26-structure-2023-10-26.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoaoneatwoasix",
+        "title": "Объем выбросов опасных загрязняющих веществ, оказывающих наибольшее негативное воздействие на окружающую среду и здоровье человека, по отношению к 2017 году",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoaoneatwoasix/data-2023-07-07-structure-2023-07-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeaeightathreeaseven",
+        "title": "Объем геологоразведочных работ за счет всех источников финансирования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeaeightathreeaseven/data-2022-07-18-structure-2022-07-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeaeightathreeaeight",
+        "title": "Объем геологоразведочных работ на глубокое разведочное бурение",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeaeightathreeaeight/data-2022-07-18-structure-2022-07-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeaeightathreeanine",
+        "title": "Объем геологоразведочных работ по важнейшим видам полезных ископаемых",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeaeightathreeanine/data-2022-07-18-structure-2022-07-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeaeightafourazero",
+        "title": "Объем геологоразведочных работ по стадиям работ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeaeightafourazero/data-2022-07-18-structure-2022-07-18.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafouranineafour",
+        "title": "Объем ежегодно возобновляемых водных ресурсов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafouranineafour/data-2013-07-08-structure-2013-07-08.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasixaeightazero",
+        "title": "Объем запасов некультивируемых видов водных биологических ресурсов на конец года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasixaeightazero/data-2019-04-17-structure-2019-04-17.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasixaeightaone",
+        "title": "Объем запасов некультивируемых видов водных биологических ресурсов на начало года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasixaeightaone/data-2019-04-17-structure-2019-04-17.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoaoneasixatwo",
+        "title": "Объем сброса загрязненных сточных вод для расчета коэффициента \"охрана поверхностных вод водных объектов\"",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoaoneasixatwo/data-2022-07-12-structure-2022-07-12.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourafiveafiveanine",
+        "title": "Объем сброса сточных вод",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourafiveafiveanine/data-2014-12-02-structure-2014-12-02.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineathreeaeight",
+        "title": "Объем сбросов загрязненных сточных вод в водные объекты Байкальской природной территории (G7)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineathreeaeight/data-2023-08-01-structure-2023-08-01.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafouranineathree",
+        "title": "Объем среднемноголетнего речного стока",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafouranineathree/data-2013-07-08-structure-2013-07-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineaeightafive",
+        "title": "Объем экспорта продукции агропромышленного комплекса (T2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineaeightafive/data-2023-07-28-structure-2023-07-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafourasevenasix",
+        "title": "Объем экспорта продукции лесопромышленного комплекса",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafourasevenasix/data-2020-04-24-structure-2020-04-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightazeroatwoathree",
+        "title": "Объемная активность стронция-90 в приземном слое атмосферы",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightazeroatwoathree/data-2012-10-24-structure-2012-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightazeroatwoafour",
+        "title": "Объемная активность цезия-137 в приземном слое атмосферы",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightazeroatwoafour/data-2012-10-24-structure-2012-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightafourafouratwo",
+        "title": "Отклонение от нормы средней месячной температуры воздуха в июле",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightafourafouratwo/data-2012-10-24-structure-2012-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightafourafouraone",
+        "title": "Отклонение от нормы средней месячной температуры воздуха в январе",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightafourafouraone/data-2012-10-24-structure-2012-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightafourafourazero",
+        "title": "Отношение выпавших осадков к норме в июле",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightafourafourazero/data-2012-10-24-structure-2012-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightafourathreeanine",
+        "title": "Отношение выпавших осадков к норме в январе",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightafourathreeanine/data-2012-10-24-structure-2012-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafouraoneafive",
+        "title": "Отношение годового забора (добычи) воды из природных водных объектов к запасам водных ресурсов на конец года, предшествующего отчетному",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafouraoneafive/data-2023-02-06-structure-2023-02-06.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafourazeroafour",
+        "title": "Отношение добытых за отчетный год особей лимитируемого вида охотничьих ресурсов (объектов отстрела, отлова) к их общему запасу на конец года, предшествующего отчетному",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafourazeroafour/data-2022-08-22-structure-2022-08-22.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourathreeaseven",
+        "title": "Отношение количества случаев с установленными нарушителями лесного законодательства к общему количеству зарегистрированных случаев нарушения лесного законодательства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourathreeaseven/data-2022-03-22-structure-2022-03-22.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourafiveafive",
+        "title": "Отношение площади земель лесного фонда, пройденных лесными пожарами в отчетном году, к средней площади земель лесного фонда, которые были пройдены пожарами в течение последних 5 лет",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourafiveafive/data-2022-03-21-structure-2022-03-21.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourathreeatwo",
+        "title": "Отношение площади искусственного лесовосстановления к площади выбытия лесов в результате сплошных рубок и гибели лесов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourathreeatwo/data-2022-03-22-structure-2022-03-22.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoasevenazero",
+        "title": "Отношение площади лесовосстановления и лесоразведения к площади вырубленных и погибших лесных насаждений (GA)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoasevenazero/data-2023-08-10-structure-2023-08-10.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourafouranine",
+        "title": "Отношение площади ликвидированных очагов вредных организмов к площади очагов вредных организмов в лесах, требующих мер борьбы с ними",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourafouranine/data-2022-03-21-structure-2022-03-21.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafouratwoasix",
+        "title": "Отношение площади рубок ухода в молодняках к площади молодняков хозяйственно-ценных пород",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafouratwoasix/data-2022-03-22-structure-2022-03-22.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourafourasix",
+        "title": "Отношение суммы возмещенного ущерба от нарушений лесного законодательства к сумме нанесенного ущерба от нарушений лесного законодательства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourafourasix/data-2017-05-30-structure-2017-05-30.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaoneasevenanine",
+        "title": "Охват площади Байкальской природной территории государственным экологическим мониторингом (G7)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaoneasevenanine/data-2023-08-01-structure-2023-08-01.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneasevenanineathree",
+        "title": "Оценка продуктивности природных ресурсов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneasevenanineathree/data-2022-11-09-structure-2022-11-09.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneathreeaoneanine",
+        "title": "Площади многолетних насаждений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneathreeaoneanine/data-2020-08-31-structure-2020-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasixasixazero",
+        "title": "Площади многолетних плодовых насаждений и ягодных культур (окончательные итоги)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasixasixazero/data-2020-08-24-structure-2020-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafouratwoafive",
+        "title": "Площади плантаций быстрорастущего леса",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafouratwoafive/data-2022-03-23-structure-2022-03-23.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneafourathree",
+        "title": "Площадь новых ООПТ, созданных в отчетном году",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneafourathree/data-2021-03-16-structure-2021-03-16.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeanineazeroafive",
+        "title": "Площадь возникших вновь очагов вредных организмов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeanineazeroafive/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaoneanineasix",
+        "title": "Площадь восстановленных водных объектов (G8)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaoneanineasix/data-2023-08-04-structure-2023-08-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaoneanineaseven",
+        "title": "Площадь восстановленных водных объектов Нижней Волги (G6)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaoneanineaseven/data-2023-08-04-structure-2023-08-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenafouraoneathree",
+        "title": "Площадь выполненных авиационных и наземных работ по локализации очагов вредных организмов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenafouraoneathree/data-2022-03-25-structure-2022-03-25.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeaeightazeroafive",
+        "title": "Площадь закрепленных охотничьих угодий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeaeightazeroafive/data-2020-10-01-structure-2020-10-01.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneasevenazero",
+        "title": "Площадь закрепленных охотничьих угодий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneasevenazero/data-2022-08-26-structure-2022-08-26.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneafourafour",
+        "title": "Площадь земель водного фонда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneafourafour/data-2021-11-15-structure-2021-11-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneafourathree",
+        "title": "Площадь земель запаса",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneafourathree/data-2021-11-15-structure-2021-11-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneafourafive",
+        "title": "Площадь земель лесного фонда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneafourafive/data-2021-11-15-structure-2021-11-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneanineasix",
+        "title": "Площадь земель на которых расположены леса",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneanineasix/data-2019-08-09-structure-2019-08-09.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneafourasix",
+        "title": "Площадь земель особо охраняемых территорий и объектов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneafourasix/data-2021-11-15-structure-2021-11-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneathreeatwo",
+        "title": "Площадь земель под болотами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneathreeatwo/data-2021-11-15-structure-2021-11-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneathreeathree",
+        "title": "Площадь земель под водой",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneathreeathree/data-2021-11-15-structure-2021-11-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneathreeazero",
+        "title": "Площадь земель под дорогами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneathreeazero/data-2021-11-15-structure-2021-11-15.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafiveasevenaone",
+        "title": "Площадь земель сельскохозяйственного назначения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafiveasevenaone/data-2021-12-08-structure-2021-12-08.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafiveasevenatwo",
+        "title": "Площадь земель сельскохозяйственного назначения, изъятых из оборота в связи с консервацией земель",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafiveasevenatwo/data-2021-09-03-structure-2021-09-03.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafiveasevenathree",
+        "title": "Площадь земель сельскохозяйственного назначения, переведенных в состав земель иных категорий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafiveasevenathree/data-2021-09-03-structure-2021-09-03.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneatwoasix",
+        "title": "Площадь земель у граждан (объединений граждан), занимающихся производством сельскохозяйственной продукции",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneatwoasix/data-2021-11-16-structure-2021-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneatwoaeight",
+        "title": "Площадь земель, используемых предприятиями, организациями, хозяйствами, обществами для производства сельскохозяйственной продукции",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneatwoaeight/data-2021-11-15-structure-2021-11-15.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneasixaeight",
+        "title": "Площадь иных территорий, являющихся средой обитания охотничьих ресурсов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneasixaeight/data-2022-08-26-structure-2022-08-26.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneanineafour",
+        "title": "Площадь лесных земель",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneanineafour/data-2019-08-09-structure-2019-08-09.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneathreeafour",
+        "title": "Площадь лесных насаждений, не входящих в лесной фонд",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneathreeafour/data-2021-11-15-structure-2021-11-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightafouranineafive",
+        "title": "Площадь лесных пожаров в лесах на землях иных категорий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightafouranineafive/data-2023-04-11-structure-2023-04-11.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightafouranineasix",
+        "title": "Площадь лесных пожаров на землях лесного фонда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightafouranineasix/data-2023-04-11-structure-2023-04-11.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasevenathreeasix",
+        "title": "Площадь лесных пожаров, зарегистрированных в зоне контроля лесных пожаров, где решением КЧС и ОПБ субъекта Российской Федерации принято решении о приостановке и прекращении тушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasevenathreeasix/data-2023-04-11-structure-2023-04-11.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasixasixafour",
+        "title": "Площадь лесных участков, на которой выполнены мероприятия по уничтожению или подавлению численности вредных организмов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasixasixafour/data-2020-10-15-structure-2020-10-15.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightathreeasixatwo",
+        "title": "Площадь лесов в процентном соотношении к общей площади суши (15.1.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightathreeasixatwo/data-2022-02-04-structure-2022-02-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaeightafiveatwo",
+        "title": "Площадь лесовосстановления",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaeightafiveatwo/data-2022-03-25-structure-2022-03-25.xml"
+    },
+    {
+        "identifier": "7708234640-fourafouraeightafourafive",
+        "title": "Площадь мелиорируемых земель, введенная в эксплуатацию, всего",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafouraeightafourafive/data-2021-09-07-structure-2021-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroazeroasevenafive",
+        "title": "Площадь морской акватории новых ООПТ федерального значения, созданных в году t",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroazeroasevenafive/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroazeroasevenathree",
+        "title": "Площадь морской акватории ООПТ федерального значения, находящихся в ведении Минприроды России, расширенных в году t",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroazeroasevenathree/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneatwoanine",
+        "title": "Площадь нарушенных земель",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneatwoanine/data-2021-11-15-structure-2021-11-15.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroazeroasevenaeight",
+        "title": "Площадь новых ООПТ федерального значения, созданных в году t в рамках федерального проекта 'Сохранение биологического разнообразия и развития экологического туризма'",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroazeroasevenaeight/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneasixanine",
+        "title": "Площадь общедоступных охотничьих угодий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneasixanine/data-2022-08-26-structure-2022-08-26.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroazeroasevenanine",
+        "title": "Площадь ООПТ федерального значения, созданных на начало года t",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroazeroasevenanine/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeanineazeroanine",
+        "title": "Площадь очагов вредных организмов, затухших под воздействием естественных факторов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeanineazeroanine/data-2020-10-15-structure-2020-10-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeanineaoneazero",
+        "title": "Площадь очагов вредных организмов, ликвидированных мерами борьбы",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeanineaoneazero/data-2020-10-15-structure-2020-10-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeanineaoneaone",
+        "title": "Площадь очагов вредных организмов, требующих мер борьбы, на конец отчетного года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeanineaoneaone/data-2020-10-15-structure-2020-10-15.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeanineasixafive",
+        "title": "Площадь парков в расчете на 1 человека",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeanineasixafive/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fourafourafiveaoneanine",
+        "title": "Площадь рекультивированных земель",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafourafiveaoneanine/data-2016-09-19-structure-2016-09-19.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneatwoazeroafour",
+        "title": "Площадь рубок ухода в молодняках",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneatwoazeroafour/data-2016-06-22-structure-2016-06-22.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoathreeafiveatwo",
+        "title": "Площадь скошенных естественных трав первым укосом на сено, сенаж, зеленый корм, силос, травяную муку и др.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoathreeafiveatwo/data-2023-01-12-structure-2023-01-12.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoathreeafourafive",
+        "title": "Площадь скошенных сеяных и естественных трав",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoathreeafourafive/data-2023-01-12-structure-2023-01-12.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoathreeafiveathree",
+        "title": "Площадь скошенных сеяных трав первым укосом на сено, сенаж, зеленый корм, силос, травяную муку и др.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoathreeafiveathree/data-2023-01-12-structure-2023-01-12.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroazeroasevenasix",
+        "title": "Площадь сухопутной части новых ООПТ федерального значения, созданных в году t",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroazeroasevenasix/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroazeroasevenafour",
+        "title": "Площадь сухопутной части ООПТ федерального значения, находящихся в ведении Минприроды России, расширенных в году t",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroazeroasevenafour/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroazeroasevenaseven",
+        "title": "Площадь территории расширения ООПТ федерального значения, находящихся в ведении Минприроды России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroazeroasevenaseven/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneathreeatwoafour",
+        "title": "Площадь чистых паров",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneathreeatwoafour/data-2020-08-31-structure-2020-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaeightaeightatwo",
+        "title": "Площадь, подверженная ветровой эрозии",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaeightaeightatwo/data-2020-03-12-structure-2020-03-12.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaeightaeightaone",
+        "title": "Площадь, подверженная водной эрозии",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaeightaeightaone/data-2021-09-07-structure-2021-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaeightaeightathree",
+        "title": "Площадь, подверженная засолению",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaeightaeightathree/data-2021-09-07-structure-2021-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaeightaeightafour",
+        "title": "Площадь, подверженная переувлажнению",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaeightaeightafour/data-2021-09-07-structure-2021-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeanineaoneatwo",
+        "title": "Погибло лесных насаждений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeanineaoneatwo/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeanineaoneathree",
+        "title": "Погибло молодняков",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeanineaoneathree/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeanineaoneafour",
+        "title": "Погибло хвойных лесных насаждений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeanineaoneafour/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafiveaeightazero",
+        "title": "Поглощение лесами углерода (GA)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafiveaeightazero/data-2021-08-23-structure-2021-08-23.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenafourathreeazero",
+        "title": "Поголовье сельскохозяйственных животных (окончательные итоги)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenafourathreeazero/data-2020-08-24-structure-2020-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeanineaoneafive",
+        "title": "Поголовье скота и птицы",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeanineaoneafive/data-2020-08-31-structure-2020-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneathreeatwoafive",
+        "title": "Поголовье скота и птицы в хозяйствах всех категорий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneathreeatwoafive/data-2020-08-31-structure-2020-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasixafouratwo",
+        "title": "Поголовье скота на территории, загрязненной радионуклидами, на конец года, по 2020г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasixafouratwo/data-2023-02-22-structure-2023-02-22.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneazeroaseven",
+        "title": "Подано воды в сеть",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneazeroaseven/data-2020-07-08-structure-2020-07-08.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasixasixatwo",
+        "title": "Посевная площадь по видам сельскохозяйственных культур (окончательные итоги)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasixasixatwo/data-2020-08-24-structure-2020-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneathreeatwoaeight",
+        "title": "Посевные площади сельскохозяйственных культур",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneathreeatwoaeight/data-2020-08-31-structure-2020-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeanineaoneanine",
+        "title": "Посевные площади сельскохозяйственных культур (весеннего учета)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeanineaoneanine/data-2022-08-24-structure-2022-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafiveafourafive",
+        "title": "Посеяно озимых культур на зерно в сельскохозяйственных организациях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafiveafourafive/data-2021-09-14-structure-2021-09-14.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeanineatwoazero",
+        "title": "Посеяно озимых культур на зерно и зеленый корм в сельскохозяйственных организациях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeanineatwoazero/data-2021-09-14-structure-2021-09-14.xml"
+    },
+    {
+        "identifier": "7708234640-threeafouraoneafiveaeight",
+        "title": "Посеяно яровых культур",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafouraoneafiveaeight/data-2021-09-02-structure-2021-09-02.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoaoneatwo",
+        "title": "Поступления экологических налогов и платежей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoaoneatwo/data-2022-09-29-structure-2022-09-29.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafiveazeroafive",
+        "title": "Потоки выбросов в окружающую среду",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafiveazeroafive/data-2023-10-25-structure-2023-10-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroasevenasixafour",
+        "title": "Природоохранные расходы в фактических ценах",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroasevenasixafour/data-2023-01-26-structure-2023-01-26.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoazeroaeightafour",
+        "title": "Прирост мощности очистных сооружений, обеспечивающих нормативную очистку сточных вод",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoazeroaeightafour/data-2023-03-03-structure-2023-03-03.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeanineatwoanine",
+        "title": "Проведение учета численности охотничьих ресурсов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeanineatwoanine/data-2020-10-01-structure-2020-10-01.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroasixazero",
+        "title": "Продукция животноводства в фактически действовавших ценах (окончательные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroasixazero/data-2022-07-01-structure-2022-07-01.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroafiveanine",
+        "title": "Продукция растениеводства в фактически действовавших ценах (окончательные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroafiveanine/data-2022-07-01-structure-2022-07-01.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenafourazeroaone",
+        "title": "Произведена замена поголовья скота, неблагополучного по туберкулезу, в сельхозорганизациях, находящихся на территориях, загрязненных радионуклидами, по 2020г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenafourazeroaone/data-2023-02-22-structure-2023-02-22.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasixafourazero",
+        "title": "Произвестковано кислых почв сельхозорганизациями на площади, загрязненной радионуклидами, по 2020г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasixafourazero/data-2023-02-22-structure-2023-02-22.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoathreeaeightaone",
+        "title": "Производственная себестоимость продукции растениеводства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoathreeaeightaone/data-2021-09-03-structure-2021-09-03.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoathreeasevenaeight",
+        "title": "Производственная себестоимость продукции животноводства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoathreeasevenaeight/data-2021-09-03-structure-2021-09-03.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoathreeasevenafive",
+        "title": "Производственная себестоимость рыбопосадочного материала одомашненных видов и пород",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoathreeasevenafive/data-2021-09-03-structure-2021-09-03.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaoneanineafive",
+        "title": "Протяженность восстановленных водных объектов Нижней Волги (G6)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaoneanineafive/data-2023-08-04-structure-2023-08-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneatwoazeroaone",
+        "title": "Радиационный мониторинг лесов, расположенных на землях лесного фонда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneatwoazeroaone/data-2016-06-22-structure-2016-06-22.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenanineathreeafive",
+        "title": "Расходы на защиту лесов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenanineathreeafive/data-2022-03-25-structure-2022-03-25.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenanineatwoanine",
+        "title": "Расходы на лесовосстановление",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenanineatwoanine/data-2022-03-25-structure-2022-03-25.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourasevenazero",
+        "title": "Расходы на обеспечение охраны, защиты, воспроизводства лесов на землях лесного фонда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourasevenazero/data-2022-03-28-structure-2022-03-28.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenanineatwoathree",
+        "title": "Расходы на осуществление переданных полномочий Российской Федерации в области лесных отношений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenanineatwoathree/data-2022-03-23-structure-2022-03-23.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenanineatwoaeight",
+        "title": "Расходы на осуществление профилактических и реабитационных мероприятий в зонах радиактивного загрязнения лесов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenanineatwoaeight/data-2022-03-28-structure-2022-03-28.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourasevenaone",
+        "title": "Расходы на осуществление функций государственного управления в области лесных отношений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourasevenaone/data-2022-03-28-structure-2022-03-28.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenanineatwoaseven",
+        "title": "Расходы на охрану лесов от пожаров",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenanineatwoaseven/data-2022-03-28-structure-2022-03-28.xml"
+    },
+    {
+        "identifier": "7708234640-fourafiveafourazeroaone",
+        "title": "Расходы на рекультивацию земель по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafiveafourazeroaone/data-2020-08-19-structure-2020-08-19.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeanineasevenaone",
+        "title": "Расходы по тушению лесных пожаров",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeanineasevenaone/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoafiveatwo",
+        "title": "Рекультивированная площадь",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoafiveatwo/data-2015-04-03-structure-2015-04-03.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaeightafourafive",
+        "title": "Сброс загрязненных сточных вод",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaeightafourafive/data-2013-09-03-structure-2013-09-03.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoathreeathree",
+        "title": "Сводный индекс обработки (сортировки), утилизации и захоронения твердых коммунальных отходов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoathreeathree/data-2023-05-22-structure-2023-05-22.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafourathreeafour",
+        "title": "Сгорело леса на корню",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafourathreeafour/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveaeightasixatwo",
+        "title": "Сгорело лесных насаждений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveaeightasixatwo/data-2016-11-17-structure-2016-11-17.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaoneaeightathree",
+        "title": "Снижение объема отводимых в р. Волгу загрязненных сточных вод, нарастающим итогом (G6)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaoneaeightathree/data-2023-08-08-structure-2023-08-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoaoneasixaone",
+        "title": "Снижение совокупного объема выбросов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoaoneasixaone/data-2023-07-07-structure-2023-07-07.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoazeroaseven",
+        "title": "Снижение совокупного объема выбросов опасных загрязняющих веществ в городах - участниках проекта (G4)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoazeroaseven/data-2023-07-07-structure-2023-07-07.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourafouraseven",
+        "title": "Сокращение объема незаконных рубок в процентах к предыдущему году",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourafouraseven/data-2022-03-21-structure-2022-03-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneatwoazeroaseven",
+        "title": "Сокращение объема незаконных рубок по отношению к объему таких рубок в предыдущем году",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneatwoazeroaseven/data-2016-06-22-structure-2016-06-22.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafouratwoafour",
+        "title": "Сохранение доли площади ценных лесных насаждений в составе покрытых лесной растительностью земель лесного фонда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafouratwoafour/data-2023-03-13-structure-2023-03-13.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveatwoaseven",
+        "title": "Специальные автомобили (включая арендованные), используемые для уборки территорий и вывоза коммунальных отходов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveatwoaseven/data-2019-10-15-structure-2019-10-15.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaeightathreeaone",
+        "title": "Среднегодовой уровень содержания мелких твердых частиц (РМ2,5 и РМ10) в атмосфере городов Гусиноозерск, Иркутск, Казань, Улан-Удэ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaeightathreeaone/data-2020-12-14-structure-2020-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeanineasixazero",
+        "title": "Среднее число посетителей зоопарков на 1 тыс. человек населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeanineasixazero/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeanineasixasix",
+        "title": "Среднее число посетителей платных мероприятий парков на 1 тыс. человек населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeanineasixasix/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightafourathreeaseven",
+        "title": "Средняя месячная температура воздуха в июле (фактическая)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightafourathreeaseven/data-2012-10-24-structure-2012-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightafourathreeasix",
+        "title": "Средняя месячная температура воздуха в январе (фактическая)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightafourathreeasix/data-2012-10-24-structure-2012-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafourafiveanine",
+        "title": "Средняя численность должностных лиц, осуществляющих федеральный государственный лесной надзор (лесную охрану), на 50 тысяч гектаров земель лесного фонда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafourafiveanine/data-2022-03-22-structure-2022-03-22.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourathreeathree",
+        "title": "Средняя численность лесной охраны на 50 тыс. га земель лесного фонда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourathreeathree/data-2022-03-25-structure-2022-03-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaoneaoneanine",
+        "title": "Стандартный индекс концентрации загрязняющего вещества",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaoneaoneanine/data-2022-08-22-structure-2022-08-22.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaoneasevenaeight",
+        "title": "Степень готовности производственно-технических комплексов по обработке, утилизации и обезвреживанию отходов I и II классов опасности (G3)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaoneasevenaeight/data-2023-09-07-structure-2023-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasixaeightaeight",
+        "title": "Стоимость запасов некультивируемых видов водных биологических ресурсов в текущих рыночных ценах на конец года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasixaeightaeight/data-2018-07-30-structure-2018-07-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasixaeightaseven",
+        "title": "Стоимость запасов некультивируемых видов водных биологических ресурсов в текущих рыночных ценах на начало года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasixaeightaseven/data-2018-07-30-structure-2018-07-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroasixasevenafive",
+        "title": "Структура многолетних плодовых насаждений и ягодных культур (окончательные итоги)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroasixasevenafive/data-2020-08-24-structure-2020-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasixasixaone",
+        "title": "Структура посевных площадей по видам сельскохозяйственных культур (окончательные итоги)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasixasixaone/data-2020-08-24-structure-2020-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightazeroatwoatwo",
+        "title": "Суммарная бетта-активность в приземном слое атмосферы",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightazeroatwoatwo/data-2012-10-24-structure-2012-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafourafourazero",
+        "title": "Счет водных ресурсов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafourafourazero/data-2023-07-20-structure-2023-07-20.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafiveaoneasix",
+        "title": "Счет отходов производства и потребления",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafiveaoneasix/data-2023-10-25-structure-2023-10-25.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourazeroaoneasix",
+        "title": "Текущие (эксплуатационные) затраты на охрану окружающей среды по 2011 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourazeroaoneasix/data-2023-01-30-structure-2023-01-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveafouraseven",
+        "title": "Текущие (эксплуатационные) затраты на охрану окружающей среды с 2012 г. по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveafouraseven/data-2023-01-30-structure-2023-01-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasixazeroaseven",
+        "title": "Текущие (эксплуатационные) затраты на охрану окружающей среды с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasixazeroaseven/data-2023-01-30-structure-2023-01-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourazeroaoneaseven",
+        "title": "Текущие (эксплуатационные) затраты на охрану окружающей среды, включая оплату услуг природоохранного назначения по 2011 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourazeroaoneaseven/data-2023-01-30-structure-2023-01-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourafouraoneatwoatwo",
+        "title": "Текущие (эксплуатационные) затраты на охрану окружающей среды, включая оплату услуг природоохранного назначения с 2012 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafouraoneatwoatwo/data-2023-01-30-structure-2023-01-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafouranineanine",
+        "title": "Увеличена площадь федеральных особо охраняемых природных территорий, нарастающим итогом (G9)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafouranineanine/data-2022-09-21-structure-2022-09-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafourasixazero",
+        "title": "Увеличение площади лесоразведения нарастающим итогом к 2012 году",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafourasixazero/data-2022-03-23-structure-2022-03-23.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafouratwoaseven",
+        "title": "Увеличение площади лесоразведения по отношению к базовому году (2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafouratwoaseven/data-2022-03-25-structure-2022-03-25.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafiveatwoanine",
+        "title": "Уловлено и обезврежено загрязняющих веществ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafiveatwoanine/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroanineathreeaseven",
+        "title": "Уровень нагрузки на водные ресурсы: забор пресной воды в процентном отношении к имеющимся запасам пресной воды (6.4.2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroanineathreeaseven/data-2022-11-23-structure-2022-11-23.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourazeroathreeafour",
+        "title": "Утечка и неучтенный расход воды",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourazeroathreeafour/data-2023-10-05-structure-2023-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafiveathreeafour",
+        "title": "Утилизировано загрязняющих веществ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafiveathreeafour/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoaeightaeight",
+        "title": "Утилизировано загрязняющих веществ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoaeightaeight/data-2019-05-14-structure-2019-05-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoasixanine",
+        "title": "Ущерб от лесных пожаров (GA)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoasixanine/data-2022-07-27-structure-2022-07-27.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafourasevenatwo",
+        "title": "Фактические расходы на осуществление переданных полномочий в области лесных отношений за счет всех источников финансирования в текущих ценах",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafourasevenatwo/data-2022-03-28-structure-2022-03-28.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafiveaeight",
+        "title": "Численность барсука",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafiveaeight/data-2022-08-29-structure-2022-08-29.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafiveafive",
+        "title": "Численность благородного оленя",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafiveafive/data-2022-08-29-structure-2022-08-29.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneasixaone",
+        "title": "Численность бурого медведя",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneasixaone/data-2022-08-29-structure-2022-08-29.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafiveanine",
+        "title": "Численность выдры",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafiveanine/data-2022-08-30-structure-2022-08-30.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneasixatwo",
+        "title": "Численность гибридов зубра с бизоном, домашним скотом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneasixatwo/data-2022-08-30-structure-2022-08-30.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneasixazero",
+        "title": "Численность гималайского (белогрудого) медведя",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneasixazero/data-2022-08-31-structure-2022-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafiveasix",
+        "title": "Численность дикого северного оленя",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafiveasix/data-2022-08-31-structure-2022-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneasixaseven",
+        "title": "Численность кабана",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneasixaseven/data-2022-08-31-structure-2022-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafiveaseven",
+        "title": "Численность кабарги",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafiveaseven/data-2022-08-31-structure-2022-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafiveafour",
+        "title": "Численность косуль",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafiveafour/data-2022-08-31-structure-2022-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneasixafive",
+        "title": "Численность лани",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneasixafive/data-2022-08-31-structure-2022-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafiveathree",
+        "title": "Численность лося",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafiveathree/data-2022-08-31-structure-2022-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneasixafour",
+        "title": "Численность муфлона",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneasixafour/data-2022-08-31-structure-2022-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafiveatwo",
+        "title": "Численность овцебыка",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafiveatwo/data-2022-08-31-structure-2022-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaeightaeightafive",
+        "title": "Численность популяций редких и исчезающих видов животных, занесенных в Красную книгу Российской Федерации, обитающих в Арктической зоне Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaeightaeightafive/data-2020-04-08-structure-2020-04-08.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneasixasix",
+        "title": "Численность пятнистого оленя",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneasixasix/data-2022-08-31-structure-2022-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenasixafive",
+        "title": "Численность работников зоопарков",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenasixafive/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafouraseven",
+        "title": "Численность рыси",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafouraseven/data-2022-08-31-structure-2022-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneasixathree",
+        "title": "Численность сайгака",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneasixathree/data-2022-08-31-structure-2022-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafiveaone",
+        "title": "Численность серны",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafiveaone/data-2022-08-31-structure-2022-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafiveazero",
+        "title": "Численность сибирского горного козла",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafiveazero/data-2022-08-31-structure-2022-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafouraeight",
+        "title": "Численность снежного барана",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafouraeight/data-2022-08-31-structure-2022-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafourasix",
+        "title": "Численность соболя",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafourasix/data-2022-08-31-structure-2022-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaoneafouranine",
+        "title": "Численность туров",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaoneafouranine/data-2022-08-31-structure-2022-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenasixanine",
+        "title": "Число зоопарков",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenasixanine/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenasixaseven",
+        "title": "Число зоопарков строения которых находятся в аварийном состоянии",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenasixaseven/data-2017-05-29-structure-2017-05-29.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenasixaeight",
+        "title": "Число зоопарков строения которых требуют капитального ремонта",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenasixaeight/data-2017-05-29-structure-2017-05-29.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeathreeazero",
+        "title": "Число исследованных проб воды из водных объектов в местах водопользования населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeathreeazero/data-2012-10-31-structure-2012-10-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeathreeafour",
+        "title": "Число исследованных проб воды хозяйственно-питьевого назначения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeathreeafour/data-2012-10-31-structure-2012-10-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeatwoasix",
+        "title": "Число исследованных проб йодированной соли",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeatwoasix/data-2012-10-31-structure-2012-10-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeatwoaeight",
+        "title": "Число исследованных проб продовольственного сырья и пищевых продуктов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeatwoaeight/data-2012-10-31-structure-2012-10-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeatwoanine",
+        "title": "Число исследованных проб сточных вод на выходе из очистных сооружений и их осадков на содержание цист простейших и яиц гельминтов, опасных для человека",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeatwoanine/data-2012-10-31-structure-2012-10-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafiveaeightazero",
+        "title": "Число лесных пожаров",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafiveaeightazero/data-2020-09-04-structure-2020-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveazeroaeightafiveaseven",
+        "title": "Число нарушений законодательства в области рыболовства, сохранения водных биоресурсов и среды их обитания",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveazeroaeightafiveaseven/data-2018-01-22-structure-2018-01-22.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenasixasix",
+        "title": "Число посещений зоопарка",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenasixasix/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightatwoazeroatwo",
+        "title": "Число случаев аварийного загрязнения атмосферного воздуха",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightatwoazeroatwo/data-2012-10-24-structure-2012-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightatwoazeroaone",
+        "title": "Число случаев аварийного загрязнения водных объектов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightatwoazeroaone/data-2012-10-24-structure-2012-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightatwoazeroazero",
+        "title": "Число случаев высокого загрязнения атмосферного воздуха",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightatwoazeroazero/data-2018-02-02-structure-2018-02-02.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightafouranineaseven",
+        "title": "Число случаев лесных пожаров",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightafouranineaseven/data-2023-04-11-structure-2023-04-11.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasevenathreeafive",
+        "title": "Число случаев лесных пожаров, зарегистрированных в зоне контроля лесных пожаров, где решением КЧС и ОПБ субъекта Российской Федерации принято решении о приостановке и прекращении тушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasevenathreeafive/data-2023-04-11-structure-2023-04-11.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightaoneanineaeight",
+        "title": "Число случаев экстремально высокого загрязнения атмосферного воздуха",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightaoneanineaeight/data-2012-10-24-structure-2012-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroazeroasevenaone",
+        "title": "Число ФГБУ, осуществляющих управление ООПТ федерального значения, находящихся в ведении Минприроды России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroazeroasevenaone/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoazeroaeightasix",
+        "title": "Экологическое оздоровление водных объектов, включая р. Волгу, озера Байкал и Телецкое",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoazeroaeightasix/data-2022-06-02-structure-2022-06-02.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoatwoaseven",
+        "title": "Экономия минерально-сырьевой базы урана (по действующим энергоблокам)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoatwoaseven/data-2022-11-29-structure-2022-11-29.xml"
+    }
+]

@@ -1,0 +1,1058 @@
+[
+    {
+        "identifier": "7708234640-sixaoneasixathreeasix",
+        "title": "Доля граждан, систематически занимающихся физической культурой и спортом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneasixathreeasix/data-2021-09-16-structure-2021-09-16.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoasixasix",
+        "title": "Доля граждан, систематически занимающихся физической культурой и спортом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoasixasix/data-2023-07-18-structure-2023-07-18.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneasixathreeafive",
+        "title": "Доля граждан, систематически занимающихся физической культурой и спортом (Р5)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneasixathreeafive/data-2023-08-08-structure-2023-08-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroanineathreeatwo",
+        "title": "Доля детей в возрасте от 3 до 18 лет, занимающихся физической культурой и спортом, в общей численности детей соответствующего возраста",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroanineathreeatwo/data-2021-01-19-structure-2021-01-19.xml"
+    },
+    {
+        "identifier": "7708234640-fiveazeroanineatwoaseven",
+        "title": "Доля зданий учреждений культурно-досугового типа Минкультуры России, находящихся в неудовлетворительном состоянии",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveazeroanineatwoaseven/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoaoneaone",
+        "title": "Доля зданий учреждений культурно-досугового типа, не относящихся к сфере ведения Минкультуры России, помещения которых находятся в неудовлетворительном состоянии",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoaoneaone/data-2019-01-14-structure-2019-01-14.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoaoneasix",
+        "title": "Доля искусственных сооружений, расположенных на автомобильных дорогах общего пользования регионального значения, входящих в опорную сеть, рассчитанных на нагрузку не менее A11",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoaoneasix/data-2023-11-03-structure-2023-11-03.xml"
+    },
+    {
+        "identifier": "7708234640-fiveazeroanineatwoathree",
+        "title": "Доля концертных организаций и самостоятельных коллективов Минкультуры России, помещения которых находятся в неудовлетворительном состоянии",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveazeroanineatwoathree/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveazeroanineatwoafive",
+        "title": "Доля музеев Минкультуры России, строения которых находятся в неудовлетворительном состоянии",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveazeroanineatwoafive/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeanineafouranine",
+        "title": "Доля музеев, имеющих сайт в сети Интернет в общем количестве музеев Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeanineafouranine/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoazeroathree",
+        "title": "Доля музеев, не относящихся к сфере ведения Минкультуры России, строения которых находятся в неудовлетворительном состоянии",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoazeroathree/data-2018-10-05-structure-2018-10-05.xml"
+    },
+    {
+        "identifier": "7707418081-fiveanineasevenafiveaeight",
+        "title": "Доля муниципальных общеобразовательных организаций, здания которых находятся в аварийном состоянии или требуют капитального ремонта, в общем количестве муниципальных общеобразовательных организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-fiveanineasevenafiveaeight/data-2023-09-07-structure-2023-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoatwoanine",
+        "title": "Доля муниципальных учреждений культуры, здания которых находятся в аварийном состоянии или требуют капитального ремонта, в общем количестве муниципальных учреждений культуры",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoatwoanine/data-2018-02-20-structure-2018-02-20.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafourasixasevenaone",
+        "title": "Доля населения Российской Федерации, выполнившего нормативы испытаний (тестов) Всероссийского физкультурно-спортивного комплекса 'Готов к труду и обороне' (ГТО)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafourasixasevenaone/data-2017-05-31-structure-2017-05-31.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoathreeafour",
+        "title": "Доля населения, ведущего здоровый образ жизни",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoathreeafour/data-2021-01-12-structure-2021-01-12.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafourafiveazeroaone",
+        "title": "Доля населения, систематически занимающегося физической культурой и спортом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafourafiveazeroaone/data-2017-09-27-structure-2017-09-27.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroafourafive",
+        "title": "Доля негосударственных организаций в общем количестве организаций, оказывающих услуги в деятельности учреждений культуры и искусства (по данным государственной регистрации)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroafourafive/data-2023-09-26-structure-2023-09-26.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafourasevenafour",
+        "title": "Доля обучающихся, выполнивших нормативы испытаний (тестов) Всероссийского физкультурно-спортивного комплекса \"Готов к труду и обороне\" (ГТО), в общей численности детей в возрасте от 6 до 18 лет",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafourasevenafour/data-2023-08-17-structure-2023-08-17.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoathreeathree",
+        "title": "Доля обучающихся, систематически занимающихся физической культурой и спортом, в общей численности обучающихся",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoathreeathree/data-2017-10-06-structure-2017-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoatwoaeight",
+        "title": "Доля объектов культурного наследия, находящихся в муниципальной собственности и требующих консервации или реставрации, в общем количестве объектов культурного наследия, находящихся в муниципальной собственности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoatwoaeight/data-2018-02-20-structure-2018-02-20.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoaeightafour",
+        "title": "Доля объектов социальной и коммунальной инфраструктуры, при строительстве которых применена проектная документация повторного применения, включённая в реестр типовой проектной документации повторного применения, в общем количестве объектов капитального строительства, посторожённых с привлечением средств федерального бюджета",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoaeightafour/data-2017-08-31-structure-2017-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fiveazeroanineatwoaone",
+        "title": "Доля помещений детских школ искусств Минкультуры России, находящихся в неудовлетворительном состоянии",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveazeroanineatwoaone/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveazeroanineatwoasix",
+        "title": "Доля театров Минкультуры России, помещения которых находятся в неудовлетворительном состоянии",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveazeroanineatwoasix/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneanineaeight",
+        "title": "Доля театров, не относящихся к сфере ведения Минкультуры России, помещения которых находятся в неудовлетворительном состоянии",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneanineaeight/data-2018-10-05-structure-2018-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafourathreeatwo",
+        "title": "Индекс массы тела (IMT)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafourathreeatwo/data-2021-02-17-structure-2021-02-17.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineazeroaone",
+        "title": "Количество (доля) граждан, ведущих здоровый образ жизни (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineazeroaone/data-2021-11-19-structure-2021-11-19.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafourafiveaseven",
+        "title": "Количество (доля) граждан, ведущих здоровый образ жизни (Р4)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafourafiveaseven/data-2023-07-18-structure-2023-07-18.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaoneaeightaone",
+        "title": "Количество зрителей на сеансах отечественных фильмов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaoneaeightaone/data-2020-06-25-structure-2020-06-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoasevenatwo",
+        "title": "Количество кинозалов, оснащённых современным оборудованием",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoasevenatwo/data-2022-07-08-structure-2022-07-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoasevenafive",
+        "title": "Количество культурно-образовательных и музейных комплексов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoasevenafive/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveaoneatwoasix",
+        "title": "Количество объектов культурного наследия, включенных в реестр",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveaoneatwoasix/data-2015-09-30-structure-2015-09-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveaoneatwoafive",
+        "title": "Количество объектов культурного наследия, включенных в реестр, по которым проводятся работы по их сохранению",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveaoneatwoafive/data-2015-09-30-structure-2015-09-30.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoafiveaeight",
+        "title": "Количество оказанной государственной поддержки лучшим работникам сельских учреждений культуры",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoafiveaeight/data-2022-07-08-structure-2022-07-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoafiveanine",
+        "title": "Количество оказанной государственной поддержки лучшим сельским учреждениям культуры",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoafiveanine/data-2022-07-08-structure-2022-07-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoasevenafour",
+        "title": "Количество организаций культуры, получивших современное оборудование (A1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoasevenafour/data-2022-07-08-structure-2022-07-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoazeroanineathree",
+        "title": "Количество оснащенных муниципальных музеев",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoazeroanineathree/data-2022-07-08-structure-2022-07-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoathreeasevenatwo",
+        "title": "Количество оснащенных региональных и муниципальных театров",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoathreeasevenatwo/data-2023-05-05-structure-2023-05-05.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasixasevenathree",
+        "title": "Количество памятников всего с учетом элементов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasixasevenathree/data-2013-07-10-structure-2013-07-10.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaoneanineaone",
+        "title": "Количество посещений государственных и муниципальных театров, негосударственных организаций, осуществляющих театральную деятельность (мероприятий в России)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaoneanineaone/data-2020-06-25-structure-2020-06-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaoneanineazero",
+        "title": "Количество посещений государственных, муниципальных и негосударственных организаций музейного типа",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaoneanineazero/data-2020-06-25-structure-2020-06-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaoneaeightafive",
+        "title": "Количество посещений концертных организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaoneaeightafive/data-2020-06-25-structure-2020-06-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaoneaeightaeight",
+        "title": "Количество посещений культурно-массовых мероприятий клубов и домов культуры",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaoneaeightaeight/data-2020-06-25-structure-2020-06-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoasixatwo",
+        "title": "Количество проведенных выставочных проектов федеральных и региональных музеев в субъектах Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoasixatwo/data-2022-07-08-structure-2022-07-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoasixaseven",
+        "title": "Количество проведенных фестивалей детского творчества всех жанров",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoasixaseven/data-2022-07-08-structure-2022-07-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoasixafour",
+        "title": "Количество реализованных всероссийских и международных творческих проектов в области музыкального, театрального и изобразительного искусства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoasixafour/data-2022-07-08-structure-2022-07-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoasixafive",
+        "title": "Количество реализованных творческих проектов некоммерческих организаций, направленных на укрепление российской гражданской идентичности на основе духовно-нравственных и культурных ценностей народов Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoasixafive/data-2022-07-08-structure-2022-07-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoazeroanineafour",
+        "title": "Количество реконструированных и капитально отремонтированных муниципальных музеев",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoazeroanineafour/data-2022-07-08-structure-2022-07-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoathreeasevenaone",
+        "title": "Количество реконструированных и капитально отремонтированных региональных и муниципальных театров",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoathreeasevenaone/data-2023-05-05-structure-2023-05-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaeightatwoathree",
+        "title": "Количество реставрируемых и исследуемых памятников всего, состоящих на учете, включая вновь выявленные",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaeightatwoathree/data-2013-07-10-structure-2013-07-10.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoasevenaeight",
+        "title": "Количество спортивных сооружений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoasevenaeight/data-2016-12-07-structure-2016-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaeightaoneathree",
+        "title": "Количество театров Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaeightaoneathree/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoaeightazero",
+        "title": "Количество театров юного зрителя и театров кукол",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoaeightazero/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneanineanine",
+        "title": "Количество театров, не относящихся к сфере ведения Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneanineanine/data-2018-10-05-structure-2018-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaoneaeightasix",
+        "title": "Количество учащихся детских школ искусств по видам искусств и училищ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaoneaeightasix/data-2020-06-25-structure-2020-06-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoaeightaone",
+        "title": "Количество учреждений культурно-досугового типа в сельской местности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoaeightaone/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoasevenaseven",
+        "title": "Количество федеральных организаций отрасли культуры, по которым проведена реновация",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoasevenaseven/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoasevenanine",
+        "title": "Количество центров культурного развития (ЦКР)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoasevenanine/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenanineasevenafour",
+        "title": "Количество человек, которым оказаны социальные услуги в области культуры и кинематографии за 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenanineasevenafour/data-2023-02-09-structure-2023-02-09.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenanineasevenafive",
+        "title": "Количество человек, которым оказаны социальные услуги в области спорта за 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenanineasevenafive/data-2023-02-09-structure-2023-02-09.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasevenasixatwo",
+        "title": "Муниципальные организации культуры",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasevenasixatwo/data-2020-11-03-structure-2020-11-03.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasevenasixafour",
+        "title": "Муниципальные организации спорта",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasevenasixafour/data-2020-11-03-structure-2020-11-03.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasevenasevenafour",
+        "title": "Наличие предметов культурно-бытового назначения в домохозяйствах",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasevenasevenafour/data-2021-08-30-structure-2021-08-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafiveazeroazero",
+        "title": "Обособленные подразделения муниципальных организаций культуры",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafiveazeroazero/data-2020-11-03-structure-2020-11-03.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafiveazeroaone",
+        "title": "Обособленные подразделения муниципальных организаций спорта",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafiveazeroaone/data-2020-11-03-structure-2020-11-03.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaeightazeroanine",
+        "title": "Общее число мест в зрительных залах театров Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaeightazeroanine/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneanineaseven",
+        "title": "Общее число мест в зрительных залах театров, не относящихся к сфере ведения Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneanineaseven/data-2018-10-05-structure-2018-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenanineafour",
+        "title": "Общий фонд музеев Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenanineafour/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoazeroafour",
+        "title": "Общий фонд музеев, не относящихся к сфере ведения Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoazeroafour/data-2018-10-05-structure-2018-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightazeroafiveasix",
+        "title": "Отгружено изделий признанного художественного достоинства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightazeroafiveasix/data-2019-12-03-structure-2019-12-03.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightasixaeight",
+        "title": "Отношение средней заработной платы работников учреждений культуры к оценке среднемесячной начисленной заработной платы наемных работников в организациях, у индивидуальных предпринимателей и физических лиц (оценке среднемесячного дохода от трудовой деятельности) по субъекту Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightasixaeight/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-fourafouraoneanineasix",
+        "title": "Отношение средней заработной платы работников учреждений культуры к средней заработной плате по субъекту Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafouraoneanineasix/data-2020-11-13-structure-2020-11-13.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightanineafour",
+        "title": "Отношение средней заработной платы работников учреждений культуры к среднемесячной начисленной заработной плате наемных работников в организациях, у индивидуальных предпринимателей и физических лиц (среднемесячному доходу от трудовой деятельности) по субъекту Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightanineafour/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeatwoaoneazero",
+        "title": "Отношение среднемесячной номинальной начисленной заработной платы работников государственных (муниципальных) учреждений культуры и искусства к среднемесячной номинальной начисленной заработной плате работников, занятых в сфере экономики региона",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeatwoaoneazero/data-2020-09-01-structure-2020-09-01.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroathreeazero",
+        "title": "Отношение среднемесячной номинальной начисленной заработной платы работников государственных (муниципальных) учреждений культуры и искусства к среднемесячной номинальной начисленной заработной плате работников, занятых в сфере экономики региона с 2018 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroathreeazero/data-2020-08-21-structure-2020-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightazeroafiveafour",
+        "title": "Произведено изделий народных художественных промыслов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightazeroafiveafour/data-2019-12-03-structure-2019-12-03.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightazeroafiveaseven",
+        "title": "Произведено изделий признанного художественного достоинства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightazeroafiveaseven/data-2019-12-03-structure-2019-12-03.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasixaoneathree",
+        "title": "Расходы по предоставлению услуг физкультурно-оздоровительной деятельности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasixaoneathree/data-2022-08-24-structure-2022-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneasixaoneasix",
+        "title": "Расходы по предоставлению услуг физкультурно-оздоровительной деятельности за счет прибыли",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneasixaoneasix/data-2022-08-24-structure-2022-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveatwoasixafour",
+        "title": "Среднее количество зрителей на мероприятиях цирков в расчете на 1 тыс. человек населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveatwoasixafour/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeanineasixaone",
+        "title": "Среднее число выставок в расчете на 10 тыс. человек населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeanineasixaone/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeanineafiveanine",
+        "title": "Среднее число зрителей на мероприятиях концертных организаций, самостоятельных коллективов, проведенных собственными силами в пределах своей территории, в расчете на 1 тыс. человек населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeanineafiveanine/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeanineafiveaseven",
+        "title": "Среднее число зрителей на мероприятиях театров в расчете на 1 тыс. человек населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeanineafiveaseven/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineafourafive",
+        "title": "Среднемесячная номинальная начисленная заработная плата работников государственных (муниципальных) учреждений культуры и искусства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineafourafive/data-2020-08-27-structure-2020-08-27.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineafouraeight",
+        "title": "Среднемесячная номинальная начисленная заработная плата работников государственных (муниципальных) учреждений физической культуры и спорта",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineafouraeight/data-2020-08-27-structure-2020-08-27.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasixaoneanine",
+        "title": "Текущие расходы на содержание объектов физкультурно-оздоровительной деятельности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasixaoneanine/data-2020-12-15-structure-2020-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenathreeaone",
+        "title": "Текущие расходы на содержание объектов физкультурно-оздоровительной деятельности за счет прибыли c 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenathreeaone/data-2022-08-24-structure-2022-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneasixaoneathree",
+        "title": "Текущие расходы на содержание объектов физкультурно-оздоровительной деятельности за счет прибыли",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneasixaoneathree/data-2020-12-15-structure-2020-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenathreeazero",
+        "title": "Текущие расходы на содержание объектов физкультурно-оздоровительной деятельности с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenathreeazero/data-2022-08-24-structure-2022-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeanineafiveatwo",
+        "title": "Увеличение количества проведенных за пределами своей территории в России гастролей концертных организаций, самостоятельных коллективов и театров по сравнению с 2010 годом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeanineafiveatwo/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeanineafiveathree",
+        "title": "Увеличение количества проведенных за рубежом выставок музеев, гастролей концертных организаций, самостоятельных коллективов и театров по сравнению с 2010 годом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeanineafiveathree/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fourafiveafourafouraone",
+        "title": "Удельный вес занимающихся физической культурой и спортом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafiveafourafouraone/data-2020-04-06-structure-2020-04-06.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeanineafiveafive",
+        "title": "Удельный вес населения, участвующего в платных культурно-досуговых мероприятиях, проводимых государственными (муниципальными) учреждениями культуры",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeanineafiveafive/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasixasixathree",
+        "title": "Уровень обеспеченности граждан спортивными сооружениями исходя из единовременной пропускной способности (Р5)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasixasixathree/data-2023-08-08-structure-2023-08-08.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoathreeaone",
+        "title": "Уровень фактической обеспеченности учреждениями культуры от нормативной потребности: библиотеками",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoathreeaone/data-2018-02-20-structure-2018-02-20.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoatwoasix",
+        "title": "Уровень фактической обеспеченности учреждениями культуры от нормативной потребности: клубами и учреждениями клубного типа",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoatwoasix/data-2018-02-20-structure-2018-02-20.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoathreeazero",
+        "title": "Уровень фактической обеспеченности учреждениями культуры от нормативной потребности: парками культуры и отдыха",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoathreeazero/data-2018-02-20-structure-2018-02-20.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveaoneatwoaeight",
+        "title": "Фактически освоено средств, на проведение работ по сохранению объектов культурного наследия",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveaoneatwoaeight/data-2015-09-30-structure-2015-09-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveazeroanineatwoatwo",
+        "title": "Фактически освоено средств, направленных на ремонтно-восстановительные работы -всего",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveazeroanineatwoatwo/data-2014-11-05-structure-2014-11-05.xml"
+    },
+    {
+        "identifier": "7708234640-fiveazeroanineatwoazero",
+        "title": "Фактически освоено средств, направленных на ремонтно-восстановительные работы из бюджета субъекта Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveazeroanineatwoazero/data-2014-11-05-structure-2014-11-05.xml"
+    },
+    {
+        "identifier": "7708234640-fiveazeroanineaoneaeight",
+        "title": "Фактически освоено средств, направленных на ремонтно-восстановительные работы из иных источников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveazeroanineaoneaeight/data-2014-11-05-structure-2014-11-05.xml"
+    },
+    {
+        "identifier": "7708234640-fiveazeroanineaoneaseven",
+        "title": "Фактически освоено средств, направленных на ремонтно-восстановительные работы из муниципального бюджета",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveazeroanineaoneaseven/data-2014-11-05-structure-2014-11-05.xml"
+    },
+    {
+        "identifier": "7708234640-fiveazeroanineaoneanine",
+        "title": "Фактически освоено средств, направленных на ремонтно-восстановительные работы из федерального бюджета",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveazeroanineaoneanine/data-2014-11-05-structure-2014-11-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenanineaone",
+        "title": "Численность научных сотрудников и экскурсоводов музеев Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenanineaone/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenaeightazero",
+        "title": "Численность посетителей на платных мероприятиях парков культуры и отдыха Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenaeightazero/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaeightaoneafour",
+        "title": "Численность библиотечных работников в библиотеках Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaeightaoneafour/data-2021-03-31-structure-2021-03-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneathreeafouraseven",
+        "title": "Численность занимающихся адаптивной физической культурой и спортом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneathreeafouraseven/data-2018-03-28-structure-2018-03-28.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneathreeafouraeight",
+        "title": "Численность занимающихся адаптивной физической культурой и спортом до 18 лет",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneathreeafouraeight/data-2017-09-25-structure-2017-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneasevenazeroasix",
+        "title": "Численность занимающихся на этапах спортивной подготовки в возрасте от 5 до 18 лет",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneasevenazeroasix/data-2021-12-15-structure-2021-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenasevenazero",
+        "title": "Численность зрителей на цирковых представлениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenasevenazero/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenanineaeight",
+        "title": "Численность зрителей, присутствующих на мероприятиях, проводимых концертными организациями и самостоятельными коллективами Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenanineaeight/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafourasixasixanine",
+        "title": "Численность населения Российской Федерации, выполнивших нормативы Всероссийского физкультурно-спортивного комплекса 'Готов к труду и обороне' (ГТО)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafourasixasixanine/data-2017-06-02-structure-2017-06-02.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafourasixasevenazero",
+        "title": "Численность населения Российской Федерации, принявшего участие в выполнении нормативов Всероссийского физкультурно-спортивного комплекса 'Готов к труду и обороне' (ГТО)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafourasixasevenazero/data-2017-06-02-structure-2017-06-02.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneasevenazeroaseven",
+        "title": "Численность организаций, осуществляющих спортивную подготовку",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneasevenazeroaseven/data-2022-07-28-structure-2022-07-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneanineafive",
+        "title": "Численность основного персонал в театрах, не относящихся к сфере ведения Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneanineafive/data-2018-10-05-structure-2018-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoazeroazero",
+        "title": "Численность основного персонала в музеях, не относящихся к сфере ведения Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoazeroazero/data-2018-10-05-structure-2018-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoazeroasix",
+        "title": "Численность основного персонала в учреждениях культурно-досугового типа, не относящихся к сфере ведения Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoazeroasix/data-2018-10-05-structure-2018-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenasevenatwo",
+        "title": "Численность преподавателей в детских музыкальных, художественных, хореографических школах и школах искусств Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenasevenatwo/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenasevenathree",
+        "title": "Численность работников в детских музыкальных, художественных, хореографических школах и школах искусств Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenasevenathree/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaeightazeroaone",
+        "title": "Численность работников в концертных организациях и самостоятельных коллективах Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaeightazeroaone/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaeightazeroaeight",
+        "title": "Численность работников в театрах Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaeightazeroaeight/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneanineasix",
+        "title": "Численность работников в театрах, не относящихся к сфере ведения Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneanineasix/data-2018-10-05-structure-2018-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenaeightafour",
+        "title": "Численность работников в учреждениях культурно-досугового типа Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenaeightafour/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoazeroaseven",
+        "title": "Численность работников в учреждениях культурно-досугового типа, не относящихся к сфере ведения Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoazeroaseven/data-2018-10-05-structure-2018-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenanineatwo",
+        "title": "Численность работников музеев Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenanineatwo/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoazeroaone",
+        "title": "Численность работников музеев, не относящихся к сфере ведения Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoazeroaone/data-2018-10-05-structure-2018-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineanineazeroatwo",
+        "title": "Численность работников организаций, осуществляющих спортивную подготовку",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineanineazeroatwo/data-2020-06-30-structure-2020-06-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenasevenaeight",
+        "title": "Численность специалистов культурнодосугового профиля в парках культуры и отдыха Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenasevenaeight/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenaeightathree",
+        "title": "Численность специалистов культурно-досугового профиля в учреждениях культурно-досугового типа",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenaeightathree/data-2019-01-14-structure-2019-01-14.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightafourafiveaseven",
+        "title": "Численность спортсменов-разрядников всего",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightafourafiveaseven/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenaeightafive",
+        "title": "Численность участников платных мероприятий в учреждениях культурно-досугового типа Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenaeightafive/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoazeroaeight",
+        "title": "Численность участников платных мероприятий в учреждениях культурно-досугового типа, не относящихся к сфере ведения Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoazeroaeight/data-2018-10-05-structure-2018-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenasevenafour",
+        "title": "Численность учащихся на начало учебного года в детских музыкальных, художественных, хореографических школах и школах искусств Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenasevenafour/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaeightazeroazero",
+        "title": "Численность художественного и артистического персонала в концертных организациях и самостоятельных коллективах Минкультуры России (с 2011 г. - основной персонал)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaeightazeroazero/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaeightazeroaseven",
+        "title": "Численность художественного и артистического персонала в театрах Минкультуры России (с 2011 г. по 2018 г. - основной персонал)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaeightazeroaseven/data-2020-05-28-structure-2020-05-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafourasixasix",
+        "title": "Число въездных туристских поездок иностранных граждан в Российскую Федерацию",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafourasixasix/data-2022-05-11-structure-2022-05-11.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafourasixaseven",
+        "title": "Число выездных туристских поездок граждан Российской Федерации за рубеж",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafourasixaseven/data-2021-09-13-structure-2021-09-13.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenasevenaseven",
+        "title": "Число детских музыкальных, художественных, хореографических школ и школ искусств Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenasevenaseven/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenasevenafive",
+        "title": "Число детских музыкальных, художественных, хореографических школ и школ искусств Минкультуры России помещения которых находятся в аварийном состоянии",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenasevenafive/data-2018-03-28-structure-2018-03-28.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenasevenasix",
+        "title": "Число детских музыкальных, художественных, хореографических школ и школ искусств Минкультуры России помещения которых требуют капитального ремонта",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenasevenasix/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenaeightaeight",
+        "title": "Число зданий учреждений культурно-досугового типа Минкультуры России, находящихся в аварийном состоянии",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenaeightaeight/data-2017-05-29-structure-2017-05-29.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenaeightanine",
+        "title": "Число зданий учреждений культурно-досугового типа Минкультуры России, требующих капитального ремонта",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenaeightanine/data-2017-05-29-structure-2017-05-29.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaeightazeroafive",
+        "title": "Число зрителей, присутствующих на мероприятиях, проводимых театрами Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaeightazeroafive/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneanineathree",
+        "title": "Число зрителей, присутствующих на мероприятиях, проводимых театрами, не относящихся к сфере ведения Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneanineathree/data-2018-10-05-structure-2018-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaeightazeroafour",
+        "title": "Число концертных организаций и самостоятельных коллективов Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaeightazeroafour/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaeightazeroatwo",
+        "title": "Число концертных организаций и самостоятельных коллективов Минкультуры России помещения которых находятся в аварийном состоянии",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaeightazeroatwo/data-2017-05-29-structure-2017-05-29.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaeightazeroathree",
+        "title": "Число концертных организаций и самостоятельных коллективов Минкультуры России помещения которых требуют капитального ремонта",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaeightazeroathree/data-2017-05-29-structure-2017-05-29.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenaeightaone",
+        "title": "Число мероприятий в парках культуры и отдыха Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenaeightaone/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenaeightaseven",
+        "title": "Число мероприятий в учреждениях культурно-досугового типа Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenaeightaseven/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoaoneazero",
+        "title": "Число мероприятий в учреждениях культурно-досугового типа, не относящихся к сфере ведения Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoaoneazero/data-2018-10-05-structure-2018-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenanineanine",
+        "title": "Число мероприятий, проводимых концертными организациями и самостоятельными коллективами Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenanineanine/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaeightazeroasix",
+        "title": "Число мероприятий, проводимых театрами Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaeightazeroasix/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneanineafour",
+        "title": "Число мероприятий, проводимых театрами, не относящихся к сфере ведения Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneanineafour/data-2018-10-05-structure-2018-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaeightafiveaseven",
+        "title": "Число молодежи, задействованной в мероприятиях по вовлечению в творческую деятельность",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaeightafiveaseven/data-2023-07-26-structure-2023-07-26.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenanineaseven",
+        "title": "Число музеев Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenanineaseven/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenanineafive",
+        "title": "Число музеев Минкультуры России строения которых находятся в аварийном состоянии",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenanineafive/data-2017-05-29-structure-2017-05-29.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenanineasix",
+        "title": "Число музеев Минкультуры России строения которых требуют капитального ремонта",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenanineasix/data-2017-05-29-structure-2017-05-29.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoazeroafive",
+        "title": "Число музеев, не относящихся к сфере ведения Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoazeroafive/data-2018-10-05-structure-2018-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenaeightatwo",
+        "title": "Число парков культуры и отдыха Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenaeightatwo/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenaeightasix",
+        "title": "Число платных мероприятий в учреждениях культурно-досугового типа Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenaeightasix/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoazeroanine",
+        "title": "Число платных мероприятий в учреждениях культурно-досугового типа, не относящихся к сфере ведения Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoazeroanine/data-2018-10-05-structure-2018-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaeightaoneatwo",
+        "title": "Число помещений, занимаемых театрами Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaeightaoneatwo/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaeightaoneazero",
+        "title": "Число помещений, занимаемых театрами Минкультуры России, находящихся в аварийном состоянии",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaeightaoneazero/data-2017-05-29-structure-2017-05-29.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaeightaoneaone",
+        "title": "Число помещений, занимаемых театрами Минкультуры России, требующих капитального ремонта",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaeightaoneaone/data-2017-05-29-structure-2017-05-29.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoaeightathree",
+        "title": "Число посещений культурных мероприятий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoaeightathree/data-2023-02-02-structure-2023-02-02.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoaoneatwoafour",
+        "title": "Число посещений культурных мероприятий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoaoneatwoafour/data-2022-07-08-structure-2022-07-08.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenanineathree",
+        "title": "Число посещений музеев Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenanineathree/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoazeroatwo",
+        "title": "Число посещений музеев, не относящихся к сфере ведения Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoazeroatwo/data-2018-10-05-structure-2018-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneathreeaone",
+        "title": "Число посещений организаций культуры",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneathreeaone/data-2020-04-24-structure-2020-04-24.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineasevenaone",
+        "title": "Число туристских поездок",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineasevenaone/data-2023-01-31-structure-2023-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneasixaoneafive",
+        "title": "Число турфирм",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneasixaoneafive/data-2020-12-14-structure-2020-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoafiveaseven",
+        "title": "Число участников культурно-просветительских программ для школьников (A2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoafiveaseven/data-2023-01-30-structure-2023-01-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenanineazero",
+        "title": "Число учреждений культурно-досугового типа Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenanineazero/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightatwoaoneatwo",
+        "title": "Число учреждений культурно-досугового типа, не относящихся к сфере ведения Минкультуры России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightatwoaoneatwo/data-2018-10-05-structure-2018-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasevenasevenaone",
+        "title": "Число цирков",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasevenasevenaone/data-2021-03-29-structure-2021-03-29.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoaeightaone",
+        "title": "Число штатных работников физической культуры и спорта",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoaeightaone/data-2016-12-08-structure-2016-12-08.xml"
+    },
+    {
+        "identifier": "7707418081-sixaoneaoneatwoanine",
+        "title": "Эффективность системы выявления, поддержки и развития способностей и талантов у детей и молодежи",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixaoneaoneatwoanine/data-2023-09-08-structure-2023-09-08.xml"
+    }
+]

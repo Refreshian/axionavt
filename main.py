@@ -39,7 +39,8 @@ def get_map_data(value: str):
         return values_dict
 
     elif value == "actual_values":
-        os.chdir('/home/rggu-map/map-app/data/')
+
+        os.chdir('/home/admin-rggu/rggu-map/data/')
         files = glob.glob('*.xlsx')
         files = [x.replace('.xlsx', '').replace('data_reg_', '')
                  for x in files]
@@ -48,7 +49,7 @@ def get_map_data(value: str):
     elif value in ["nature"]:
         ###
         filename = "data_reg_" + value + ".xlsx"
-        os.chdir('/home/rggu-map/map-app/data/')
+        os.chdir('/home/admin-rggu/rggu-map/data/')
         df = pd.read_excel(filename, sheet_name='Лист1', engine='openpyxl')
 
         # заменяем отсутствующие значения в регионе на средние значения показателя по всем регионам
@@ -70,7 +71,7 @@ def get_map_data(value: str):
             else:
                 one_data.append(column_list[i])
 
-        print('Есть различающихся данных по регионам: {}'.format(count))
+        print('Есть различающихся данных по регионам: {}'.format(count)) 
         print('Не различающихся данных по регионам: {}'.format(
             len(column_list) - count))
         print('Процент варьирующихся показателей: {}%'.format(

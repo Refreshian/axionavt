@@ -1,0 +1,1508 @@
+[
+    {
+        "identifier": "7706016118-sixatwoaoneasixasix",
+        "title": "75.01.2.3 - Численность пенсионеров по видам пенсионного обеспечения, состоящих на учете в системе Фонда пенсионного и социального страхования Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixatwoaoneasixasix/data-2023-08-04-structure-2023-08-04.xml"
+    },
+    {
+        "identifier": "7706016118-sixatwoaoneasixafive",
+        "title": "75.01.2.4 - Численность пенсионеров по категориям пенсионеров, состоящих на учете в системе Фонда пенсионного и социального страхования Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixatwoaoneasixafive/data-2023-08-04-structure-2023-08-04.xml"
+    },
+    {
+        "identifier": "7706016118-sixatwoathreeatwoasix",
+        "title": "75.01.5.5 - Численность пенсионеров, получающих пенсии в соответствии с Федеральным законом 'О страховых пенсиях', не достигших общеустановленного пенсионного возраста (в том числе работающих и неработающих)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixatwoathreeatwoasix/data-2023-03-27-structure-2023-03-27.xml"
+    },
+    {
+        "identifier": "7706016118-sixatwoathreeatwoaseven",
+        "title": "75.01.5.6 - Численность пенсионеров, получающих пенсии в соответствии с Федеральным законом 'О государственном пенсионном обеспечении в Российской Федерации', не достигших общеустановленного пенсионного возраста (в том числе работающих и неработающих)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixatwoathreeatwoaseven/data-2023-03-27-structure-2023-03-27.xml"
+    },
+    {
+        "identifier": "7706016118-sixatwoathreeathreeaone",
+        "title": "75.01.5.7.1 - Средний размер назначенного пенсионного обеспечения, мужчин и женщин",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixatwoathreeathreeaone/data-2023-03-27-structure-2023-03-27.xml"
+    },
+    {
+        "identifier": "7706016118-sixatwoathreeathreeazero",
+        "title": "75.01.5.7.2 - Численность пенсионеров, мужчин и женщин",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixatwoathreeathreeazero/data-2023-03-27-structure-2023-03-27.xml"
+    },
+    {
+        "identifier": "7706016118-sixatwoathreeathreeathree",
+        "title": "75.01.5.8.1 - Средний размер назначенного пенсионного обеспечения пенсионерам, проживающим в городской и сельской местности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixatwoathreeathreeathree/data-2023-03-27-structure-2023-03-27.xml"
+    },
+    {
+        "identifier": "7706016118-sixatwoathreeathreeatwo",
+        "title": "75.01.5.8.2 - Численность пенсионеров, проживающих в городской и сельской местности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixatwoathreeathreeatwo/data-2023-03-27-structure-2023-03-27.xml"
+    },
+    {
+        "identifier": "7706016118-sixatwoathreeatwoanine",
+        "title": "75.01.6.3 - Средний размер пенсии, назначенной пенсионерам, признанным в установленном порядке инвалидами, по видам пенсионного обеспечения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixatwoathreeatwoanine/data-2023-03-27-structure-2023-03-27.xml"
+    },
+    {
+        "identifier": "7706016118-sixatwoathreeatwoaeight",
+        "title": "75.01.6.4 - Численность пенсионеров, признанных в установленном порядке инвалидами, по видам пенсионного обеспечения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixatwoathreeatwoaeight/data-2023-03-27-structure-2023-03-27.xml"
+    },
+    {
+        "identifier": "7706016118-sixatwoathreeasixanine",
+        "title": "75.01.7.1 - Численность нетрудоспособных граждан, в связи с уходом за которыми установлена компенсационная или ежемесячная выплата",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixatwoathreeasixanine/data-2023-05-10-structure-2023-05-10.xml"
+    },
+    {
+        "identifier": "7706016118-sixatwoathreeasevenathree",
+        "title": "75.03.2 — Сведения об объёмах денежных средств, выделенных на федеральную социальную доплату к пенсии в целях доведения уровня материального обеспечения пенсионера до величины прожиточного минимума пенсионера",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixatwoathreeasevenathree/data-2023-09-07-structure-2023-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightafouraeightazero",
+        "title": "Выезд граждан России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightafouraeightazero/data-2017-10-12-structure-2017-10-12.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasixasixafive",
+        "title": "Денежные средства и иное имущество, полученное по завещанию в порядке наследования по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasixasixafive/data-2023-02-20-structure-2023-02-20.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasixasixafour",
+        "title": "Денежные средства, недвижимое имущество, ценные бумаги, полученные на формирование или пополнение целевого капитала, полученные по завещанию в порядке наследования по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasixasixafour/data-2023-02-20-structure-2023-02-20.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoazeroaone",
+        "title": "Доля валовой добавленной стоимости туристской индустрии в валовом внутреннем продукте Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoazeroaone/data-2023-03-15-structure-2023-03-15.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasixaeightathree",
+        "title": "Доля валовой добавленной стоимости туристской индустрии в валовом внутреннем продукте Российской Федерации за год, предшествующий предыдущему (8.9.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasixaeightathree/data-2020-12-10-structure-2020-12-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoaoneathree",
+        "title": "Доля валовой добавленной стоимости туристской индустрии в валовом внутреннем продукте Российской Федерации за год, предшествующий предыдущему (8.9.1) (ОКВЭД 2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoaoneathree/data-2020-12-10-structure-2020-12-10.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoaoneanineaseven",
+        "title": "Доля валовой добавленной стоимости туристской индустрии в валовом региональном продукте субъекта Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoaoneanineaseven/data-2022-08-23-structure-2022-08-23.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenaoneaseven",
+        "title": "Доля граждан пожилого возраста и инвалидов, проживающих в стационарных организациях социального обслуживания 'нового типа', в общем числе граждан, проживающих в стационарных организациях социального обслуживания",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenaoneaseven/data-2019-12-19-structure-2019-12-19.xml"
+    },
+    {
+        "identifier": "7707418081-sixaoneaoneafiveafive",
+        "title": "Доля граждан Российской Федерации, вовлеченных в систему патриотического воспитания",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixaoneaoneafiveafive/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroanineasixazero",
+        "title": "Доля детей в возрасте до 15 лет, обучающихся в образовательных организациях, принимавших участие в экскурсионных или туристских поездках за последние 12 месяцев, в общей численности детей этой возрастной категории",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroanineasixazero/data-2021-02-17-structure-2021-02-17.xml"
+    },
+    {
+        "identifier": "7708234640-fiveazeroanineaoneafive",
+        "title": "Количество книг, журналов и брошюр, изданных на языках народов Севера",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveazeroanineaoneafive/data-2018-10-04-structure-2018-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoasixaone",
+        "title": "Количество созданных памятных мест, связанных с военной историей России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoasixaone/data-2022-07-08-structure-2022-07-08.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveathreeazeroanine",
+        "title": "Количество созданных центров культурного развития в малых городах России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveathreeazeroanine/data-2016-04-29-structure-2016-04-29.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaoneaeightaseven",
+        "title": "Количество участников клубных формирований",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaoneaeightaseven/data-2020-06-25-structure-2020-06-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneasixafouraeight",
+        "title": "Коэффициент естественного прироста населения Арктической зоны Российской Федерации (на 1000 человек населения)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneasixafouraeight/data-2023-09-25-structure-2023-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasixanineasix",
+        "title": "Коэффициент миграционного прироста (на 10 тыс. человек)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasixanineasix/data-2020-12-28-structure-2020-12-28.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeazeroaoneaseven",
+        "title": "Коэффициент миграционного прироста (на 10 тыс. человек)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeazeroaoneaseven/data-2020-12-28-structure-2020-12-28.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneasevenafouranine",
+        "title": "Миграционный прирост",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneasevenafouranine/data-2023-02-28-structure-2023-02-28.xml"
+    },
+    {
+        "identifier": "7708234640-fourasixaoneasixatwo",
+        "title": "Миграционный прирост",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourasixaoneasixatwo/data-2021-11-18-structure-2021-11-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasevenatwoasix",
+        "title": "Миграционный прирост (прогноз)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasevenatwoasix/data-2020-12-22-structure-2020-12-22.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasevenaoneaseven",
+        "title": "Миграционный прирост населения по городам с числом жителей 100 тыс. человек и более",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasevenaoneaseven/data-2020-12-28-structure-2020-12-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasixaoneafive",
+        "title": "Миграционный прирост населения по полу, возрасту и потокам передвижения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasixaoneafive/data-2021-04-07-structure-2021-04-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneafiveaone",
+        "title": "Миграционный прирост населения по потокам передвижения и субъектам Российской Федерации, имеющим в составе места традиционного проживания и традиционной хозяйственной деятельности коренных малочисленных народов Севера, Сибири и Дальнего Востока",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneafiveaone/data-2021-04-07-structure-2021-04-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasevenatwoathree",
+        "title": "Миграционный прирост населения по районам Крайнего Севера и местностям, приравненным к ним",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasevenatwoathree/data-2020-12-28-structure-2020-12-28.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasevenatwoazero",
+        "title": "Миграционный прирост по полу, возрасту и направлениям передвижения в районах Крайнего Севера и местностях, приравненных к ним",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasevenatwoazero/data-2020-12-28-structure-2020-12-28.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaeightaoneaseven",
+        "title": "Население в разбивке по полу и возрасту, в процентах",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaeightaoneaseven/data-2020-12-14-structure-2020-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-threeanineafouratwoaseven",
+        "title": "Населенные пункты всего",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeanineafouratwoaseven/data-2020-09-22-structure-2020-09-22.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasevenanineathree",
+        "title": "Общая заселенная площадь",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasevenanineathree/data-2020-12-17-structure-2020-12-17.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasevenanineafive",
+        "title": "Общая заселенная площадь, полученная по договорам социального найма",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasevenanineafive/data-2019-06-28-structure-2019-06-28.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenafourathreeaone",
+        "title": "Общая земельная площадь (окончательные итоги)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenafourathreeaone/data-2020-08-24-structure-2020-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenathreeaoneasix",
+        "title": "Общая численность пенсионеров",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenathreeaoneasix/data-2023-09-04-structure-2023-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneatwoasixaseven",
+        "title": "Общий коэффициент естественного прироста",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneatwoasixaseven/data-2023-09-25-structure-2023-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-threeafouraoneafouraseven",
+        "title": "Общий коэффициент естественного прироста (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafouraoneafouraseven/data-2023-06-05-structure-2023-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneatwoasevenatwo",
+        "title": "Общий прирост населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneatwoasevenatwo/data-2022-03-09-structure-2022-03-09.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasevenatwoaseven",
+        "title": "Предположительная численность населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasevenatwoaseven/data-2022-03-16-structure-2022-03-16.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasevenaoneanine",
+        "title": "Прибыло населения по городам с числом жителей 100 тыс. человек и более",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasevenaoneanine/data-2020-12-28-structure-2020-12-28.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasevenatwoafive",
+        "title": "Прибыло населения по полу, возрасту и направлениям передвижения в районах Крайнего Севера и местностях, приравненных к ним",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasevenatwoafive/data-2020-12-28-structure-2020-12-28.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroasixafourafour",
+        "title": "Прибыло населения по районам Крайнего Севера и местностям, приравненным к ним",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroasixafourafour/data-2020-12-28-structure-2020-12-28.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoathreeasevenanine",
+        "title": "Проведение переписи населения с периодичностью не реже 1 раза в 10лет (17.19.2(а))",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoathreeasevenanine/data-2023-06-01-structure-2023-06-01.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasixaoneafour",
+        "title": "Распределение выбывших по возрастным группам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasixaoneafour/data-2020-12-22-structure-2020-12-22.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasixaoneathree",
+        "title": "Распределение миграционного прироста по возрастным группам мигрантов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasixaoneathree/data-2020-12-22-structure-2020-12-22.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafourazeroazero",
+        "title": "Распределение общего объема денежных доходов по 20-ти процентным группам населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafourazeroazero/data-2020-09-14-structure-2020-09-14.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasixaoneafive",
+        "title": "Распределение прибывших по возрастным группам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasixaoneafive/data-2020-12-22-structure-2020-12-22.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafourasixanine",
+        "title": "Распределение суточного фонда времени по видам деятельности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafourasixanine/data-2020-08-18-structure-2020-08-18.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveaoneafiveafive",
+        "title": "Распределение суточного фонда времени респондентами в среднем за день недели",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveaoneafiveafive/data-2020-08-18-structure-2020-08-18.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneaeightathree",
+        "title": "Распространенность недоедания (2.1.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneaeightathree/data-2021-02-17-structure-2021-02-17.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneaoneaoneaseven",
+        "title": "Сведения о лицах, получивших в территориальных органах ФМС России свидетельства участника Государственной программы по оказанию содействия добровольному переселению в Российскую Федерацию соотечественников, проживающих за рубежом, и членах их семей, по данным ФМС России (по 2014 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneaoneaoneaseven/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineafourafive",
+        "title": "Сведения о лицах, получивших в уполномоченных органах за рубежом свидетельства участника Государственной программы по оказанию содействия добровольному переселению в Российскую Федерацию соотечественников, проживающих за рубежом, и членах их семей, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineafourafive/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightafourasevenathree",
+        "title": "Сведения о пенсионерах, состоящих на учете и получающих пенсию в МВД России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightafourasevenathree/data-2018-08-22-structure-2018-08-22.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenasevenafive",
+        "title": "Смертность женщин в возрасте 16 - 54 лет (на 100 тыс. населения)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenasevenafive/data-2020-12-22-structure-2020-12-22.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenasevenafour",
+        "title": "Смертность мужчин в возрасте 16 - 59 лет (на 100 тыс. населения)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenasevenafour/data-2020-12-22-structure-2020-12-22.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasixanineanine",
+        "title": "Смертность населения (без показателя смертности от внешних причин)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasixanineanine/data-2018-10-16-structure-2018-10-16.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasixanineaeight",
+        "title": "Смертность населения в трудоспособном возрасте",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasixanineaeight/data-2018-10-16-structure-2018-10-16.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveathreeafour",
+        "title": "Смертность населения от всех причин на 1 тыс. населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveathreeafour/data-2021-12-23-structure-2021-12-23.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineaoneaseven",
+        "title": "Смертность населения от всех причин на 1 тыс. населения (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineaoneaseven/data-2022-03-23-structure-2022-03-23.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoathreeafive",
+        "title": "Смертность населения старше трудоспособного возраста (женщины, достигшие возраста 55 лет и старше, мужчины, достигшие возраста 60 лет и старше)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoathreeafive/data-2020-12-22-structure-2020-12-22.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoasixaseven",
+        "title": "Смертность населения трудоспособного возраста (на 100 тыс. населения)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoasixaseven/data-2021-04-01-structure-2021-04-01.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineathreeatwo",
+        "title": "Смертность населения трудоспособного возраста (число умерших на 100 тыс.человек соответствующего возраста) от всех причин, от внешних причин, от болезней системы кровообращения, от новообразований",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineathreeatwo/data-2017-11-22-structure-2017-11-22.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenathreeaoneafive",
+        "title": "Смертность населения трудоспособного возраста (число умерших на 100 тыс.человек соответствующего возраста) от отдельных причин смерти.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenathreeaoneafive/data-2021-04-05-structure-2021-04-05.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveaoneasix",
+        "title": "Смертность от всех причин, случаев на 1000 населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveaoneasix/data-2023-09-25-structure-2023-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafiveathreeatwo",
+        "title": "Смертность от дорожно-транспортных происшествий (3.6.1.)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafiveathreeatwo/data-2017-12-21-structure-2017-12-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneasixafouraseven",
+        "title": "Соотношение доходов 10 процентов наиболее обеспеченного и 10 процентов наименее обеспеченного населения Арктической зоны Российской Федерации (региональный децильный коэффициент)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneasixafouraseven/data-2020-09-14-structure-2020-09-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoasixazero",
+        "title": "Среднедушевые денежные доходы в крайне бедных домашних хозяйствах",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoasixazero/data-2023-08-31-structure-2023-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoafiveanine",
+        "title": "Среднедушевые денежные доходы в малоимущих домашних хозяйствах",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoafiveanine/data-2023-08-31-structure-2023-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroasixafourathree",
+        "title": "Среднедушевые располагаемые ресурсы в малоимущих домашних хозяйствах",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroasixafourathree/data-2020-09-14-structure-2020-09-14.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeatwoaoneanine",
+        "title": "Структура численности постоянного населения на начало года (на 1 января) по полу и возрастным группам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeatwoaoneanine/data-2022-03-16-structure-2022-03-16.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafiveaoneaseven",
+        "title": "Суммарный коэффициент рождаемости",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafiveaoneaseven/data-2021-04-05-structure-2021-04-05.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasixanineaseven",
+        "title": "Суммарный коэффициент рождаемости",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasixanineaseven/data-2020-12-22-structure-2020-12-22.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveafourazeroaseven",
+        "title": "Суммарный коэффициент рождаемости",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveafourazeroaseven/data-2020-12-22-structure-2020-12-22.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenazeroaseven",
+        "title": "Уровень госпитализации на геронтологические койки лиц старше 60 лет на 10 тыс. населения соответствующего возраста (РЗ)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenazeroaseven/data-2023-04-07-structure-2023-04-07.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeanineanineafive",
+        "title": "Уровень грамотности взрослого населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeanineanineafive/data-2020-12-22-structure-2020-12-22.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeatwoanineaone",
+        "title": "Численность беженцев по данным ФМС России (по 2014 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeatwoanineaone/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineanineaeight",
+        "title": "Численность беженцев с начала регистрации по данным ФМС России (по 2015 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineanineaeight/data-2017-12-07-structure-2017-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineanineasix",
+        "title": "Численность беженцев, обжалующих отрицательные решения, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineanineasix/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroazeroaeight",
+        "title": "Численность беженцев, поставленных на учет, прибывших из других субъектов РФ, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroazeroaeight/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroazeroazero",
+        "title": "Численность беженцев, снятых с учета, из числа получивших статус в текущем году, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroazeroazero/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroazeroatwo",
+        "title": "Численность беженцев, снятых с учета, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroazeroatwo/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneasevenatwo",
+        "title": "Численность беженцев, состоящих на учете на конец отчетного периода",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneasevenatwo/data-2018-07-06-structure-2018-07-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeaoneasixafour",
+        "title": "Численность вынужденных переселенцев из Чеченской Республики по данным ФМС России (по 2015 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeaoneasixafour/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineanineafour",
+        "title": "Численность вынужденных переселенцев по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineanineafour/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineaeightazero",
+        "title": "Численность вынужденных переселенцев с начала регистрации по данным ФМС России (по 2015 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineaeightazero/data-2017-12-07-structure-2017-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineanineatwo",
+        "title": "Численность вынужденных переселенцев, прибывших в порядке направления из других субъектов РФ, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineanineatwo/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineaeightatwo",
+        "title": "Численность вынужденных переселенцев, снятых с учета, из числа получивших статус в текущем году, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineaeightatwo/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineaeightafour",
+        "title": "Численность вынужденных переселенцев, снятых с учета, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineaeightafour/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneasevenathree",
+        "title": "Численность вынужденных переселенцев, состоящих на учете на конец отчетного периода",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneasevenathree/data-2018-07-06-structure-2018-07-06.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixazeroatwo",
+        "title": "Численность граждан пожилого возраста и инвалидов находящихся на постоянном постельном режиме в стационарных учреждениях социального обслуживания",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixazeroatwo/data-2018-05-10-structure-2018-05-10.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafiveaeightaeight",
+        "title": "Численность граждан пожилого возраста и инвалидов, состоящих на учете и ожидающих своей очереди для принятия на обслуживание специализированными отделениями",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafiveaeightaeight/data-2012-07-17-structure-2012-07-17.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafiveanineaone",
+        "title": "Численность граждан пожилого возраста и инвалидов, состоящих на учете и ожидающих своей очереди для принятия на надомное обслуживание",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafiveanineaone/data-2012-07-17-structure-2012-07-17.xml"
+    },
+    {
+        "identifier": "7707418081-sixazeroathreeathreeanine",
+        "title": "Численность женщин на 1 января (Number of Females by age)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixazeroathreeathreeanine/data-2023-09-07-structure-2023-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-fourafourazeroafouratwo",
+        "title": "Численность иностранных граждан, размещенных в коллективных средствах размещения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafourazeroafouratwo/data-2023-09-18-structure-2023-09-18.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoasevenanine",
+        "title": "Численность иностранных граждан, размещенных в коллективных средствах размещения (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoasevenanine/data-2023-02-15-structure-2023-02-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineasevenafour",
+        "title": "Численность лиц на начало 2 квартала, обратившихся с заявлением о предоставлении временного убежища в текущем году, по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineasevenafour/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineasevenatwo",
+        "title": "Численность лиц, в отношении которых в результате обжалования проведено повторное рассмотрение заявления о предоставлении временного убежища, по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineasevenatwo/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroatwoazero",
+        "title": "Численность лиц, в отношении которых проведено повторное рассмотрение ходатайства в результате обжалования, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroatwoazero/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineaeightaeight",
+        "title": "Численность лиц, в отношении которых рассмотрены ходатайства о признании вынужденными переселенцами, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineaeightaeight/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneasevenafour",
+        "title": "Численность лиц, обратившихся с заявлениями о предоставлении временного убежища",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneasevenafour/data-2018-07-06-structure-2018-07-06.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineanineazero",
+        "title": "Численность лиц, обратившихся с ходатайством о признании вынужденными переселенцами, по данным ФМС России (по 2015 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineanineazero/data-2017-12-07-structure-2017-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineasixasix",
+        "title": "Численность лиц, подавших заявление о предоставлении временного убежища (дальнее зарубежье) по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineasixasix/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineasevenasix",
+        "title": "Численность лиц, подавших заявление о предоставлении временного убежища, прибывших в порядке направления из других субъектов РФ, по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineasevenasix/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneasevenafive",
+        "title": "Численность лиц, получивших временное убежище",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneasevenafive/data-2018-07-06-structure-2018-07-06.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineaeightasix",
+        "title": "Численность лиц, признанных вынужденными переселенцами, по данным ФМС России (по 2015 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineaeightasix/data-2017-12-07-structure-2017-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafiveaeightazero",
+        "title": "Численность лиц, проживающих в специальных домах для одиноких престарелых",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafiveaeightazero/data-2012-05-24-structure-2012-05-24.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneazeroasixanine",
+        "title": "Численность лиц, снятых с учета и обжалующих отрицательное решение в различных инстанциях, по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneazeroasixanine/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneasevenaone",
+        "title": "Численность лиц, ходатайствующих о признании беженцем",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneasevenaone/data-2018-07-06-structure-2018-07-06.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroaoneafour",
+        "title": "Численность лиц, ходатайствующих о признании беженцем с начала регистрации, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroaoneafour/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroaoneatwo",
+        "title": "Численность лиц, ходатайствующих о признании беженцем, обжалующих отрицательные решения, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroaoneatwo/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroatwoasix",
+        "title": "Численность лиц, ходатайствующих о признании беженцем, по данным ФМС России (по 2015 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroatwoasix/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroatwoafour",
+        "title": "Численность лиц, ходатайствующих о признании беженцем, прибывших в порядке направления из других субъектов РФ, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroatwoafour/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroaoneasix",
+        "title": "Численность лиц, ходатайствующих о признании беженцем, снятых с учета, из числа получивших статус в текущем году, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroaoneasix/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroaoneaeight",
+        "title": "Численность лиц, ходатайствующих о признании беженцем, снятых с учета, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroaoneaeight/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveathreeatwo",
+        "title": "Численность международных мигрантов, обычно проживающих на территории страны",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveathreeatwo/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7707418081-sixazeroathreeathreeaeight",
+        "title": "Численность мужчин на 1 января (Number of Males by age)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixazeroathreeathreeaeight/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenazeroaone",
+        "title": "Численность населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenazeroaone/data-2020-12-28-structure-2020-12-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightazeroaeightaeight",
+        "title": "Численность населения в трудоспособном возрасте на 1 января текущего года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightazeroaeightaeight/data-2021-10-01-structure-2021-10-01.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaeightathreeazero",
+        "title": "Численность населения по данным ОРС по полу и возрастным группам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaeightathreeazero/data-2021-02-18-structure-2021-02-18.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneaeightasix",
+        "title": "Численность населения по данным ОРС по полу и возрастным группам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneaeightasix/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenafouratwoaseven",
+        "title": "Численность населения по итогам Всероссийской переписи населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenafouratwoaseven/data-2022-11-28-structure-2022-11-28.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneasevenafiveaone",
+        "title": "Численность населения субъекта Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneasevenafiveaone/data-2023-03-15-structure-2023-03-15.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoafiveathree",
+        "title": "Численность населения, качество жизни которого улучшится в связи с ликвидацией наиболее опасных объектов накопленного вреда окружающей среде, в том числе находящихся в собственности Российской Федерации (G1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoafiveathree/data-2023-02-06-structure-2023-02-06.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoafiveaone",
+        "title": "Численность населения, качество жизни которого улучшится в связи с ликвидацией несанкционированных свалок в границах городов (G1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoafiveaone/data-2023-02-06-structure-2023-02-06.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoaoneasixazero",
+        "title": "Численность населения, качество жизни которого улучшится в связи с сокращением объема вредных выбросов в крупных промышленных центрах Российской Федерации (G4)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoaoneasixazero/data-2023-06-16-structure-2023-06-16.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneaeightanine",
+        "title": "Численность населения, не входящего в состав рабочей силы, по полу и возрастным группам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneaeightanine/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroatwoatwo",
+        "title": "Численность обратившихся с ходатайством о признании беженцем по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroatwoatwo/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroatwoasixafour",
+        "title": "Численность обучающихся 1 – 11 классов, вовлеченных в деятельность общественных объединений на базе общеобразовательных организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroatwoasixafour/data-2020-05-28-structure-2020-05-28.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroatwoasixafive",
+        "title": "Численность обучающихся, вовлеченных в деятельность общественных объединений на базе образовательных организаций высшего образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroatwoasixafive/data-2020-05-28-structure-2020-05-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoasevenaone",
+        "title": "Численность обучающихся, вовлеченных в деятельность общественных объединений на базе общеобразовательных организаций, профессиональных образовательных организаций и образовательных организаций высшего образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoasevenaone/data-2020-04-29-structure-2020-04-29.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroatwoasixathree",
+        "title": "Численность обучающихся, вовлеченных в деятельность общественных объединений на базе профессиональных образовательных организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroatwoasixathree/data-2020-05-28-structure-2020-05-28.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroathreeasixanine",
+        "title": "Численность педагогических работников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroathreeasixanine/data-2022-06-01-structure-2022-06-01.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafiveafiveafour",
+        "title": "Численность пенсионеров",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafiveafiveafour/data-2022-03-03-structure-2022-03-03.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafourathreeanine",
+        "title": "Численность пенсионеров в Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafourathreeanine/data-2020-08-24-structure-2020-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneafiveathree",
+        "title": "Численность пенсионеров, в том числе инвалидов, состоящих на учете и получающих пенсию в Минобороны России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneafiveathree/data-2018-04-10-structure-2018-04-10.xml"
+    },
+    {
+        "identifier": "7706016118-sixaoneasixaeightaone",
+        "title": "Численность пенсионеров, состоящих на учете в системе Пенсионного фонда Российской Федерации и получающих социальные доплаты к пенсии в целях доведения уровня материального обеспечения пенсионера до величины прожиточного минимума пенсионера (в том числе федеральные и региональные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixaoneasixaeightaone/data-2021-12-15-structure-2021-12-15.xml"
+    },
+    {
+        "identifier": "7706016118-sixatwoazeroathreeafive",
+        "title": "Численность пенсионеров, состоящих на учете в системе Пенсионного фонда Российской Федерации, по видам пенсионного обеспечения (годовой отчет)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixatwoazeroathreeafive/data-2022-03-28-structure-2022-03-28.xml"
+    },
+    {
+        "identifier": "7706016118-sixatwoazeroathreeafour",
+        "title": "Численность пенсионеров, состоящих на учете в системе Пенсионного фонда Российской Федерации, по категориям пенсионеров (годовой отчет)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixatwoazeroathreeafour/data-2022-03-28-structure-2022-03-28.xml"
+    },
+    {
+        "identifier": "7706016118-sixatwoazeroathreeatwo",
+        "title": "Численность пенсионеров, состоящих на учете в системе Пенсионного фонда Российской Федерации, признанных в установленном порядке инвалидами (годовой отчет)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixatwoazeroathreeatwo/data-2022-03-29-structure-2022-03-29.xml"
+    },
+    {
+        "identifier": "7706016118-sixaoneasixanineaeight",
+        "title": "Численность пенсионеров, состоящих на учете в системе Фонда пенсионного и социального страхования Российской Федерации (в том числе работающих и не работающих)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixaoneasixanineaeight/data-2023-10-20-structure-2023-10-20.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixatwoaeight",
+        "title": "Численность повторно признанных инвалидами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixatwoaeight/data-2018-10-02-structure-2018-10-02.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafourafiveanine",
+        "title": "Численность постоянного населения - женщин по возрасту на 1 января",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafourafiveanine/data-2022-03-16-structure-2022-03-16.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafiveafouraeight",
+        "title": "Численность постоянного населения - мужчин по возрасту на 1 января",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafiveafouraeight/data-2022-03-16-structure-2022-03-16.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafiveafiveasix",
+        "title": "Численность постоянного населения в среднем за год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafiveafiveasix/data-2020-12-28-structure-2020-12-28.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafiveafiveaseven",
+        "title": "Численность постоянного населения на 1 января",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafiveafiveaseven/data-2021-04-07-structure-2021-04-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightazeroaeightafive",
+        "title": "Численность постоянного населения на 1 января текущего года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightazeroaeightafive/data-2020-12-28-structure-2020-12-28.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaoneazeroafive",
+        "title": "Численность постоянного населения на 1 января текущего года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaoneazeroafive/data-2021-08-19-structure-2021-08-19.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroazeroasix",
+        "title": "Численность признанных беженцами по данным ФМС России (по 2014 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroazeroasix/data-2017-12-07-structure-2017-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroazeroafour",
+        "title": "Численность признанных беженцами по рождению по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroazeroafour/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaoneatwoafour",
+        "title": "Численность семей лиц, подававших заявление с 2001 года о предоставлении временного убежища на начало 2 квартала (ближнее зарубежье), по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaoneatwoafour/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineafiveaeight",
+        "title": "Численность семей лиц, подавших заявление о предоставлении временного убежища в текущем году, на начало 2 квартала (ближнее зарубежье), по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineafiveaeight/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineafourafour",
+        "title": "Численность участников Государственной программы и членов их семей по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineafourafour/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixazeroazero",
+        "title": "Численность участников и инвалидов Великой Отечественной войны в стационарных учреждениях социального обслуживания",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixazeroazero/data-2018-05-10-structure-2018-05-10.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveaoneathree",
+        "title": "Число выбывших",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveaoneathree/data-2021-09-16-structure-2021-09-16.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasixaoneafour",
+        "title": "Число выбывших по полу, возрасту и потокам передвижения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasixaoneafour/data-2021-04-07-structure-2021-04-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneafourafive",
+        "title": "Число выбывших по потокам передвижения и субъектам Российской Федерации, имеющим в составе места традиционного проживания и традиционной хозяйственной деятельности коренных малочисленных народов Севера, Сибири и Дальнего Востока",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneafourafive/data-2021-04-07-structure-2021-04-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveafiveasix",
+        "title": "Число зарегистрированных умерших (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveafiveasix/data-2023-06-05-structure-2023-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveathreeaseven",
+        "title": "Число зарегистрированных умерших в расчете на 1000 населения (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveathreeaseven/data-2023-06-05-structure-2023-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveafiveaseven",
+        "title": "Число зарегистрированных умерших детей на 1 году жизни (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveafiveaseven/data-2023-06-05-structure-2023-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveatwoasix",
+        "title": "Число зарегистрированных умерших детей на первом году жизни в расчете на 1000 родившихся (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveatwoasix/data-2023-06-05-structure-2023-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveafiveaeight",
+        "title": "Число зарегистрированных умерших детей на первом году жизни по основным классам причин смерти (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveafiveaeight/data-2023-06-05-structure-2023-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveatwoaseven",
+        "title": "Число зарегистрированных умерших детей на первом году жизни по основным классам причин смерти в расчете на 10000 родившихся живыми (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveatwoaseven/data-2023-06-05-structure-2023-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveafiveanine",
+        "title": "Число зарегистрированных умерших по основным классам и отдельным причинам смерти (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveafiveanine/data-2023-06-05-structure-2023-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneatwoasevenaone",
+        "title": "Число зарегистрированных умерших по основным классам и отдельным причинам смерти в расчете на 100000 населения (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneatwoasevenaone/data-2023-06-05-structure-2023-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoathreeathree",
+        "title": "Число лиц, погибших в ДТП",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoathreeathree/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoatwoanine",
+        "title": "Число лиц, погибших в ДТП, на 10 тыс. транспортных средств",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoatwoanine/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoathreeaone",
+        "title": "Число лиц, погибших в ДТП, на 100 пострадавших",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoathreeaone/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoathreeazero",
+        "title": "Число лиц, погибших в ДТП, на 100 тыс. населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoathreeazero/data-2023-05-22-structure-2023-05-22.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroasevenasixasix",
+        "title": "Число лиц, пострадавших в ДТП на железнодорожных переездах",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroasevenasixasix/data-2021-04-20-structure-2021-04-20.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixanineafour",
+        "title": "Число лиц, принимавших участие в ликвидации последствий аварии на Чернобыльской АЭС, состоящих под наблюдением на конец отчетного года, включенных в Медико-дозиметрический регистр",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixanineafour/data-2013-10-24-structure-2013-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaeightafiveasix",
+        "title": "Число молодежи, принявшей участие в мероприятиях патриотической направленности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaeightafiveasix/data-2023-07-26-structure-2023-07-26.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaeightasixatwo",
+        "title": "Число наркологических больных, находящихся в ремиссии более 2 лет",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaeightasixatwo/data-2013-10-24-structure-2013-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaeightasixaone",
+        "title": "Число наркологических больных, находящихся в ремиссии от 1 года до 2 лет",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaeightasixaone/data-2013-10-24-structure-2013-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-fourafourafourasixaseven",
+        "title": "Число погибших",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafourafourasixaseven/data-2014-06-27-structure-2014-06-27.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasevenasevenafour",
+        "title": "Число погибших в авариях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasevenasevenafour/data-2013-08-20-structure-2013-08-20.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasevenasevenathree",
+        "title": "Число погибших в авариях пассажиров",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasevenasevenathree/data-2013-08-20-structure-2013-08-20.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafiveatwoatwo",
+        "title": "Число погибших на море",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafiveatwoatwo/data-2012-01-31-structure-2012-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafiveatwoaone",
+        "title": "Число погибших на море пассажиров",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafiveatwoaone/data-2012-01-31-structure-2012-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafiveaoneathree",
+        "title": "Число погибших пассажиров при аварийных случаях с морскими судами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafiveaoneathree/data-2012-01-31-structure-2012-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafouranineaeight",
+        "title": "Число погибших пассажиров при аварийных случаях с рыбопромысловыми судами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafouranineaeight/data-2012-01-31-structure-2012-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafiveazeroafive",
+        "title": "Число погибших пассажиров при аварийных случаях с судами смешанного (река-море) плавания",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafiveazeroafive/data-2012-01-31-structure-2012-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafiveaoneafour",
+        "title": "Число погибших при аварийных случаях с морскими судами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafiveaoneafour/data-2012-01-31-structure-2012-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafouranineanine",
+        "title": "Число погибших при аварийных случаях с рыбопромысловыми судами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafouranineanine/data-2012-01-31-structure-2012-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafiveazeroasix",
+        "title": "Число погибших при аварийных случаях с судами смешанного (река-море) плавания",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafiveazeroasix/data-2012-01-31-structure-2012-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveaoneafour",
+        "title": "Число прибывших",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveaoneafour/data-2021-09-16-structure-2021-09-16.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasixaoneathree",
+        "title": "Число прибывших по полу, возрасту и потокам передвижения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasixaoneathree/data-2021-04-07-structure-2021-04-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneafourafour",
+        "title": "Число прибывших по потокам передвижения и субъектам Российской Федерации, имеющим в составе места традиционного проживания и традиционной хозяйственной деятельности коренных малочисленных народов Севера, Сибири и Дальнего Востока",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneafourafour/data-2021-04-07-structure-2021-04-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeanineaoneasixaeight",
+        "title": "Число принятых заявлений на выдачу свидетельства участника Государственной программы по оказанию содействия добровольному переселению в Российскую Федерацию соотечественников, проживающих за рубежом, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeanineaoneasixaeight/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneasixazeroasix",
+        "title": "Число родившихся (без мертворожденных) за год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneasixazeroasix/data-2023-09-01-structure-2023-09-01.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneatwoasixanine",
+        "title": "Число родившихся на 1000 населения за год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneatwoasixanine/data-2023-09-25-structure-2023-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroazeroanine",
+        "title": "Число семей беженцев по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroazeroanine/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineanineaseven",
+        "title": "Число семей беженцев с начала регистрации по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineanineaseven/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineanineafive",
+        "title": "Число семей беженцев, обжалующих отрицательные решения, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineanineafive/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroazeroaseven",
+        "title": "Число семей беженцев, прибывших из других субъектов РФ, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroazeroaseven/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineanineanine",
+        "title": "Число семей беженцев, снятых с учета, из числа получивших статус в текущем году, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineanineanine/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroazeroaone",
+        "title": "Число семей беженцев, снятых с учета, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroazeroaone/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineanineathree",
+        "title": "Число семей вынужденных переселенцев по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineanineathree/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineasevenanine",
+        "title": "Число семей вынужденных переселенцев с начала регистрации по данным ФМС России (по 2014 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineasevenanine/data-2017-12-07-structure-2017-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineanineaone",
+        "title": "Число семей вынужденных переселенцев, прибывших в порядке направления из других субъектов РФ, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineanineaone/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineaeightaone",
+        "title": "Число семей вынужденных переселенцев, снятых с учета, из числа получивших статус в текущем году, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineaeightaone/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineaeightathree",
+        "title": "Число семей вынужденных переселенцев, снятых с учета, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineaeightathree/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineafiveasix",
+        "title": "Число семей лиц на конец 2 квартала, подавших заявление о получении временного убежища с 2001 года (ближнее зарубежье), по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineafiveasix/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineasevenaseven",
+        "title": "Число семей лиц на конец 2 квартала, подавших заявление о предоставлении временного убежища в текущем году (дальнее зарубежье), по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineasevenaseven/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineasixafive",
+        "title": "Число семей лиц на конец 2 квартала, подавших заявление о предоставлении временного убежища с начала регистрации с 2001 года (дальнее зарубежье) по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineasixafive/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineafiveafour",
+        "title": "Число семей лиц на конец 2 квартала, подавших заявления о предоставлении временного убежища в текущем году (ближнее зарубежье), по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineafiveafour/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineasevenaone",
+        "title": "Число семей лиц, в отношении которых в результате обжалования проведено повторное рассмотрение заявления о предоставлении временного убежища, по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineasevenaone/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineafiveanine",
+        "title": "Число семей лиц, на конец 2 квартала, подавших заявление на получение временного убежища в 2011 году (ближнее зарубежье), по данным ФМС России",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineafiveanine/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineasevenathree",
+        "title": "Число семей лиц, обратившихся с заявлением о предоставлении временного убежища (всего с 2001 года), по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineasevenathree/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineafiveaseven",
+        "title": "Число семей лиц, подавших заявление о предоставлении временного убежища (ближнее зарубежье), по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineafiveaseven/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineasevenafive",
+        "title": "Число семей лиц, подавших заявление о предоставлении временного убежища, прибывших в порядке направления из других субъектов РФ (ближнее зарубежье), по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineasevenafive/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineasixafour",
+        "title": "Число семей лиц, снятых с учета из общего числа подавших заявление о предоставлении временного убежища и обжалующих отрицательное решение (ближнее зарубежье), по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineasixafour/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineasixatwo",
+        "title": "Число семей лиц, снятых с учета из общего числа подавших заявление о предоставлении временного убежища и обжалующих отрицательное решение в различных инстанциях (ближнее зарубежье), по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineasixatwo/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineasixazero",
+        "title": "Число семей лиц, снятых с учета из числа подавших заявление о предоставлении временного убежища в связи с отказом в его предоставлении (ближнее зарубежье), по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineasixazero/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineafiveaone",
+        "title": "Число семей лиц, снятых с учета из числа подавших заявление о предоставлении временного убежища по причине получения временного убежища (ближнее зарубежье), по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineafiveaone/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineasixathree",
+        "title": "Число семей лиц, снятых с учета, из числа подавших заявление о предоставлении временного убежища (ближнее зарубежье), по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineasixathree/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineasixaseven",
+        "title": "Число семей лиц, снятых с учета, из числа подавших заявление о предоставлении временного убежища по причине отказа в предоставлении временного убежища, по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineasixaseven/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineasixanine",
+        "title": "Число семей лиц, снятых с учета, из числа подавших заявление о предоставлении временного убежища по причине получения временного убежища по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineasixanine/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineasixaone",
+        "title": "Число семей лиц, снятых с учета, из числа подавших заявление о предоставлении временного убежища по прочим причинам (ближнее зарубежье), по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineasixaone/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineafouranine",
+        "title": "Число семей лиц, снятых с учета, из числа подавших заявление о предоставлении временного убежища по прочим причинам (дальнее зарубежье), по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineafouranine/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineafiveafive",
+        "title": "Число семей лиц, снятых с учета, из числа подавших заявление о предоставлении временного убежища, по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineafiveafive/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroaoneathree",
+        "title": "Число семей лиц, ходатайствующих о признании беженцем с начала регистрации, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroaoneathree/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroatwoafive",
+        "title": "Число семей лиц, ходатайствующих о признании беженцем, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroatwoafive/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroatwoathree",
+        "title": "Число семей лиц, ходатайствующих о признании беженцем, прибывших в порядке направления из других субъектов РФ, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroatwoathree/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroaoneafive",
+        "title": "Число семей лиц, ходатайствующих о признании беженцем, снятых с учета, из числа получивших статус в текущем году, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroaoneafive/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroaoneaseven",
+        "title": "Число семей лиц, ходатайствующих о признании беженцем, снятых с учета, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroaoneaseven/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineaeightaseven",
+        "title": "Число семей, в отношении которых рассмотрены ходатайства о признании вынужденными переселенцами, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineaeightaseven/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroatwoaone",
+        "title": "Число семей, обратившихся с ходатайством о признании беженцами, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroatwoaone/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineaeightanine",
+        "title": "Число семей, обратившихся с ходатайством о признании вынужденными переселенцами, по данным ФМС России (по 2015 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineaeightanine/data-2017-12-07-structure-2017-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroazeroathree",
+        "title": "Число семей, признанных беженцами по рождению, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroazeroathree/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroazeroafive",
+        "title": "Число семей, признанных беженцами, по данным ФМС России (по 2010 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroazeroafive/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineaeightafive",
+        "title": "Число семей, признанных вынужденными переселенцами, по данным ФМС России (по 2015 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineaeightafive/data-2017-12-07-structure-2017-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafiveaeightaone",
+        "title": "Число специальных домов для одиноких престарелых",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafiveaeightaone/data-2012-05-24-structure-2012-05-24.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixazeroasix",
+        "title": "Число стационарных учреждений социального обслуживания для граждан пожилого возраста и инвалидов (взрослых и детей)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixazeroasix/data-2018-05-10-structure-2018-05-10.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneaoneasixasix",
+        "title": "Число умерших детей до 1 года на 1000 родившихся живыми за год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneaoneasixasix/data-2023-09-25-structure-2023-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneaoneasixaseven",
+        "title": "Число умерших детей на первом году жизни по основным классам причин смерти в расчете на 10000 родившихся живыми за год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneaoneasixaseven/data-2023-09-25-structure-2023-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineanineanineazero",
+        "title": "Число умерших детей на первом году жизни с распределением по году рождения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineanineanineazero/data-2023-09-25-structure-2023-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneasixaoneaseven",
+        "title": "Число умерших за год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneasixaoneaseven/data-2023-09-15-structure-2023-09-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneasixaoneaeight",
+        "title": "Число умерших на первом году жизни детей за год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneasixaoneaeight/data-2023-09-25-structure-2023-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneasixaoneanine",
+        "title": "Число умерших на первом году жизни по основным классам причин смерти за год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneasixaoneanine/data-2023-09-25-structure-2023-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneatwoasevenazero",
+        "title": "Число умерших по основным классам и отдельным причинам смерти в расчете на 100000 населения за год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneatwoasevenazero/data-2023-09-25-structure-2023-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneasixatwoazero",
+        "title": "Число умерших по основным классам и отдельным причинам смерти за год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneasixatwoazero/data-2023-09-01-structure-2023-09-01.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasevenasevenafive",
+        "title": "Число умерших по полу и 5-летним возрастным группам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasevenasevenafive/data-2023-09-25-structure-2023-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasixaoneaone",
+        "title": "Число частных домохозяйств по итогам Всероссийской переписи населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasixaoneaone/data-2018-01-09-structure-2018-01-09.xml"
+    }
+]

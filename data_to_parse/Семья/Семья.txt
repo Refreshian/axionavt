@@ -1,0 +1,1562 @@
+[
+    {
+        "identifier": "7708234640-sixazeroanineaeightaone",
+        "title": "Охват детей неонатальным скринингом из числа новорожденных, поступивших под наблюдение медицинской организации, обследованных на: фенилкетонурию; врожденный гипотиреоз; адреногенитальный синдром; галактоземию; муковисцидоз; из них выявлено пациентов с диагнозом: фенилкетонурия; врожденный гипотиреоз; адреногенитальный синдром; галактоземия; муковисцидоз",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroanineaeightaone/data-2023-07-10-structure-2023-07-10.xml"
+    },
+    {
+        "identifier": "7706016118-sixatwoathreeasixaeight",
+        "title": "75.01.7.2 - Численность неработающих трудоспособных лиц, осуществляющих уход за нетрудосрпособными гражданами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixatwoathreeasixaeight/data-2023-05-10-structure-2023-05-10.xml"
+    },
+    {
+        "identifier": "7706016118-sixatwoathreeasevenazero",
+        "title": "75.01.7.3 - Численность неработающих трудоспособных лиц, осуществляющих уход за ребенком-инвалидом или инвалидом с детства I группы",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixatwoathreeasevenazero/data-2023-05-10-structure-2023-05-10.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroasevenafiveaeight",
+        "title": "Cовокупный доход домашних хозяйств, в среднем на члена домашнего хозяйства в месяц",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroasevenafiveaeight/data-2020-12-14-structure-2020-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasixasevenaone",
+        "title": "Актуализированы клинические рекомендации и протоколы лечения больных, и обеспечено их использование в целях формирования тарифов на оплату медицинской помощи (количество клинических рекомендаций нарастающим итогом)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasixasevenaone/data-2023-02-07-structure-2023-02-07.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaeightasevenaone",
+        "title": "Больничная летальность детей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaeightasevenaone/data-2013-10-24-structure-2013-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaeightanineazero",
+        "title": "Больничная летальность от инфаркта миокарда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaeightanineazero/data-2021-12-08-structure-2021-12-08.xml"
+    },
+    {
+        "identifier": "7708234640-threeazeroanineafiveafour",
+        "title": "Введено в действие общей площади жилых домов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeazeroanineafiveafour/data-2020-09-02-structure-2020-09-02.xml"
+    },
+    {
+        "identifier": "7708234640-threeafouraoneaoneaeight",
+        "title": "Введено в действие общей площади жилых домов (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafouraoneaoneaeight/data-2023-01-26-structure-2023-01-26.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveasevenafour",
+        "title": "Введено в действие общей площади жилых домов на 1000 человек населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveasevenafour/data-2020-09-02-structure-2020-09-02.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroasevenafouraone",
+        "title": "Введено в действие общей площади построенных населением жилых домов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroasevenafouraone/data-2020-09-02-structure-2020-09-02.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoathreeatwo",
+        "title": "Ввод жилья в рамках мероприятий по стимулированию программ развития жилищного строительства субъектов Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoathreeatwo/data-2022-07-11-structure-2022-07-11.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafiveathreeasix",
+        "title": "Вероятность смерти детей от момента рождения до 5 лет (3.2.1.)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafiveathreeasix/data-2021-04-01-structure-2021-04-01.xml"
+    },
+    {
+        "identifier": "7708234640-threeazeroanineasevenathree",
+        "title": "Возрастные коэффициенты рождаемости",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeazeroanineasevenathree/data-2021-04-05-structure-2021-04-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeazeroanineasevenafour",
+        "title": "Возрастные коэффициенты смертности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeazeroanineasevenafour/data-2021-04-05-structure-2021-04-05.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafourafiveasix",
+        "title": "Выбыло общей площади жилищного фонда за год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafourafiveasix/data-2020-12-17-structure-2020-12-17.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveathreeaseven",
+        "title": "Годовой объем ввода жилья",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveathreeaseven/data-2023-06-02-structure-2023-06-02.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveathreeanine",
+        "title": "Доля ввода жилья по стандартам экономкласса",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveathreeanine/data-2020-09-02-structure-2020-09-02.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveathreeaeight",
+        "title": "Доля ввода малоэтажного жилья в общем объеме ввода жилья",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveathreeaeight/data-2020-09-02-structure-2020-09-02.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenazeroanine",
+        "title": "Доля ветхого и аварийного жилищного фонда в общем объеме жилищного фонда субъекта Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenazeroanine/data-2019-06-26-structure-2019-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafourafiveaeight",
+        "title": "Доля ветхого и аварийного жилищного фонда в общем объеме жилищного фонда субъекта Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafourafiveaeight/data-2019-06-26-structure-2019-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaeightazeroatwo",
+        "title": "Доля времени, затрачиваемого на неоплачиваемые работу по дому и труд по уходу за членами домохозяйства и семьи (5.4.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaeightazeroatwo/data-2020-09-14-structure-2020-09-14.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneazeroatwoatwo",
+        "title": "Доля детей в возрасте до 16 лет, в отношении которых имеется задолженность с выплатой алиментов, назначенных по решению суда, в общей численности детей, которым назначены алименты",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneazeroatwoatwo/data-2021-04-02-structure-2021-04-02.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneazeroaoneafive",
+        "title": "Доля детей в возрасте до 18 лет, проживающих в домашних хозяйствах со среднедушевыми денежными доходами ниже величины прожиточного минимума, в общей численности детей в возрасте до 18 лет",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneazeroaoneafive/data-2023-09-04-structure-2023-09-04.xml"
+    },
+    {
+        "identifier": "7707418081-sixatwoafouraoneazero",
+        "title": "Доля детей, в отношении которых отменено решение о передаче ребенка на воспитание в семью усыновителей, опекунов, попечителей, приемных родителей, прошедших подготовку, в общей численности отмененных решений в отчетный период",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixatwoafouraoneazero/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroatwoafour",
+        "title": "Доля женщин в возрасте от 20 до 24 лет, вступивших в брак или союз до 15 лет и до 18 лет (5.3.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroatwoafour/data-2018-07-24-structure-2018-07-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroatwoathree",
+        "title": "Доля женщин репродуктивного возраста (от 18 до 44 лет), чьи потребности по планированию семьи удовлетворяются современными методами (3.7.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroatwoathree/data-2018-07-24-structure-2018-07-24.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafouratwoaeight",
+        "title": "Доля женщин, отказавшихся от искусственного прерывания беременности и взятых под диспансерное наблюдение по беременности, в общей численности женщин, проконсультированных в центрах медико-социальной поддержки беременных женщин, оказавшихся в трудной жизненной ситуации, или в кабинетах медико-социальной помощи",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafouratwoaeight/data-2023-07-10-structure-2023-07-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightanineasixatwo",
+        "title": "Доля многодетных семей, получивших жилые помещения и улучшивших жилищные условия в отчетном году, в общем числе многодетных семей, состоящих на учете в качестве нуждающихся в жилых помещениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightanineasixatwo/data-2019-11-14-structure-2019-11-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafouranineafive",
+        "title": "Доля многоквартирных домов, в которых собственники помещений выбрали и реализуют способ управления многоквартирными домами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafouranineafive/data-2018-04-26-structure-2018-04-26.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafourafiveaseven",
+        "title": "Доля многоквартирных домов, в отношении которых выбран и реализован способ управления многоквартирными домами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafourafiveaseven/data-2022-02-28-structure-2022-02-28.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineathreeaeight",
+        "title": "Доля муниципальных образований, в которых предоставление установленных федеральными законами и законами субъектов Российской Федерации мер социальной поддержки гражданам на оплату жилого помещения и коммунальных услуг (за исключением субсидий гражданам на оплату жилого помещения и коммунальных услуг) осуществляется в денежной форме (в том числе путем перечисления средств на предоставление таких мер через банковские счета в банках, организации связи или иным способом)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineathreeaeight/data-2019-11-14-structure-2019-11-14.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoazeroatwoatwo",
+        "title": "Доля населения с большим удельным весом семейных расходов на медицинскую помощь в общем объеме расходов или доходов домохозяйств (3.8.2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoazeroatwoatwo/data-2023-08-31-structure-2023-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaeightatwoatwo",
+        "title": "Доля населения с располагаемыми эквивалентными денежными доходами ниже относительной черты бедности (50% от медианного эквивалентного располагаемого денежного дохода по населению в целом), проживающего в домохозяйствах, в которых глава домохозяйства является лицом моложе пенсионного возраста, в разбивке по структуре домохозяйств и отношению к занятости",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaeightatwoatwo/data-2020-12-14-structure-2020-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaeightatwoaone",
+        "title": "Доля населения с располагаемыми эквивалентными денежными доходами ниже относительной черты бедности (50% от медианного эквивалентного располагаемого денежного дохода по населению в целом), проживающего в домохозяйствах, в которых глава домохозяйства является лицом пенсионного возраста, в разбивке по структуре домохозяйств и отношению к занятости",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaeightatwoaone/data-2020-12-14-structure-2020-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaeightatwoafive",
+        "title": "Доля населения с рыночными эквивалентными денежными доходами ниже относительной черты бедности (50% от медианного эквивалентного рыночного денежного дохода по населению в целом), проживающая в домохозяйстве, в котором глава домохозяйства - лицо моложе пенсионного возраста, в разбивке по структуре домохозяйств и отношению к занятости",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaeightatwoafive/data-2020-12-14-structure-2020-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaeightatwoafour",
+        "title": "Доля населения с рыночными эквивалентными денежными доходами ниже относительной черты бедности (50% от медианного эквивалентного рыночного денежного дохода по населению в целом), проживающая в домохозяйстве, в котором глава домохозяйства - лицо пенсионного возраста, в разбивке по структуре домохозяйств и отношению к занятости",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaeightatwoafour/data-2020-12-14-structure-2020-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaeightaoneasix",
+        "title": "Доля населения, проживающего в домохозяйствах, в которых глава домохозяйства является лицом моложе пенсионного возраста, в разбивке по структуре домохозяйств и отношению к занятости",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaeightaoneasix/data-2020-12-14-structure-2020-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaeightaoneafive",
+        "title": "Доля населения, проживающего в домохозяйствах, в которых глава домохозяйства является лицом пенсионного возраста, в разбивке по структуре домохозяйств и отношению к занятости",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaeightaoneafive/data-2020-12-14-structure-2020-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroafourazero",
+        "title": "Доля негосударственных организаций в общем количестве организаций, предоставляющих социальные услуги без обеспечения проживания (по данным государственной регистрации)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroafourazero/data-2023-09-26-structure-2023-09-26.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaeightaeightafour",
+        "title": "Доля преждевременных родов (22 - 37 недель) в перинатальных центрах",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaeightaeightafour/data-2021-12-02-structure-2021-12-02.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroanineafouraone",
+        "title": "Доля родителей, чьи дети обучаются в образовательных организациях, удовлетворенных качеством питания в общеобразовательной организации, в числе родителей, принявших участие в опросе",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroanineafouraone/data-2021-02-17-structure-2021-02-17.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafiveatwoaseven",
+        "title": "Доля родов, принятых квалифицированными медицинскими работниками (3.1.2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafiveatwoaseven/data-2018-03-28-structure-2018-03-28.xml"
+    },
+    {
+        "identifier": "7706016118-sixaoneaoneatwoafour",
+        "title": "Доля семей с детьми, которые персонифицировано проинформированы о возникновении прав на получение мер социальной поддержки, от выразивших согласие на получение проактивного уведомления или обратившихся посредством посещений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixaoneaoneatwoafour/data-2023-05-22-structure-2023-05-22.xml"
+    },
+    {
+        "identifier": "7706016118-sixaoneaoneatwoathree",
+        "title": "Доля семей с детьми, получивших меры социальной поддержки на детей на основании только заявления или проактивно (P1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixaoneaoneatwoathree/data-2023-05-22-structure-2023-05-22.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveaoneaone",
+        "title": "Доля семей, обеспеченных жильем, от количества семей, состоявших на учете по состоянию на 2011 год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveaoneaone/data-2019-06-26-structure-2019-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineathreeafour",
+        "title": "Доля семей, получающих жилищные субсидии на оплату жилого помещения и коммунальных услуг, в общем числе семей в субъекте Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineathreeafour/data-2019-06-25-structure-2019-06-25.xml"
+    },
+    {
+        "identifier": "7706016118-sixaoneaeightazeroaone",
+        "title": "Доля семей, получивших государственный сертификат на материнский (семейный) капитал",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixaoneaeightazeroaone/data-2022-09-28-structure-2022-09-28.xml"
+    },
+    {
+        "identifier": "7708234640-fourafiveafourathreeanine",
+        "title": "Желаемое число детей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafiveafourathreeanine/data-2016-05-24-structure-2016-05-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneasevenaseven",
+        "title": "Количество беспризорных и безнадзорных несовершеннолетних, выявленных сотрудниками органов предварительного следствия.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneasevenaseven/data-2023-04-03-structure-2023-04-03.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneaeightathree",
+        "title": "Количество беспризорных и безнадзорных несовершеннолетних, выявленных сотрудниками подразделений органов внутренних дел по работе с несовершеннолетними.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneaeightathree/data-2023-04-04-structure-2023-04-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneaeightazero",
+        "title": "Количество беспризорных и безнадзорных несовершеннолетних, выявленных сотрудниками уголовного розыска.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneaeightazero/data-2023-04-04-structure-2023-04-04.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixatwoasix",
+        "title": "Количество бюро медико-социальной экспертизы педиатрического профиля",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixatwoasix/data-2023-11-08-structure-2023-11-08.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixaoneaone",
+        "title": "Количество выданных индивидуальных программ реабилитации для детей-инвалидов в возрасте до 18 лет",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixaoneaone/data-2023-11-03-structure-2023-11-03.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixaoneathree",
+        "title": "Количество выданных индивидуальных программ реабилитации для инвалидов в возрасте до 18 лет и старше",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixaoneathree/data-2023-11-03-structure-2023-11-03.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneaeightasix",
+        "title": "Количество выявленных беспризорных и безнадзорных несовершеннолетних",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneaeightasix/data-2023-04-04-structure-2023-04-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneaeightaseven",
+        "title": "Количество выявленных несовершеннолетних, совершивших административные правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneaeightaseven/data-2023-04-04-structure-2023-04-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneaeightaeight",
+        "title": "Количество выявленных несовершеннолетних, совершивших уголовные правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneaeightaeight/data-2023-07-12-structure-2023-07-12.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneaeightatwo",
+        "title": "Количество выявленных сотрудниками криминальной милиции несовершеннолетних, совершивших уголовные правонарушения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneaeightatwo/data-2023-04-04-structure-2023-04-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroasevenatwoafive",
+        "title": "Количество детей, получивших услуги ранней помощи",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroasevenatwoafive/data-2020-12-30-structure-2020-12-30.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafouratwoathree",
+        "title": "Количество детей, принявших участие в мероприятиях по вопросам информационной безопасности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafouratwoathree/data-2023-07-07-structure-2023-07-07.xml"
+    },
+    {
+        "identifier": "7707418081-sixaoneasevenanineaseven",
+        "title": "Количество дополнительно созданных мест с целью обеспечения дошкольным образованием детей в возрасте до 3 лет, нарастающим итогом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixaoneasevenanineaseven/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaeightaoneaeight",
+        "title": "Количество зарегистрированных актов гражданского состояния",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaeightaoneaeight/data-2022-02-16-structure-2022-02-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoathreeanineatwo",
+        "title": "Количество зарегистрированных преступлений по фактам неисполнения обязанностей по воспитанию несовершеннолетнего, сопряженных с жестоким обращением с несовершеннолетним (статья 156 Уголовного кодекса Российской Федерации)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoathreeanineatwo/data-2023-06-15-structure-2023-06-15.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroaoneaseven",
+        "title": "Количество индикаторов хода реализации Концепции демографической политики Российской Федерации на период до 2025 года и приоритетных национальных проектов, формируемых по итогам выборочных наблюдений домашних хозяйств (населения) по социально-демографическим проблемам, по отношению к 2012 году",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroaoneaseven/data-2020-09-14-structure-2020-09-14.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixasevenaone",
+        "title": "Количество мест в домах ребенка",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixasevenaone/data-2013-10-24-structure-2013-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveaoneatwo",
+        "title": "Количество молодых семей, улучшивших жилищные условия",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveaoneatwo/data-2019-06-26-structure-2019-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveaoneazero",
+        "title": "Количество молодых семей, улучшивших жилищные условия (нарастающим итогом)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveaoneazero/data-2019-06-26-structure-2019-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneanineaeight",
+        "title": "Количество несовершеннолетних потерпевших",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneanineaeight/data-2023-03-30-structure-2023-03-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneasevenaeight",
+        "title": "Количество несовершеннолетних, совершивших административные правонарушения, выявленных сотрудниками органов предварительного следствия.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneasevenaeight/data-2023-04-04-structure-2023-04-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneaeightafour",
+        "title": "Количество несовершеннолетних, совершивших административные правонарушения, выявленных сотрудниками подразделений органов внутренних дел по работе с несовершеннолетними.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneaeightafour/data-2023-04-04-structure-2023-04-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixaoneaeightaone",
+        "title": "Количество несовершеннолетних, совершивших административные правонарушения, выявленных сотрудниками уголовного розыска.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixaoneaeightaone/data-2023-04-04-structure-2023-04-04.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneaeightaeightaeight",
+        "title": "Количество осужденных, совершивших преступления в несовершеннолетнем возрасте",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneaeightaeightaeight/data-2021-10-18-structure-2021-10-18.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneazeroafourazero",
+        "title": "Количество отечественных производителей технических средств реабилитации для детей-инвалидов, воспользовавшихся механизмами поддержки",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneazeroafourazero/data-2022-04-25-structure-2022-04-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaoneaeightafour",
+        "title": "Количество посещений цирков",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaoneaeightafour/data-2020-06-25-structure-2020-06-25.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixaoneatwo",
+        "title": "Количество разработанных индивидуальных программ реабилитации для детей-инвалидов в возрасте до 18 лет",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixaoneatwo/data-2023-11-03-structure-2023-11-03.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixaoneafour",
+        "title": "Количество разработанных индивидуальных программ реабилитации для инвалидов в возрасте 18 лет и старше",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixaoneafour/data-2023-11-03-structure-2023-11-03.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveazeroanine",
+        "title": "Количество семей граждан, улучшивших жилищные условия",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveazeroanine/data-2019-06-26-structure-2019-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveafouraseven",
+        "title": "Количество семей, улучшивших жилищные условия (F1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveafouraseven/data-2023-10-19-structure-2023-10-19.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneazeroathreeanine",
+        "title": "Количество субъектов Российской Федерации, участвующих в акции «Подарок новорожденному»",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneazeroathreeanine/data-2021-04-06-structure-2021-04-06.xml"
+    },
+    {
+        "identifier": "7707418081-sixaoneaoneafourazero",
+        "title": "Количество услуг психолого-педагогической, методической и консультативной помощи, оказанных родителям (законным представителям) детей, а также гражданам, желающим принять на воспитание в свои семьи детей, оставшихся без попечения родителей (E1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixaoneaoneafourazero/data-2023-09-11-structure-2023-09-11.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixaoneazero",
+        "title": "Количество учреждений социального обслуживания семьи и детей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixaoneazero/data-2012-07-17-structure-2012-07-17.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenathreeaoneafour",
+        "title": "Коэффициент материнской смертности (3.1.1.)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenathreeaoneafour/data-2023-09-25-structure-2023-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafiveatwoaeight",
+        "title": "Коэффициент ранней неонатальной смертности (3.2.2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafiveatwoaeight/data-2023-09-25-structure-2023-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasixasevenaseven",
+        "title": "Коэффициент рождаемости среди подростков (в возрасте от 10 до 14 лет и в возрасте от 15 до 19 лет) на 1000 женщин в соответствующей возрастной группе (3.7.2.)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasixasevenaseven/data-2020-12-22-structure-2020-12-22.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaeightatwoaseven",
+        "title": "Коэффициенты рождаемости в возрастной группе 25 - 29 лет (число родившихся на 1000 женщин соответствующего возраста)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaeightatwoaseven/data-2020-12-22-structure-2020-12-22.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaeightatwoaeight",
+        "title": "Коэффициенты рождаемости в возрастной группе 30 - 34 лет (число родившихся на 1000 женщин соответствующего возраста)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaeightatwoaeight/data-2020-12-22-structure-2020-12-22.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaeightatwoanine",
+        "title": "Коэффициенты рождаемости в возрастной группе 35 - 39 лет (число родившихся на 1000 женщин соответствующего возраста)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaeightatwoanine/data-2020-12-22-structure-2020-12-22.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineaoneafive",
+        "title": "Материнская смертность на 100000 родившихся живыми",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineaoneafive/data-2018-02-02-structure-2018-02-02.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveathreeasevenasix",
+        "title": "Младенческая смертность (на 1 тыс. родившихся живыми)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveathreeasevenasix/data-2023-09-25-structure-2023-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineazeroatwo",
+        "title": "Младенческая смертность на 1 тыс. родившихся живыми (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineazeroatwo/data-2023-01-30-structure-2023-01-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveafiveaone",
+        "title": "Обеспеченность детей дошкольного возраста местами в дошкольных образовательных организациях - количество мест на 1000 детей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveafiveaone/data-2020-09-09-structure-2020-09-09.xml"
+    },
+    {
+        "identifier": "7708234640-fourafourazeroaeightatwo",
+        "title": "Обеспеченность детей дошкольного возраста местами в дошкольных образовательных учреждениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafourazeroaeightatwo/data-2022-06-01-structure-2022-06-01.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveathreeazero",
+        "title": "Обеспеченность детей дошкольного возраста местами в организациях, осуществляющих образовательную деятельность по образовательным программам дошкольного образования, присмотр и уход за детьми, приходится мест на 1000 детей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveathreeazero/data-2022-10-13-structure-2022-10-13.xml"
+    },
+    {
+        "identifier": "7706562710-sixazeroanineatwoaseven",
+        "title": "Обеспеченность углубленным психодиагностическим обследованием в учреждениях уголовно-исполнительной системы вновь прибывших несовершеннолетних в целях выявления острых кризисных состояний, признаков психических отклонений, прогноза риска деструктивных форм поведения, в том числе склонности к суицидальному поведению в условиях изоляции",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706562710-sixazeroanineatwoaseven/data-2023-07-26-structure-2023-07-26.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafourathreeatwo",
+        "title": "Общая заболеваемость ожирением детей в возрасте от 0 до 17 лет на 100 тыс. человек населения соответствующего возраста",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafourathreeatwo/data-2023-07-10-structure-2023-07-10.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasevenanineafour",
+        "title": "Общая заселенная площадь, купленная семьями, состоящими на учете в качестве нуждающихся в жилых помещениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasevenanineafour/data-2019-06-28-structure-2019-06-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafourasevenanine",
+        "title": "Общая площадь жилых помещений в многоквартирных домах",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafourasevenanine/data-2018-05-08-structure-2018-05-08.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightaeightanine",
+        "title": "Общая площадь жилых помещений в многоквартирных жилых домах, в которые поставляется тепловая энергия",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightaeightanine/data-2019-04-02-structure-2019-04-02.xml"
+    },
+    {
+        "identifier": "7707418081-fiveanineasixaoneafive",
+        "title": "Общая численность воспитанников (включая детей-сирот и детей, оставшихся без попечения родителей) в организациях для детей-сирот и детей, оставшихся без попечения родителей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-fiveanineasixaoneafive/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroanineathreeasix",
+        "title": "Общее количество семей, получивших жилое помещение по договорам социального найма",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroanineathreeasix/data-2023-05-12-structure-2023-05-12.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafouraeightaseven",
+        "title": "Объем реализации товаров для детей (включая детское питание)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafouraeightaseven/data-2023-08-29-structure-2023-08-29.xml"
+    },
+    {
+        "identifier": "7708234640-fourafiveafourathreeaseven",
+        "title": "Ожидаемое число детей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafiveafourathreeaseven/data-2016-05-24-structure-2016-05-24.xml"
+    },
+    {
+        "identifier": "7702235133-sixatwoafiveazeroazero",
+        "title": "Операции сектора \"Домашние хозяйства\" с финансовыми активами и обязательствами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7702235133-sixatwoafiveazeroazero/data-2023-10-12-structure-2023-10-12.xml"
+    },
+    {
+        "identifier": "7702235133-sixatwoafiveazeroatwo",
+        "title": "Операции сектора \"Домашние хозяйства\" с финансовыми активами и обязательствами по отдельным финансовым инструментам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7702235133-sixatwoafiveazeroatwo/data-2023-10-12-structure-2023-10-12.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasixaoneafour",
+        "title": "Оплата сторонних организаций по предоставлению услуг пансионатов, домов отдыха, детских лагерей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasixaoneafour/data-2022-08-24-structure-2022-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneasixaoneafive",
+        "title": "Оплата сторонних организаций по предоставлению услуг пансионатов, домов отдыха, детских лагерей за счет прибыли",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneasixaoneafive/data-2022-08-24-structure-2022-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenathreeaseven",
+        "title": "Оплата сторонних организаций по предоставлению услуг пансионатов, домов отдыха, детских лагерей за счет прибыли c 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenathreeaseven/data-2022-08-24-structure-2022-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenathreeasix",
+        "title": "Оплата сторонних организаций по предоставлению услуг пансионатов, домов отдыха, детских лагерей с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenathreeasix/data-2022-08-24-structure-2022-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-fourafouraoneasevenasix",
+        "title": "Отношение средней заработной платы педагогических работников дошкольных образовательных учреждений к средней заработной плате в сфере общего образования в субъекте Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafouraoneasevenasix/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightasevenazero",
+        "title": "Отношение средней заработной платы педагогических работников образовательных, медицинских организаций или организаций, оказывающих социальные услуги детям-сиротам и детям, оставшимся без попечения родителей к оценке среднемесячной начисленной заработной платы наемных работников в организациях, у индивидуальных предпринимателей и физических лиц (оценке среднемесячного дохода от трудовой деятельности) по субъекту Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightasevenazero/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightasixazero",
+        "title": "Отношение средней заработной платы педагогических работников образовательных, медицинских организаций или организаций, оказывающих социальные услуги детям-сиротам и детям, оставшимся без попечения родителей к среднемесячной начисленной заработной плате наемных работников в организациях, у индивидуальных предпринимателей и физических лиц (среднемесячному доходу от трудовой деятельности) по субъекту Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightasixazero/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-fourafiveasixatwoazero",
+        "title": "Отношение средней заработной платы педагогических работников образовательных, медицинских организаций или организаций, оказывающих социальные услуги детям-сиротам и детям, оставшимся без попечения родителей к средней заработной плате по субъекту Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafiveasixatwoazero/data-2020-11-13-structure-2020-11-13.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenazeroafour",
+        "title": "Отношение среднемесячной номинальной начисленной заработной платы работников государственных (муниципальных) дошкольных учреждений к среднемесячной номинальной начисленной заработной плате работников в сфере экономики региона",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenazeroafour/data-2020-09-01-structure-2020-09-01.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroathreeathree",
+        "title": "Отношение среднемесячной номинальной начисленной заработной платы работников государственных (муниципальных) дошкольных учреждений к среднемесячной номинальной начисленной заработной плате работников в сфере экономики региона с 2018 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroathreeathree/data-2020-08-21-structure-2020-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasixasevenathree",
+        "title": "Охват детей в возрасте 5-18 лет программами дополнительного образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasixasevenathree/data-2023-02-20-structure-2023-02-20.xml"
+    },
+    {
+        "identifier": "7707418081-sixazeroanineanineaone",
+        "title": "Охват детей в возрасте от 5 до 18 лет программами дополнительного образования (удельный вес численности детей, получающих услуги дополнительного образования, в общей численности детей в возрасте от 5 до 18 лет)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixazeroanineanineaone/data-2023-09-07-structure-2023-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveafiveathree",
+        "title": "Охват детей дошкольным образованием",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveafiveathree/data-2022-04-25-structure-2022-04-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroathreeasevenazero",
+        "title": "Охват детей постоянными дошкольными образовательными учреждениями (в % к численности детей соответствующего возраста)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroathreeasevenazero/data-2022-06-17-structure-2022-06-17.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafourafiveanine",
+        "title": "Охват детей, привитых против инфекционных заболеваний",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafourafiveanine/data-2023-07-28-structure-2023-07-28.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafourasevenasix",
+        "title": "Охват иммунизацией детей против пневмококковой инфекции в декретированные сроки (в 12 месяцев, 24 месяца)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafourasevenasix/data-2020-11-03-structure-2020-11-03.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafourasevenazero",
+        "title": "Охват иммунизацией детей против полиомиелита в декретированные сроки (в 12 месяцев, 24 месяца)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafourasevenazero/data-2020-11-03-structure-2020-11-03.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaeightasixanine",
+        "title": "Охват неонатальным скринингом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaeightasixanine/data-2013-10-24-structure-2013-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaeightasevenafour",
+        "title": "Охват пар «мать – дитя» химиопрофилактикой в соответствии с действующими стандартами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaeightasevenafour/data-2013-10-24-structure-2013-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaeightafiveatwo",
+        "title": "Охват профилактическими медицинскими осмотрами детей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaeightafiveatwo/data-2013-10-24-structure-2013-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveaoneafive",
+        "title": "Показатель ранней неонатальной смертности, на 1000 родившихся живыми",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveaoneafive/data-2023-09-25-structure-2023-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixasevenazero",
+        "title": "Поступило детей в дома ребенка",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixasevenazero/data-2013-10-24-structure-2013-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoazeroafourazero",
+        "title": "Применение противозачаточных средств и обращение за услугами по охране репродуктивного здоровья женщин в возрасте 18-44 лет (ЦУР 5.6.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoazeroafourazero/data-2023-01-27-structure-2023-01-27.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafourasevenazero",
+        "title": "Размер общей (полезной) площади на члена домохозяйства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafourasevenazero/data-2021-08-30-structure-2021-08-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafourasixaeight",
+        "title": "Распределение затрат времени на ведение домашнего хозяйства по видам деятельности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafourasixaeight/data-2020-08-18-structure-2020-08-18.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafourasixaseven",
+        "title": "Распределение свободного времени по видам деятельности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafourasixaseven/data-2020-08-18-structure-2020-08-18.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneasixafive",
+        "title": "Распространенность задержки роста среди детей в возрасте до пяти лет (среднеквадратичное отклонение от медианного показателя роста к возрасту ребенка в соответствии с нормами роста детей, установленными Всемирной организацией здравоохранения (ВОЗ) (2.2.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneasixafive/data-2020-09-14-structure-2020-09-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneasixasix",
+        "title": "Распространенность неполноценного питания среди детей в возрасте до пяти лет в разбивке по виду (истощение или ожирение) (среднеквадратичное отклонение от медианного показателя веса к возрасту ребенка в соответствии с нормами роста детей, установленными Всемирной организацией здравоохранения (ВОЗ)) (2.2.2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneasixasix/data-2020-09-14-structure-2020-09-14.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasixaoneafive",
+        "title": "Расходы по предоставлению услуг пансионатов, домов отдыха, детских лагерей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasixaoneafive/data-2022-08-24-structure-2022-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeafourafouraone",
+        "title": "Расходы по предоставлению услуг пансионатов, домов отдыха, детских лагерей за счет прибыли",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeafourafouraone/data-2022-08-24-structure-2022-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenathreeafive",
+        "title": "Расходы по предоставлению услуг пансионатов, домов отдыха, детских лагерей за счет прибыли с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenathreeafive/data-2022-08-24-structure-2022-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenathreeafour",
+        "title": "Расходы по предоставлению услуг пансионатов, домов отдыха, детских лагерей с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenathreeafour/data-2022-08-24-structure-2022-08-24.xml"
+    },
+    {
+        "identifier": "7706016118-sixaoneasixaeightafive",
+        "title": "Сведения о получении материнского (семейного) капитала",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixaoneasixaeightafive/data-2023-07-10-structure-2023-07-10.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaeightanineafour",
+        "title": "Смертность детей 0 - 17 лет на 100000 населения соответствующего возраста",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaeightanineafour/data-2021-04-05-structure-2021-04-05.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenasevenazero",
+        "title": "Смертность детей в возрасте 0 - 17 лет на 100 тыс. детей соответствующего возраста",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenasevenazero/data-2022-03-11-structure-2022-03-11.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineazeroazero",
+        "title": "Смертность детей в возрасте 0 – 17 лет на 100 тыс. детей соответствующего возраста (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineazeroazero/data-2022-03-11-structure-2022-03-11.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaeightatwoasix",
+        "title": "Смертность детей в возрасте 0 - 4 года на 1000 родившихся живыми",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaeightatwoasix/data-2022-03-11-structure-2022-03-11.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaeightasixatwo",
+        "title": "Смертность детей в возрасте 0 – 4 года на 1000 родившихся живыми (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaeightasixatwo/data-2022-03-11-structure-2022-03-11.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafourathreeatwo",
+        "title": "Состав пищевых веществ в потребленных продуктах питания, в среднем на члена домохозяйства в сутки",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafourathreeatwo/data-2021-08-30-structure-2021-08-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeanineanineatwo",
+        "title": "Среднемесячный размер начисленных субсидий на семью",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeanineanineatwo/data-2022-11-14-structure-2022-11-14.xml"
+    },
+    {
+        "identifier": "7708234640-threeafouraoneasixaseven",
+        "title": "Средний размер квартир в построенных населением жилых домах",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafouraoneasixaseven/data-2020-09-02-structure-2020-09-02.xml"
+    },
+    {
+        "identifier": "7708234640-threeafouraoneasixaeight",
+        "title": "Средний размер построенных квартир",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafouraoneasixaeight/data-2020-09-02-structure-2020-09-02.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaeightazeroatwo",
+        "title": "Средний эквивалентный доход от трудовой деятельности главы домашнего хозяйства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaeightazeroatwo/data-2020-12-14-structure-2020-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaeightazeroafour",
+        "title": "Средний эквивалентный доход от трудовой деятельности других членов домашнего хозяйства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaeightazeroafour/data-2020-12-14-structure-2020-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaeightazeroathree",
+        "title": "Средний эквивалентный доход от трудовой деятельности супруги/супруга главы домашнего хозяйства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaeightazeroathree/data-2020-12-14-structure-2020-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneazeroaeightaeight",
+        "title": "Стационарные организации социального обслуживания для детей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneazeroaeightaeight/data-2021-05-06-structure-2021-05-06.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasixanineatwo",
+        "title": "Стоимость проданных жилых помещений населению",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasixanineatwo/data-2019-06-25-structure-2019-06-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafourathreeafour",
+        "title": "Структура затрат времени населения на ведение домашнего хозяйства по видам деятельности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafourathreeafour/data-2020-08-18-structure-2020-08-18.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneaeightafive",
+        "title": "Структура расходов домашних хозяйств на покупку продуктов питания и безалкогольных напитков",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneaeightafive/data-2021-09-03-structure-2021-09-03.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoazeroafive",
+        "title": "Структура расходов на конечное потребление домашних хозяйств",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoazeroafive/data-2022-09-06-structure-2022-09-06.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafourathreeafive",
+        "title": "Структура свободного времени населения по видам деятельности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafourathreeafive/data-2020-08-18-structure-2020-08-18.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafourathreeathree",
+        "title": "Структура суточного фонда времени населения по видам деятельности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafourathreeathree/data-2020-08-18-structure-2020-08-18.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenasevenaone",
+        "title": "Суммарный коэффициент рождаемости вторых детей (число детей на одну женщину)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenasevenaone/data-2020-12-22-structure-2020-12-22.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenasevenatwo",
+        "title": "Суммарный коэффициент рождаемости третьих и последующих детей (число детей на одну женщину)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenasevenatwo/data-2020-12-22-structure-2020-12-22.xml"
+    },
+    {
+        "identifier": "7707418081-sixazeroathreeafouranine",
+        "title": "Текущие и капитальные расходы на дошкольное образование (Current and capital expenditure for ISCED0)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixazeroathreeafouranine/data-2023-09-11-structure-2023-09-11.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenatwoanine",
+        "title": "Текущие расходы на содержание пансионатов, домов отдыха, детских лагерей за счет прибыли с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenatwoanine/data-2022-08-24-structure-2022-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasixatwoazero",
+        "title": "Текущие расходы на содержание пансионатов, домов отдыха, детских лагерей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasixatwoazero/data-2020-12-15-structure-2020-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneasixaoneatwo",
+        "title": "Текущие расходы на содержание пансионатов, домов отдыха, детских лагерей за счет прибыли",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneasixaoneatwo/data-2020-12-15-structure-2020-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenatwoaeight",
+        "title": "Текущие расходы на содержание пансионатов, домов отдыха, детских лагерей с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenatwoaeight/data-2022-08-24-structure-2022-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveaoneafiveaeight",
+        "title": "Темп роста (снижения) по вводу общей площади жилых домов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveaoneafiveaeight/data-2023-09-21-structure-2023-09-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneafiveasix",
+        "title": "Темпы роста расходов домохозяйств или доходов на душу населения среди наименее обеспеченных 40 процентов населения и среди населения в целом за год, предшествующий предыдущему (10.1.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneafiveasix/data-2020-09-14-structure-2020-09-14.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeanineafiveaone",
+        "title": "Увеличение доли детей, обучающихся в детских школах искусств, в общей численности учащихся детей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeanineafiveaone/data-2018-06-15-structure-2018-06-15.xml"
+    },
+    {
+        "identifier": "7707418081-sixazeroanineatwoaone",
+        "title": "Удельный вес численности детей с ограниченными возможностями здоровья и детей-инвалидов в общей численности обучающихся в организациях дополнительного образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixazeroanineatwoaone/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafiveafourazero",
+        "title": "Удельный вес численности детей частных дошкольных образовательных организаций в общей численности детей дошкольных образовательных организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafiveafourazero/data-2022-06-01-structure-2022-06-01.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaeightaeightafive",
+        "title": "Укомплектованность медицинских организаций, оказывающих медицинскуцю помощь детям (доля занятых физическими лицами должностей от общего количества должностей в медицинских организациях, оказывающих медицинскую помощь в амбулаторных условиях), нарастающим итогом врачами-педиатрами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaeightaeightafive/data-2021-12-01-structure-2021-12-01.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoazeroaseven",
+        "title": "Укомплектованность медицинских организаций, оказывающих медицинскую помощь в амбулаторных условиях (доля занятых физическими лицами должностей от общего количества должностей в медицинских учреждениях, оказывающих медицинскую помощь в амбулаторных условиях), средними медицинскими работниками, нарастающим итогом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoazeroaseven/data-2022-06-24-structure-2022-06-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaeightatwoafive",
+        "title": "Уровень занятости женщин, имеющих детей в возрасте до трех лет",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaeightatwoafive/data-2023-09-28-structure-2023-09-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaeightatwoafour",
+        "title": "Уровень занятости женщин, имеющих детей дошкольного возраста",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaeightatwoafour/data-2023-09-28-structure-2023-09-28.xml"
+    },
+    {
+        "identifier": "7702235133-sixatwoatwoanineafive",
+        "title": "Финансовые активы и обязательства сектора \"Домашние хозяйства\"",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7702235133-sixatwoatwoanineafive/data-2023-01-26-structure-2023-01-26.xml"
+    },
+    {
+        "identifier": "7702235133-sixatwoafiveazeroaone",
+        "title": "Финансовые активы и обязательства сектора \"Домашние хозяйства\" по отдельным финансовым инструментам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7702235133-sixatwoafiveazeroaone/data-2023-10-12-structure-2023-10-12.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneanineaeight",
+        "title": "Частота потребления основных продуктов питания",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneanineaeight/data-2020-08-18-structure-2020-08-18.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixazeroaseven",
+        "title": "Численность несовершеннолетних, прошедших социальную реабилитацию",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixazeroaseven/data-2012-07-17-structure-2012-07-17.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixafiveafive",
+        "title": "Численность беспризорных и безнадзорных несовершеннолетних, помещенных в лечебно-профилактические учреждения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixafiveafive/data-2013-10-24-structure-2013-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaeightazeroazero",
+        "title": "Численность воспитанников в возрасте до трех лет, посещающих государственные и муниципальные организации, осуществляющие образовательную деятельность по образовательным программам дошкольного образования, присмотр и уход, в том числе в субъектах Российской Федерации, входящих в состав Дальневосточного и Северо-Кавказского федеральных округов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaeightazeroazero/data-2022-06-01-structure-2022-06-01.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaeightazeroaone",
+        "title": "Численность воспитанников в возрасте до трех лет, посещающих частные организации, осуществляющие образовательную деятельность по образовательным программам дошкольного образования, присмотр и уход, в том числе в субъектах Российской Федерации, входящих в состав Дальневосточного и Северо-Кавказского федеральных округов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaeightazeroaone/data-2022-06-17-structure-2022-06-17.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneafiveafiveatwo",
+        "title": "Численность воспитанников в организациях, осуществляющих образовательную деятельность по образовательным программам дошкольного образования, присмотр и уход за детьми",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneafiveafiveatwo/data-2022-10-13-structure-2022-10-13.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneafiveasixafour",
+        "title": "Численность воспитанников, приходящихся на 100 мест в организациях, осуществляющих образовательную деятельность по образовательным программам дошкольного образования, присмотр и уход за детьми",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneafiveasixafour/data-2022-06-01-structure-2022-06-01.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixatwoafour",
+        "title": "Численность впервые освидетельствованных детей в возрасте до 18 лет",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixatwoafour/data-2023-11-08-structure-2023-11-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafiveaoneaeight",
+        "title": "Численность впервые признанных инвалидами по категории \"ребенок-инвалид\"",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafiveaoneaeight/data-2023-11-08-structure-2023-11-08.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixatwoatwo",
+        "title": "Численность впервые признанных инвалидами по категории «ребенок-инвалид» по прочим болезням",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixatwoatwo/data-2023-11-08-structure-2023-11-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroanineaeightathree",
+        "title": "Численность детей в возрасте от 0 до 17 лет (включительно), прошедших профилактические осмотры, и их распределение по группам здоровья",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroanineaeightathree/data-2023-07-10-structure-2023-07-10.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoathreeanineasix",
+        "title": "Численность детей в возрасте от 5 до 17 лет (включительно), охваченных дополнительными предпрофессиональными программами в области искусств",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoathreeanineasix/data-2023-06-15-structure-2023-06-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafourafiveasix",
+        "title": "Численность детей в дошкольных образовательных организациях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafourafiveasix/data-2022-06-01-structure-2022-06-01.xml"
+    },
+    {
+        "identifier": "7707418081-sixatwoafourazeroanine",
+        "title": "Численность детей, в отношении которых отменено решение о передаче ребенка на воспитание в семью усыновителей, опекунов, попечителей, приемных родителей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixatwoafourazeroanine/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7707418081-sixatwoafouraoneaone",
+        "title": "Численность детей, выбывших к родителям из организаций для детей-сирот и детей, оставшихся без попечения родителей, в течение отчетного периода",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixatwoafouraoneaone/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroanineathreeathree",
+        "title": "Численность детей, занимающихся в школьных спортивных клубах",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroanineathreeathree/data-2021-01-19-structure-2021-01-19.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasixathreeaone",
+        "title": "Численность детей, отдохнувших в детских оздоровительных лагерях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasixathreeaone/data-2022-06-01-structure-2022-06-01.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneafiveafour",
+        "title": "Численность детей, отдохнувших за лето в организациях отдыха детей и их оздоровления",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneafiveafour/data-2022-10-14-structure-2022-10-14.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafourafourathree",
+        "title": "Численность детей, отнесенных к целевой группе (нуждающихся в услугах ранней помощи), впервые выявленных в истекшем году",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafourafourathree/data-2023-07-25-structure-2023-07-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroathreeasixaeight",
+        "title": "Численность детей, посещающих дошкольные образовательные учреждения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroathreeasixaeight/data-2023-02-21-structure-2023-02-21.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveafiveatwo",
+        "title": "Численность детей, приходящихся на 100 мест в дошкольных образовательных организациях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveafiveatwo/data-2022-06-01-structure-2022-06-01.xml"
+    },
+    {
+        "identifier": "7707418081-sixazeroanineaoneafour",
+        "title": "Численность детей, родители которых лишены родительских прав (на 10 тыс. детей в возрасте от 0 до 17 лет)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixazeroanineaoneafour/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7707418081-sixazeroanineaoneafive",
+        "title": "Численность детей, родители которых ограничены в родительских правах (на 100 тыс. детей в возрасте от 0 до 17 лет)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixazeroanineaoneafive/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourazeroafouranine",
+        "title": "Численность детей, стоящих на учете для определения в дошкольные образовательные организации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourazeroafouranine/data-2022-06-01-structure-2022-06-01.xml"
+    },
+    {
+        "identifier": "7707418081-sixazeroanineatwoazero",
+        "title": "Численность детей-инвалидов и детей с ограниченными возможностями здоровья от 7 до 17 лет, не обучающихся в образовательных организациях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixazeroanineatwoazero/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7706016118-sixatwoafourathreeanine",
+        "title": "Численность детей-инвалидов на конец отчетного периода",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixatwoafourathreeanine/data-2023-07-19-structure-2023-07-19.xml"
+    },
+    {
+        "identifier": "7707418081-sixaoneatwoafiveafour",
+        "title": "Численность детей-сирот и детей оставшихся без попечения родителей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixaoneatwoafiveafour/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7707418081-sixatwoafourazeroafour",
+        "title": "Численность детей-сирот и детей, оставшихся без попечения родителей, выявленных и учтенных в отчетный период",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixatwoafourazeroafour/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7707418081-sixatwoafourazeroaseven",
+        "title": "Численность детей-сирот и детей, оставшихся без попечения родителей, на конец года, в том числе: находящихся на воспитании в семьях (без учета усыновленных), на конец года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixatwoafourazeroaseven/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7707418081-sixatwoafourazeroasix",
+        "title": "Численность детей-сирот и детей, оставшихся без попечения родителей, на конец года, в том числе: находящихся под надзором в организациях для детей-сирот и детей, оставшихся без попечения родителей, на конец года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixatwoafourazeroasix/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7707418081-sixatwoafourazeroaeight",
+        "title": "Численность детей-сирот и детей, оставшихся без попечения родителей, переданных в семью на воспитание, включая усыновленных, выбывших к родителям из организаций для детей-сирот и детей, оставшихся без попечения родителей, в отчетный период, а также находящихся под предварительной опекой (попечительством), на конец отчетного периода",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixatwoafourazeroaeight/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixazeroaone",
+        "title": "Численность детей-сирот, детей, оставшихся без попечения родителей в стационарных учреждениях социального обслуживания",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixazeroaone/data-2018-05-10-structure-2018-05-10.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafourathreeazero",
+        "title": "Численность женщин, которым проведена процедура экстракорпорального оплодотворения, в результате которой наступила беременность",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafourathreeazero/data-2023-07-10-structure-2023-07-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveathreeaone",
+        "title": "Численность женщин, находящихся в отпуске по уходу за ребенком",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveathreeaone/data-2022-11-07-structure-2022-11-07.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeazeroathree",
+        "title": "Численность женщин, находящихся в отпуске по уходу за ребенком в возрасте до трех лет, прошедших профессиональное обучение и дополнительное профессиональное образование (Численность прошедших переобучение и повышение квалификации женщин, находящихся в отпуске по уходу за ребенком в возрасте до трех лет, а также женщин, имеющих детей дошкольного возраста, не состоящих в трудовых отношениях и обратившихся в органы службы занятости)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeazeroathree/data-2021-06-28-structure-2021-06-28.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaeightatwoanine",
+        "title": "Численность замужних матерей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaeightatwoanine/data-2021-01-13-structure-2021-01-13.xml"
+    },
+    {
+        "identifier": "7706016118-sixaoneasixaoneazero",
+        "title": "Численность лиц, получивших государственный сертификат на материнский (семейный) капитал",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixaoneasixaoneazero/data-2021-09-10-structure-2021-09-10.xml"
+    },
+    {
+        "identifier": "7706016118-sixaoneasixaoneatwo",
+        "title": "Численность лиц, распорядившихся средствами (частью средств) материнского (семейного) капитала",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7706016118-sixaoneasixaoneatwo/data-2021-09-10-structure-2021-09-10.xml"
+    },
+    {
+        "identifier": "7707418081-fiveanineasixafiveanine",
+        "title": "Численность несовершеннолетних, в отношении которых органами и учреждениями системы профилактики безнадзорности и правонарушений несовершеннолетних проводилась индивидуальная профилактическая работа",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-fiveanineasixafiveanine/data-2023-09-11-structure-2023-09-11.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaeightatwoaseven",
+        "title": "Численность одиноких матерей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaeightatwoaseven/data-2021-01-13-structure-2021-01-13.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafouranineaeight",
+        "title": "Численность отдохнувших детей за лето в организациях отдыха детей и их оздоровления в летний период",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafouranineaeight/data-2023-02-27-structure-2023-02-27.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneafiveasixaone",
+        "title": "Численность педагогических работников в организациях, осуществляющих образовательную деятельность по образовательным программам дошкольного образования, присмотр и уход за детьми",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneafiveasixaone/data-2022-10-13-structure-2022-10-13.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafourasixathree",
+        "title": "Численность педагогических работников дошкольных образовательных организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafourasixathree/data-2022-06-01-structure-2022-06-01.xml"
+    },
+    {
+        "identifier": "7707418081-sixazeroathreeafourasix",
+        "title": "Численность преподавательского персонала дошкольного уровня образования (Number of ISCED0 classroom teachers)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixazeroathreeafourasix/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafiveaoneaseven",
+        "title": "Численность семей с детьми, охваченных мерами социальной поддержки",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafiveaoneaseven/data-2023-11-01-structure-2023-11-01.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaoneasevenafive",
+        "title": "Численность семей с детьми, охваченных мерами социальной поддержки (Р1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaoneasevenafive/data-2023-05-10-structure-2023-05-10.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneatwoasixasix",
+        "title": "Число браков в расчете на 1000 населения за год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneatwoasixasix/data-2023-09-25-structure-2023-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafiveasixasix",
+        "title": "Число браков за год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafiveasixasix/data-2023-09-15-structure-2023-09-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeazeroaseven",
+        "title": "Число дел о нарушениях, выявленных территориальными органами Роспотребнадзора в детских и подростковых летних оздоровительных учреждениях, переданных на рассмотрение судьям",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeazeroaseven/data-2014-06-19-structure-2014-06-19.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeaoneazero",
+        "title": "Число детей и подростков, пострадавших при вспышках и массовых инфекционных заболеваниях и пищевых отравлениях в летних оздоровительных учреждениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeaoneazero/data-2014-06-19-structure-2014-06-19.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixaeightafive",
+        "title": "Число детей и подростков-школьников по группам здоровья",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixaeightafive/data-2013-10-24-structure-2013-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeaoneathree",
+        "title": "Число детей, отдохнувших в детских и подростковых летних оздоровительных учреждениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeaoneathree/data-2012-10-31-structure-2012-10-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightatwoatwoasix",
+        "title": "Число детей, привитых против инфекционных заболеваний в декретированный возраст",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightatwoatwoasix/data-2012-10-31-structure-2012-10-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixaeightaseven",
+        "title": "Число детей-инвалидов (0-17 лет), состоящих под наблюдением в амбулаторно-поликлинических учреждениях, оказывающих медицинскую помощь детям",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixaeightaseven/data-2013-10-24-structure-2013-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeaoneafour",
+        "title": "Число детских и подростковых летних оздоровительных учреждений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeaoneafour/data-2012-10-31-structure-2012-10-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixasevenatwo",
+        "title": "Число домов ребенка",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixasevenatwo/data-2013-10-24-structure-2013-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafourasevenaone",
+        "title": "Число дошкольных образовательных организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafourasevenaone/data-2022-06-01-structure-2022-06-01.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixaeightasix",
+        "title": "Число заболеваний у детей 1 - го года жизни",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixaeightasix/data-2013-10-24-structure-2013-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveafiveathree",
+        "title": "Число зарегистрированных браков (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveafiveathree/data-2023-06-05-structure-2023-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixazeroafiveaeight",
+        "title": "Число зарегистрированных браков в расчете на 1000 населения (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixazeroafiveaeight/data-2023-06-05-structure-2023-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeaoneaone",
+        "title": "Число зарегистрированных вспышек и массовых инфекционных заболеваний и пищевых отравлений детей и подростков в летних оздоровительных учреждениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeaoneaone/data-2014-06-19-structure-2014-06-19.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaeightanineanine",
+        "title": "Число зарегистрированных преступлений, совершенных в отношении несовершеннолетних",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaeightanineanine/data-2023-06-15-structure-2023-06-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveafiveafour",
+        "title": "Число зарегистрированных разводов (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveafiveafour/data-2023-06-05-structure-2023-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveathreeafive",
+        "title": "Число зарегистрированных разводов в расчете на 1000 населения (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveathreeafive/data-2023-06-05-structure-2023-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveafiveafive",
+        "title": "Число зарегистрированных родившихся (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveafiveafive/data-2023-06-05-structure-2023-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveathreeasix",
+        "title": "Число зарегистрированных родившихся в расчете на 1000 населения (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveathreeasix/data-2023-06-05-structure-2023-06-05.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeaoneatwo",
+        "title": "Число зарегистрированных случаев заболеваний детей и подростков в летних оздоровительных учреждениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeaoneatwo/data-2014-06-19-structure-2014-06-19.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafiveafouraeight",
+        "title": "Число мест в дошкольных образовательных организациях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafiveafouraeight/data-2022-06-01-structure-2022-06-01.xml"
+    },
+    {
+        "identifier": "7708234640-fourafiveafourathreeafive",
+        "title": "Число опрошенных респондентов о репродуктивных планах населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafiveafourathreeafive/data-2017-11-08-structure-2017-11-08.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneafiveathree",
+        "title": "Число организаций отдыха детей и их оздоровления",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneafiveathree/data-2022-06-01-structure-2022-06-01.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneafiveasixatwo",
+        "title": "Число организаций, осуществляющих образовательную деятельность по образовательным программам дошкольного образования, присмотр и уход за детьми",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneafiveasixatwo/data-2022-06-01-structure-2022-06-01.xml"
+    },
+    {
+        "identifier": "7707418081-sixatwoafourazeroaone",
+        "title": "Число персональных компьютеров, доступных для использования детьми, в расчете на 100 детей: обучающихся в общеобразовательных организациях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixatwoafourazeroaone/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7707418081-sixatwoafourazeroazero",
+        "title": "Число персональных компьютеров, доступных для использования детьми, в расчете на 100 детей: посещающих дошкольные образовательные организации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixatwoafourazeroazero/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoathreeanineazero",
+        "title": "Число погибших несовершеннолетних в результате дорожно-транспортных происшествий (до 16 лет)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoathreeanineazero/data-2023-06-15-structure-2023-06-15.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafiveasevenanine",
+        "title": "Число получателей ежемесячного пособия на ребенка",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafiveasevenanine/data-2012-06-29-structure-2012-06-29.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixanineasix",
+        "title": "Число прерываний беременности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixanineasix/data-2013-10-24-structure-2013-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafiveanineafive",
+        "title": "Число прерываний беременности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafiveanineafive/data-2021-04-01-structure-2021-04-01.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixaeightafour",
+        "title": "Число принятых родов с 22 недель беременности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixaeightafour/data-2013-10-24-structure-2013-10-24.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneatwoasixaeight",
+        "title": "Число разводов в расчете на 1000 населения за год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneatwoasixaeight/data-2023-09-25-structure-2023-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneasixazeroafour",
+        "title": "Число разводов за год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneasixazeroafour/data-2023-09-25-structure-2023-09-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineanineanineatwo",
+        "title": "Число родившихся по возрасту матери и очередности рождения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineanineanineatwo/data-2023-09-01-structure-2023-09-01.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourazeroanineasix",
+        "title": "Число семей, выселенных из жилых помещений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourazeroanineasix/data-2019-06-28-structure-2019-06-28.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoathreeanineafour",
+        "title": "Число состоявших на начало отчетного периода на учете в подразделениях по делам несовершеннолетних органов внутренних дел и поставленных на учет в отчетном периоде родителей или иных законных представителей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoathreeanineafour/data-2023-06-15-structure-2023-06-15.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoathreeanineathree",
+        "title": "Число состоявших на начало отчетного периода на учете в подразделениях по делам несовершеннолетних органов внутренних дел и поставленных на учет несовершеннолетних в отчетном периоде",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoathreeanineathree/data-2023-06-15-structure-2023-06-15.xml"
+    },
+    {
+        "identifier": "7707418081-sixatwoafourazeroathree",
+        "title": "Число специалистов органов опеки и попечительства в отношении несовершеннолетних, на конец года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixatwoafourazeroathree/data-2023-09-08-structure-2023-09-08.xml"
+    }
+]

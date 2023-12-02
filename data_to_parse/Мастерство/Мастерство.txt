@@ -1,0 +1,3032 @@
+[
+    {
+        "identifier": "7708234640-sixaoneatwoatwoasix",
+        "title": "Количество самозанятых граждан, зафиксировавших свой статус и применяющих специальный налоговый режим \"Налог на профессиональный доход\" (НПД) (I2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoatwoasix/data-2022-06-02-structure-2022-06-02.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaeightazeroafour",
+        "title": "Численность занятых граждан, в том числе приступивших к трудовой деятельности, зарегистрировавшихся в качестве индивидуального предпринимателя, в частности начавших применять специальный налоговый режим «Налог на профессиональный доход», в период обучения или после завершения обучения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaeightazeroafour/data-2023-07-03-structure-2023-07-03.xml"
+    },
+    {
+        "identifier": "7708234640-fourafourafourasixanine",
+        "title": "Аннулировано удостоверений допуска",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafourafourasixanine/data-2019-07-15-structure-2019-07-15.xml"
+    },
+    {
+        "identifier": "7708234640-fourafiveathreeaeightaeight",
+        "title": "Вознаграждения за изобретения и рационализаторские предложения по 2013 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafiveathreeaeightaeight/data-2020-08-19-structure-2020-08-19.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafourafouraeight",
+        "title": "Время испытания объектов в процессе бурения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafourafouraeight/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeafiveaeight",
+        "title": "Время испытания объектов в скважинах, законченных строительством",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeafiveaeight/data-2022-08-09-structure-2022-08-09.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafiveanineatwo",
+        "title": "Время работы организации на рынке оптовой торговли по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafiveanineatwo/data-2022-03-02-structure-2022-03-02.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightatwoafive",
+        "title": "Время работы организации на рынке оптовой торговли с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightatwoafive/data-2022-02-24-structure-2022-02-24.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeaoneathree",
+        "title": "Время ремонтных работ и работ по ликвидации аварий и брака на строительство буровых, законченных вышкостроением и монтажом оборудования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeaoneathree/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeaoneaone",
+        "title": "Время, затраченное на бурение испытания (опробование) скважин",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeaoneaone/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafouratwoathree",
+        "title": "Время, затраченное на бурение скважин",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafouratwoathree/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafouratwoasix",
+        "title": "Время, затраченное на долбление",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafouratwoasix/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafourasixafive",
+        "title": "Все календарное время строительства скважин по глубинам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafourasixafive/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneasevenatwo",
+        "title": "Доля детей в возрасте от 5 до 17 лет, занятых детским трудом (8.7.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneasevenatwo/data-2020-09-14-structure-2020-09-14.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroanineafourathree",
+        "title": "Доля детей в возрасте от 9 до 15 лет, обладающих базовыми навыками работы с персональным компьютером, в общей численности детей соответствующего возраста",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroanineafourathree/data-2021-02-17-structure-2021-02-17.xml"
+    },
+    {
+        "identifier": "7707418081-sixatwoathreeanineanine",
+        "title": "Доля детей и молодежи в возрасте от 7 до 35 лет, у которых выявлены выдающиеся способности и таланты, в общей численности детей и молодежи в возрасте от 7 до 35 лет",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixatwoathreeanineanine/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeanineathreeafive",
+        "title": "Доля детей первой и второй групп здоровья в общей численности обучающихся в общеобразовательных учреждениях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeanineathreeafive/data-2023-04-28-structure-2023-04-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveathreeaoneazero",
+        "title": "Доля детей, привлекаемых к участию в творческих мероприятиях, в общем числе детей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveathreeaoneazero/data-2019-07-11-structure-2019-07-11.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasixaeightafour",
+        "title": "Доля добавленной стоимости отрасли «Обрабатывающее производство» в валовом внутреннем продукте Российской Федерации за год, предшествующий предыдущему (9.2.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasixaeightafour/data-2020-12-15-structure-2020-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveanineaseven",
+        "title": "Доля добавленной стоимости отрасли «Обрабатывающее производство» в валовом внутреннем продукте Российской Федерации за год, предшествующий предыдущему (9.2.1) (ОКВЭД 2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveanineaseven/data-2020-12-15-structure-2020-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneasixafourazero",
+        "title": "Доля занятого населения в среднегодовой численности населения субъекта Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneasixafourazero/data-2021-07-09-structure-2021-07-09.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasixasixafouraone",
+        "title": "Доля занятого населения, участвующего в непрерывном образовании, в общей численности занятого населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasixasixafouraone/data-2020-09-09-structure-2020-09-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafouratwoatwo",
+        "title": "Доля занятых граждан из числа участников дополнительных мероприятий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafouratwoatwo/data-2023-10-04-structure-2023-10-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoathreeaeightanine",
+        "title": "Доля малых предприятий в совокупном объеме продукции обрабатывающих производств за год, предшествующий предыдущему (9.3.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoathreeaeightanine/data-2023-06-01-structure-2023-06-01.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasevenaoneaone",
+        "title": "Доля молодежи (в возрасте от 15 до 24 лет), которая не учится, не работает и не приобретает профессиональных навыков (8.6.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasevenaoneaone/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafourasixazero",
+        "title": "Доля молодежи (взрослых), обладающей (обладающих) навыками в области информационно-коммуникационных технологий (4.4.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafourasixazero/data-2020-09-07-structure-2020-09-07.xml"
+    },
+    {
+        "identifier": "7707418081-sixaoneaoneafiveatwo",
+        "title": "Доля молодежи в возрасте от 14 до 35 лет от числа участников профессиональных конкурсов, направленных на самоопределение и профессиональную самореализацию, в рамках проектов платформы \"Россия - страна возможностей\" (EA)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixaoneaoneafiveatwo/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroazeroaoneatwo",
+        "title": "Доля молодежи, задействованной в мероприятиях по вовлечениюв творческую деятельность",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroazeroaoneatwo/data-2020-04-29-structure-2020-04-29.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasixasixafiveafour",
+        "title": "Доля населения, не входящего в состав рабочей силы, участвующего в непрерывном образовании, в общей численности населения не входящего в состав рабочей силы",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasixasixafiveafour/data-2020-09-09-structure-2020-09-09.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasevenazeroaeight",
+        "title": "Доля неформальной занятости в несельскохозяйственном секторе в разбивке по полу (8.3.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasevenazeroaeight/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7707418081-sixatwoafouraoneathree",
+        "title": "Доля образовательных организаций, реализующих программы среднего профессионального образования, здания которых приспособлены для обучения инвалидов и лиц с ограниченными возможностями здоровья",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixatwoafouraoneathree/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7710539135-fiveanineanineafouranine",
+        "title": "Доля образовательных программ, прошедших независимую оценку качества с участием работодателей и размещенных на интеграционной платформе непрерывного образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7710539135-fiveanineanineafouranine/data-2021-03-04-structure-2021-03-04.xml"
+    },
+    {
+        "identifier": "7707418081-fiveanineasevenafiveanine",
+        "title": "Доля обучающихся в муниципальных общеобразовательных организациях, занимающихся во вторую (третью) смену, в общей численности обучающихся в муниципальных общеобразовательных организациях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-fiveanineasevenafiveanine/data-2023-09-07-structure-2023-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneasixathreeaeight",
+        "title": "Доля обучающихся в негосударственных образовательных организациях дошкольного образования в общем числе обучающихся по образовательным программам дошкольного образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneasixathreeaeight/data-2022-06-17-structure-2022-06-17.xml"
+    },
+    {
+        "identifier": "7707418081-sixaoneaoneathreeatwo",
+        "title": "Доля обучающихся общеобразовательных организаций, расположенных в сельской местности и малых городах, в которых созданы и функционируют центры образования естественно-научной и технологической направленностей (E1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixaoneaoneathreeatwo/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7707418081-sixaoneasevenazeroathree",
+        "title": "Доля педагогических работников общеобразовательных организаций, прошедших повышение квалификации, в том числе в центрах непрерывного повышения профессионального мастерства (E1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixaoneasevenazeroathree/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7707418081-sixaoneaoneafiveazero",
+        "title": "Доля педагогических работников, использующих сервисы федеральной информационно-сервисной платформы цифровой образовательной среды (E4)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixaoneaoneafiveazero/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeafourazeroaone",
+        "title": "Доля полученных уведомлений от работодателей о привлечении и использовании иностранных работников от количества разрешений на работу, выданных иностранным гражданам, прибывшим в Российскую Федерацию в порядке, не требующем получения визы, по данным ФМС России (по 2014 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeafourazeroaone/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineafiveasix",
+        "title": "Доля преподавателей государственных образовательных учреждений среднего профессионального образования субъекта Российской Федерации со стажем работы до 5 лет в общей численности преподавателей государственных образовательных учреждений среднего профессионального образования субъекта Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineafiveasix/data-2023-02-20-structure-2023-02-20.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoazeroanine",
+        "title": "Доля привлеченных в течение года работников, продолжающих осуществлять трудовую деятельность на конец года, в общей численности работников, привлеченных в течение года работодателями в рамках соглашения о предоставлении субсидии, предоставленной на софинансирование региональных программ повышения мобильности трудовых ресурсов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoazeroanine/data-2022-10-10-structure-2022-10-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneanineatwo",
+        "title": "Доля рабочей силы в общей численности населения по данным ОРС по полу и возрастным группам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneanineatwo/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafouratwoathree",
+        "title": "Доля специалистов лесного хозяйства, прошедших повышение квалификации, в общей численности работников лесного хозяйства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafouratwoathree/data-2022-03-23-structure-2022-03-23.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaeightasevenathree",
+        "title": "Доля специалистов, допущенных к профессиональной деятельности через процедуру аккредитации, от общего количества работающих специалистов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaeightasevenathree/data-2021-12-08-structure-2021-12-08.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineasevenafive",
+        "title": "Доля среднесписочной численности работников (без внешних совместителей) малых и средних предприятий в среднесписочной численности работников (без внешних совместителей) всех предприятий и организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineasevenafive/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7710539135-sixatwoazeroasevenaseven",
+        "title": "Доля трудоустроенных выпускников образовательных организаций высшего образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7710539135-sixatwoazeroasevenaseven/data-2022-05-26-structure-2022-05-26.xml"
+    },
+    {
+        "identifier": "7707418081-sixaoneaoneafiveafour",
+        "title": "Доля участников профессиональных конкурсов, поступивших на обучение по образовательным программам, повысивших квалификацию и (или) получивших карьерный рост в течение года после завершения участия в конкурсе, в том числе по предложениям от работодателей (EA)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixaoneaoneafiveafour/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7707418081-sixatwoatwoafiveaseven",
+        "title": "Доля учителей с минимальной требуемой квалификацией (4.c.1) (дошкольное образование)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixatwoatwoafiveaseven/data-2023-09-07-structure-2023-09-07.xml"
+    },
+    {
+        "identifier": "7707418081-sixatwoatwoafiveaeight",
+        "title": "Доля учителей с минимальной требуемой квалификацией (4.c.1) (начальное образование)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixatwoatwoafiveaeight/data-2023-09-07-structure-2023-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasevenaoneatwo",
+        "title": "Занятость в обрабатывающей промышленности в процентах от общей численности занятых (9.2.2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasevenaoneatwo/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenasixanine",
+        "title": "Занятые неполное время по причинам работы неполную рабочую неделю по полу и возрасту",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenasixanine/data-2021-02-25-structure-2021-02-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenafiveathree",
+        "title": "Занятые по нормальной продолжительности рабочей недели на основной работе по полу и возрасту",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenafiveathree/data-2021-02-25-structure-2021-02-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenafouraone",
+        "title": "Занятые по продолжительности рабочей недели по полу и возрасту",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenafouraone/data-2021-02-19-structure-2021-02-19.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenafourasix",
+        "title": "Занятые по стажу на основной работе",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenafourasix/data-2021-02-25-structure-2021-02-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenafouranine",
+        "title": "Занятые по фактическому количеству рабочих часов в неделю на основной работе по полу и возрасту",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenafouranine/data-2021-02-25-structure-2021-02-25.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaoneafouraone",
+        "title": "Заявленная работодателями потребность в работниках в течении отчетного периода",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaoneafouraone/data-2014-12-05-structure-2014-12-05.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaoneafouratwo",
+        "title": "Заявленная работодателями потребность в работниках для замещения рабочих профессий на конец отчетного периода",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaoneafouratwo/data-2018-10-31-structure-2018-10-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeafouraoneatwoasix",
+        "title": "Израсходовано на мероприятия по охране труда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafouraoneatwoasix/data-2018-02-05-structure-2018-02-05.xml"
+    },
+    {
+        "identifier": "7708234640-fourafourazeroaeightasix",
+        "title": "Индекс производительности труда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafourazeroaeightasix/data-2020-12-14-structure-2020-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneasixafiveatwo",
+        "title": "Индекс производительности труда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneasixafiveatwo/data-2020-12-13-structure-2020-12-13.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneafouraone",
+        "title": "Индекс производительности труда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneafouraone/data-2021-09-03-structure-2021-09-03.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveathreeasevenathree",
+        "title": "Индекс производительности труда относительно уровня 2011 года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveathreeasevenathree/data-2020-12-14-structure-2020-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafiveafiveatwo",
+        "title": "Индекс производительности труда по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafiveafiveatwo/data-2020-12-13-structure-2020-12-13.xml"
+    },
+    {
+        "identifier": "7707418081-sixatwoazeroanineatwo",
+        "title": "Индекс формирования эффективной системы выявления, поддержки и развития способностей и талантов у детей и молодежи",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixatwoazeroanineatwo/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7707418081-sixatwoathreeanineaeight",
+        "title": "Информация о численности слушателей в возрасте 15 лет и старше, обученных по основным программам профессионального обучения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixatwoathreeanineaeight/data-2023-09-11-structure-2023-09-11.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeaoneafive",
+        "title": "Календарное время вышкостроения и монтажа оборудования, включая межсменные перерывы по глубинам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeaoneafive/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeaoneaseven",
+        "title": "Календарное время бурения по глубинам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeaoneaseven/data-2022-08-09-structure-2022-08-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeatwoaone",
+        "title": "Календарное время вспомогательных работ по глубинам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeatwoaone/data-2022-08-09-structure-2022-08-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeaoneaeight",
+        "title": "Календарное время долбления по глубинам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeaoneaeight/data-2022-08-09-structure-2022-08-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeatwoasix",
+        "title": "Календарное время испытания (опробования) скважин после окончания бурения и в процессе бурения по глубинам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeatwoasix/data-2022-08-09-structure-2022-08-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafourafiveathree",
+        "title": "Календарное время испытания объектов в процессе бурения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafourafiveathree/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafourafourafour",
+        "title": "Календарное время испытания одной скважины после окончания бурения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafourafourafour/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeafiveaseven",
+        "title": "Календарное время испытания скважин после окончания бурения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeafiveaseven/data-2022-08-09-structure-2022-08-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafourasixaseven",
+        "title": "Календарное время испытания скважин после окончания бурения (по скважинам, законченным испытанием и находящимся в испытании) - работы по ликвидации брака",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafourasixaseven/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeatwoazero",
+        "title": "Календарное время крепления по глубинам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeatwoazero/data-2022-08-09-structure-2022-08-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeatwoafour",
+        "title": "Календарное время по ликвидации аварий и брака в бурении по глубинам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeatwoafour/data-2022-08-09-structure-2022-08-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeatwoafive",
+        "title": "Календарное время простоев в бурении по глубинам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeatwoafive/data-2022-08-09-structure-2022-08-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeatwoathree",
+        "title": "Календарное время работ по ликвидации осложнений в бурении по глубинам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeatwoathree/data-2022-08-09-structure-2022-08-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeatwoatwo",
+        "title": "Календарное время ремонтных работ по глубинам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeatwoatwo/data-2022-08-09-structure-2022-08-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafouranineafive",
+        "title": "Календарное время с начала бурения по его окончание",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafouranineafive/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneanineafourafour",
+        "title": "Календарное время самолето (вертолето)-часов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneanineafourafour/data-2019-11-22-structure-2019-11-22.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafourathreeatwo",
+        "title": "Календарное время скважин на нефть и газ, законченных бурением в отчетном году с начала бурения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafourathreeatwo/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeasixatwo",
+        "title": "Календарное время скважин на природный газ, законченных бурением в отчетном году с начала бурения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeasixatwo/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeaoneanine",
+        "title": "Календарное время спуска и подъема инструмента по глубинам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeaoneanine/data-2022-08-09-structure-2022-08-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafourafiveaseven",
+        "title": "Календарное время строительства буровых и монтажа оборудования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafourafiveaseven/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafourasixazero",
+        "title": "Календарное время строительства буровых и монтажа оборудования - внутрисменные простои",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafourasixazero/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafourafiveaeight",
+        "title": "Календарное время строительства буровых и монтажа оборудования - время работы",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafourafiveaeight/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafourasixaone",
+        "title": "Календарное время строительства буровых и монтажа оборудования - межсменные перерывы",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafourasixaone/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafourasevenasix",
+        "title": "Календарное время эксплуатационного фонда газовых скважин",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafourasevenasix/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightasevenathree",
+        "title": "Календарное время эксплуатационного фонда нефтяных скважин",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightasevenathree/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafourasevenaseven",
+        "title": "Календарное время эксплуатационного фонда новых газовых скважин",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafourasevenaseven/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeathreeaseven",
+        "title": "Календарное время эксплуатационного фонда новых нефтяных скважин",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeathreeaseven/data-2022-08-09-structure-2022-08-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeaoneafour",
+        "title": "Календарное время, затраченное на бурение испытания (опробование) скважин после окончания бурения (по всем скважинам, законченным испытание и находящимся в испытании)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeaoneafour/data-2023-11-16-structure-2023-11-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoasixathree",
+        "title": "Количество врученных грантов лучшим любительским творческим коллективам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoasixathree/data-2023-08-04-structure-2023-08-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoasixasix",
+        "title": "Количество врученных стипендий творческим деятелям",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoasixasix/data-2022-07-08-structure-2022-07-08.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveafiveaeight",
+        "title": "Количество высокопроизводительных рабочих мест во внебюджетном секторе экономики",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveafiveaeight/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoaoneaoneaone",
+        "title": "Количество государственных (муниципальных) служащих и работников учреждений, прошедших обучение компетенциям в сфере цифровой трансформации государственного и муниципального управления",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoaoneaoneaone/data-2023-02-08-structure-2023-02-08.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineafiveaseven",
+        "title": "Количество государственных образовательных учреждений среднего профессионального образования субъекта Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineafiveaseven/data-2023-02-20-structure-2023-02-20.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineafiveaeight",
+        "title": "Количество государственных образовательных учреждений среднего профессионального образования субъекта Российской Федерации, здания которых находятся в аварийном состоянии или требуют капитального ремонта",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineafiveaeight/data-2023-02-20-structure-2023-02-20.xml"
+    },
+    {
+        "identifier": "7710539135-fiveanineanineafouraseven",
+        "title": "Количество граждан, ежегодно проходящих обучение по программам непрерывного образования (дополнительным образовательным программам и основным программам профессионального обучения) в образовательных организациях высшего образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7710539135-fiveanineanineafouraseven/data-2021-03-04-structure-2021-03-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneasixatwoasix",
+        "title": "Количество граждан, которым предоставлена возможность обучения по дополнительным образовательным программам с использованием мер государственной поддержки для получения новых и востребованных на рынке труда цифровых компетенций, нарастающий итог",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneasixatwoasix/data-2023-08-18-structure-2023-08-18.xml"
+    },
+    {
+        "identifier": "7708234640-fourafourafourasevenafive",
+        "title": "Количество действующих удостоверений допуска на конец отчетного периода",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafourafourasevenafive/data-2019-07-15-structure-2019-07-15.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoasevenaeight",
+        "title": "Количество детских школ искусств по видам искусств",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoasevenaeight/data-2022-07-13-structure-2022-07-13.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoasevenathree",
+        "title": "Количество детских школ искусств по видам искусств и училищ (в том числе закупка пианино отечественного производства)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoasevenathree/data-2023-05-18-structure-2023-05-18.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineasevenasix",
+        "title": "Количество зарегистрированных пользователей ИТ-платформы управленческих и технологических компетенций, тыс. человек нарастающим итогом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineasevenasix/data-2022-03-04-structure-2022-03-04.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoaeightathreeaone",
+        "title": "Количество заявлений на получение лицензии на деятельность по изготовлению экземпляров аудиовизуальных произведений, программ для электронных вычислительных машин (программ для ЭВМ), баз данных и фонограмм на любых видах носителей, направленных в лицензирующий орган",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoaeightathreeaone/data-2013-07-12-structure-2013-07-12.xml"
+    },
+    {
+        "identifier": "7707418081-fiveanineasixaoneazero",
+        "title": "Количество зданий организаций, осуществляющих образовательную деятельность по образовательным программам начального общего, основного общего, среднего общего образования, оборудованных центральным отоплением",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-fiveanineasixaoneazero/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7707418081-fiveanineasixafiveaone",
+        "title": "Количество зданий общежитий организаций, осуществляющих образовательную деятельность по образовательным программам среднего профессионального образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-fiveanineasixafiveaone/data-2023-09-11-structure-2023-09-11.xml"
+    },
+    {
+        "identifier": "7707418081-fiveanineasixazeroaseven",
+        "title": "Количество зданий организаций, осуществляющих образовательную деятельность по образовательным программам начального общего, основного общего, среднего общего образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-fiveanineasixazeroaseven/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasevenazeroatwo",
+        "title": "Количество исследователей (в эквиваленте полной занятости) на миллион жителей (9.5.2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasevenazeroatwo/data-2023-09-04-structure-2023-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoasevenaone",
+        "title": "Количество многофункциональных передвижных культурных центров (Автоклубы)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoasevenaone/data-2022-07-08-structure-2022-07-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoasevenazero",
+        "title": "Количество модельных библиотек",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoasevenazero/data-2022-07-08-structure-2022-07-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoathreeanineafive",
+        "title": "Количество образовательных организаций дополнительного образования детей со специальными наименованиями 'детская школа искусств', 'детская музыкальная школа', 'детская хоровая школа', 'детская художественная школа', 'детская хореографическая школа', 'детская театральная школа', 'детская цирковая школа', 'детская школа художественных ремесел', оснащенных современным оборудованием, на конец календарного года (нарастающим итогом)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoathreeanineafive/data-2023-06-16-structure-2023-06-16.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoaoneathreeathree",
+        "title": "Количество обученных на 'цифровых кафедрах' параллельно с освоением основной образовательной программы высшего образования по программам профессиональной переподготовки, направленным на получение дополнительной квалификации по ИТ-профилю",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoaoneathreeathree/data-2023-08-18-structure-2023-08-18.xml"
+    },
+    {
+        "identifier": "7707418081-sixatwoafourazeroatwo",
+        "title": "Количество общеобразовательных организаций, расположенных в сельской местности и малых городах, в которых обновлена материально-техническая база для занятий физической культурой и спортом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixatwoafourazeroatwo/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightafiveatwo",
+        "title": "Количество отработанных человеко-часов внешними совместителями организаций, не относящихся к субъектам малого предпринимательства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightafiveatwo/data-2020-08-21-structure-2020-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightafiveaone",
+        "title": "Количество отработанных человеко-часов работниками списочного состава (без внешних совместителей) организаций, не относящихся к субъектам малого предпринимательства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightafiveaone/data-2020-08-21-structure-2020-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafouratwoafour",
+        "title": "Количество педагогических работников, принявших участие в мероприятиях и (или) прошедших повышение квалификации в области обеспечения безопасности и развития детей в информационном пространстве",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafouratwoafour/data-2023-07-07-structure-2023-07-07.xml"
+    },
+    {
+        "identifier": "7707418081-fiveanineasixaoneaone",
+        "title": "Количество персональных компьютеров в организациях, осуществляющих образовательную деятельность по образовательным программам начального общего, основного общего, среднего общего образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-fiveanineasixaoneaone/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7707418081-fiveanineasixafiveafour",
+        "title": "Количество персональных компьютеров в организациях, осуществляющих образовательную деятельность по образовательным программам среднего профессионального образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-fiveanineasixafiveafour/data-2023-09-11-structure-2023-09-11.xml"
+    },
+    {
+        "identifier": "7707418081-fiveanineasixafiveafive",
+        "title": "Количество персональных компьютеров, используемых в учебных целях в организациях, осуществляющих образовательную деятельность по образовательным программам среднего профессионального образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-fiveanineasixafiveafive/data-2023-09-11-structure-2023-09-11.xml"
+    },
+    {
+        "identifier": "7707418081-fiveanineasixaoneatwo",
+        "title": "Количество персональных компьютеров, используемых в учебных целях в организациях, осуществляющих образовательную деятельность по образовательным программам начального общего, основного общего, среднего общего образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-fiveanineasixaoneatwo/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7710539135-sixatwoafourasixaeight",
+        "title": "Количество подготовленных специалистов по образовательным программам в области информационной безопасности, с использованием в образовательном процессе отечественных высокотехнологичных комплексов и средств защиты информации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7710539135-sixatwoafourasixaeight/data-2023-08-10-structure-2023-08-10.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoasixaeight",
+        "title": "Количество поддержанных творческих инициатив и проектов (A2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoasixaeight/data-2022-07-08-structure-2022-07-08.xml"
+    },
+    {
+        "identifier": "7710539135-fiveanineanineafouraeight",
+        "title": "Количество пользователей интеграционной платформы непрерывного образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7710539135-fiveanineanineafouraeight/data-2021-03-04-structure-2021-03-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneasixatwoaseven",
+        "title": "Количество принятых на обучение по программам высшего образования в сфере информационных технологий за счет бюджетных ассигнований федерального бюджета (нарастающим итогом, начиная с 2021 года)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneasixatwoaseven/data-2023-08-18-structure-2023-08-18.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafourasixafour",
+        "title": "Количество рабочих мест на всех видах работ по производству товаров и услуг (по статусу в занятости) в среднем за год с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafourasixafour/data-2020-09-24-structure-2020-09-24.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroasixafiveanine",
+        "title": "Количество рабочих мест на всех видах работ по производству товаров и услуг (в среднем за год) по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroasixafiveanine/data-2021-07-09-structure-2021-07-09.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightanineanineatwo",
+        "title": "Количество рабочих мест на всех видах работ по производству товаров и услуг (в среднем за год) с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightanineanineatwo/data-2021-07-09-structure-2021-07-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroasevenafouraone",
+        "title": "Количество рабочих мест, созданных резидентами, осуществляющими деятельность в индустриальных (промышленных) парках",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroasevenafouraone/data-2021-01-12-structure-2021-01-12.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroasevenathreeafour",
+        "title": "Количество рабочих мест,созданных резидентами, осуществляющими деятельность в промышленных технопарках",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroasevenathreeafour/data-2021-04-01-structure-2021-04-01.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaoneafouraone",
+        "title": "Количество разработанных и размещенных на ИТ-платформе управленческих и технологических компетенций (производительность.рф) лучших практик (типовых решений) в сфере повышения производительности труда (L2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaoneafouraone/data-2022-03-04-structure-2022-03-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineafiveasix",
+        "title": "Количество региональных центров компетенций, созданных в субъектах Российской Федерации в целях распространения лучших практик производительности труда, нарастающим итогом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineafiveasix/data-2022-03-04-structure-2022-03-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaoneasixanine",
+        "title": "Количество руководителей, обученных по программе управленческих навыков для повышения производительности труда (L1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaoneasixanine/data-2022-07-05-structure-2022-07-05.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoaeightasix",
+        "title": "Количество самозанятых граждан, зафиксировавших свой статус, применяющих специальный налоговый режим \"Налог на профессиональный доход\" (НПД) и получивших меры поддержки (I2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoaeightasix/data-2022-06-24-structure-2022-06-24.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaoneafourathree",
+        "title": "Количество сотрудников предприятий и представителей региональных команд, прошедших обучение инструментам повышения производительности труда (L2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaoneafourathree/data-2022-03-04-structure-2022-03-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineasixazero",
+        "title": "Количество сотрудников предприятий, прошедших обучение инструментам повышения производительности труда под региональным управлением (с РЦК), нарастающим итогом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineasixazero/data-2022-03-04-structure-2022-03-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineafiveanine",
+        "title": "Количество сотрудников предприятий, прошедших обучение инструментам повышения производительности труда под федеральным управлением (с ФЦК), нарастающим итогом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineafiveanine/data-2022-03-04-structure-2022-03-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoaeightafour",
+        "title": "Количество сотрудников, прошедших инструктирование или обучение для работы с инвалидами, по вопросам, связанным с обеспечением доступности для них объектов и услуг в соответствии с законодательством Российской Федерации из общего числа сотрудников объектов (зданий аэровокзалов)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoaeightafour/data-2022-08-09-structure-2022-08-09.xml"
+    },
+    {
+        "identifier": "7707418081-sixaoneaoneathreeafive",
+        "title": "Количество субъектов Российской Федерации, выдающих сертификаты дополнительного образования в рамках системы персонифицированного финансирования дополнительного образования детей (E2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixaoneaoneathreeafive/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoazeroanineanine",
+        "title": "Количество талантливых школьников 8 - 11 классов, прошедших дополнительный двухлетний курс обучения современным языкам программирования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoazeroanineanine/data-2023-08-18-structure-2023-08-18.xml"
+    },
+    {
+        "identifier": "7707418081-fiveanineasixafiveazero",
+        "title": "Количество учебно-лабораторных зданий (корпусов)организаций, осуществляющих образовательную деятельность по образовательным программам среднего профессионального образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-fiveanineasixafiveazero/data-2023-09-11-structure-2023-09-11.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenasixanineaone",
+        "title": "Количество фактически отработанного времени на всех видах работ по производству товаров и услуг (в среднем за год) по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenasixanineaone/data-2021-07-09-structure-2021-07-09.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightanineanineathree",
+        "title": "Количество фактически отработанного времени на всех видах работ по производству товаров и услуг (в среднем за год) с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightanineanineathree/data-2021-07-09-structure-2021-07-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafourasixathree",
+        "title": "Количество фактически отработанного времени на всех видах работ по производству товаров и услуг (по статусу в занятости) в среднем за год с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafourasixathree/data-2020-09-24-structure-2020-09-24.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafouratwoatwo",
+        "title": "Количество фактов постановки на миграционный учет иностранных граждан и лиц без гражданства с целью въезда \"работа\"",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafouratwoatwo/data-2022-07-20-structure-2022-07-20.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroatwoaseven",
+        "title": "Количество формируемых индикаторов программы Международной организации труда «Мониторинг и оценка прогресса достойного труда» в общем числе индикаторов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroatwoaseven/data-2021-04-01-structure-2021-04-01.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenazeroathree",
+        "title": "Коэффициент напряженности на рынке труда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenazeroathree/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroatwoaeight",
+        "title": "Коэффициент напряженности на рынке труда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroatwoaeight/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasixatwoanine",
+        "title": "Коэффициент частоты производственного травматизма со смертельным исходом на 1000 работающих",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasixatwoanine/data-2018-02-06-structure-2018-02-06.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeasevenasixathree",
+        "title": "Муниципальные образовательные организации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeasevenasixathree/data-2020-11-03-structure-2020-11-03.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroanineasevenatwo",
+        "title": "Общая численность безработных в соответствии с методологией МОТ (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroanineasevenatwo/data-2023-09-07-structure-2023-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafouraoneafour",
+        "title": "Общая численность безработных в соответствии с методологией МОТ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafouraoneafour/data-2023-09-07-structure-2023-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasixanineaone",
+        "title": "Общая численность безработных, в процентах к экономически активному населению (уровень безработицы)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasixanineaone/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroasevenasevenatwo",
+        "title": "Общая численность работников списочного состава",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroasevenasevenatwo/data-2023-03-01-structure-2023-03-01.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeathreeaeightaeight",
+        "title": "Общее количество действующих лицензий на оказание услуг по трудоустройству граждан Российской Федерации за пределами территории Российской Федерации по данным ФМС России (по 2014 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeathreeaeightaeight/data-2017-12-06-structure-2017-12-06.xml"
+    },
+    {
+        "identifier": "7708234640-threeanineasixaeightaeight",
+        "title": "Общее количество предписаний выданных по итогам проверок соблюдения трудового законодательства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeanineasixaeightaeight/data-2019-09-02-structure-2019-09-02.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneatwoathreeazero",
+        "title": "Общее количество предписаний, выданных по результатам проведения проверок, административных расследований",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneatwoathreeazero/data-2017-12-15-structure-2017-12-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoathreeanine",
+        "title": "Общее количество проверок соблюдения трудового законодательства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoathreeanine/data-2019-09-02-structure-2019-09-02.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeaeightafiveaone",
+        "title": "Общее количество проверок, по итогам проведения которых выявлены правонарушения, по данным ФМС России (по 2014 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeaeightafiveaone/data-2017-12-06-structure-2017-12-06.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeazeroazeroanine",
+        "title": "Общее число созданных рабочих мест по группам организаций, на которых средняя численность работников увеличилась и по вновь созданным организациям, по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeazeroazeroanine/data-2020-08-25-structure-2020-08-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasixanineaeight",
+        "title": "Общее число созданных рабочих мест по группам организаций, на которых средняя численность работников увеличилась и по вновь созданным организациям, с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasixanineaeight/data-2020-08-21-structure-2020-08-21.xml"
+    },
+    {
+        "identifier": "7707418081-fiveanineasixafiveasix",
+        "title": "Объем поступивших средств в организациях, осуществляющих образовательную деятельность по образовательным программам среднего профессионального образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-fiveanineasixafiveasix/data-2023-09-11-structure-2023-09-11.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafiveathreeanine",
+        "title": "Объем работ, выполненный собственными силами организаций без учета субъектов малого предпринимательства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafiveathreeanine/data-2022-03-02-structure-2022-03-02.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafouraoneasix",
+        "title": "Объем работ, выполненный собственными силами организаций по договорам строительного подряда (уточненные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafouraoneasix/data-2019-06-18-structure-2019-06-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeafouraoneafouranine",
+        "title": "Объем работ, выполненный собственными силами по договорам строительного подряда по полному кругу строительных организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafouraoneafouranine/data-2020-09-09-structure-2020-09-09.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightaoneafour",
+        "title": "Объем работ, выполненных собственными силами, включая работы, выполненные хозспособом (уточненные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightaoneafour/data-2022-03-02-structure-2022-03-02.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightaoneatwo",
+        "title": "Объем работ, выполненных собственными силами, включая работы, выполненные хозспособом, по полному кругу строительных организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightaoneatwo/data-2022-03-02-structure-2022-03-02.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeazeroafiveanine",
+        "title": "Объем финансирования образовательных учреждений, реализующих программы среднего профессионального образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeazeroafiveanine/data-2022-06-02-structure-2022-06-02.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneatwoatwo",
+        "title": "Оплата труда наемных работников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneatwoatwo/data-2021-09-20-structure-2021-09-20.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneatwoanineaeight",
+        "title": "Оплата труда наемных работников в соответствии с методологией СНС 1993 с частичными отклонениями",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneatwoanineaeight/data-2022-01-28-structure-2022-01-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneaeightaeight",
+        "title": "Оплата труда наемных работников в соответствии с методологией СНС 2008",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneaeightaeight/data-2020-12-07-structure-2020-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroasixasixasix",
+        "title": "Оплата труда наемных работников выплаченная, в соответствии с методологией СНС 1993 с частичными отклонениями",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroasixasixasix/data-2022-01-28-structure-2022-01-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasixaoneanine",
+        "title": "Оплата труда наемных работников переданная, в соответствии с методологией СНС 2008",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasixaoneanine/data-2021-09-01-structure-2021-09-01.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeanineanine",
+        "title": "Оплата труда наемных работников по регионам Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeanineanine/data-2020-12-13-structure-2020-12-13.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroasixasixafive",
+        "title": "Оплата труда наемных работников полученная в соответствии с методологией СНС 1993 с частичными отклонениями",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroasixasixafive/data-2022-01-28-structure-2022-01-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasixatwoaone",
+        "title": "Оплата труда наемных работников полученная, в соответствии с методологией СНС 2008",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasixatwoaone/data-2021-09-02-structure-2021-09-02.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafourasixaeight",
+        "title": "Осведомленность предприятий целевой группы о возможностях повышения производительности труда",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafourasixaeight/data-2021-11-09-structure-2021-11-09.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeafourazeroatwo",
+        "title": "Отношение количества выявленных фактов незаконного привлечения иностранных работников к количеству выявленных фактов незаконного осуществления трудовой деятельности иностранными гражданами и лицами без гражданства по данным ФМС России (по 2014 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeafourazeroatwo/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeafourazeroafour",
+        "title": "Отношение количества разрешений на привлечение и использование иностранных работников, выданных работодателям в текущем году, к количеству разрешений на привлечение и использование иностранных работников, выданных работодателям в предыдущем году, по данным ФМС России (по 2014 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeafourazeroafour/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightasixatwo",
+        "title": "Отношение средней заработной платы преподавателей и мастеров производственного обучения образовательных учреждений начального и среднего профессионального образования к оценке среднемесячной начисленной заработной плате наемных работников в организациях, у индивидуальных предпринимателей и физических лиц (оценке среднемесячному доходу от трудовой деятельности) по субъекту Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightasixatwo/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-fourafouraoneaeightafive",
+        "title": "Отношение средней заработной платы преподавателей и мастеров производственного обучения образовательных учреждений начального и среднего профессионального образования к средней заработной плате по субъекту Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafouraoneaeightafive/data-2020-11-13-structure-2020-11-13.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightanineaone",
+        "title": "Отношение средней заработной платы преподавателей и мастеров производственного обучения образовательных учреждений начального и среднего профессионального образования к среднемесячной начисленной заработной плате наемных работников в организациях, у индивидуальных предпринимателей и физических лиц (среднемесячному доходу от трудовой деятельности) по субъекту Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightanineaone/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeanineazeroaseven",
+        "title": "Отношение среднемесячной номинальной начисленной заработной платы работников в субъекте Российской Федерации к среднероссийскому уровню",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeanineazeroaseven/data-2020-08-25-structure-2020-08-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneasevenasevenanine",
+        "title": "Отношение фактической численности работников к штатной численности с 2020 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneasevenasevenanine/data-2021-12-03-structure-2021-12-03.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneasixathreeanine",
+        "title": "Отношение числа высокопроизводительных рабочих мест к среднегодовой численности занятого населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneasixathreeanine/data-2023-09-21-structure-2023-09-21.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasevenazeroatwo",
+        "title": "Отношение числа занятых в экономике региона к численности населения региона в трудоспособном возрасте",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasevenazeroatwo/data-2021-12-06-structure-2021-12-06.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafouraoneaseven",
+        "title": "Отношение численности безработных граждан, зарегистрированных в органах службы занятости, к общей численности безработных граждан (по методологии Международной организации труда)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafouraoneaseven/data-2018-09-19-structure-2018-09-19.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeanineaoneathree",
+        "title": "Отношение численности безработных граждан, зарегистрированных в учреждениях службы занятости, к численности безработных граждан (по методологии Международной организации труда)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeanineaoneathree/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeafourazeroathree",
+        "title": "Отношение численности иностранных граждан, получивших разрешение на работу в Российской Федерации в текущем году, к численности иностранных граждан, получивших разрешение на работу в Российской Федерации в предыдущем году, по данным ФМС России (по 2014 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeafourazeroathree/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeafouraoneafiveafive",
+        "title": "Оценка изменения средней численности работников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafouraoneafiveafive/data-2023-03-20-structure-2023-03-20.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafiveaeightafour",
+        "title": "Повышение квалификации и получение высшего образования работниками дорожного хозяйства (не менее человек) (R2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafiveaeightafour/data-2023-11-03-structure-2023-11-03.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroatwoatwo",
+        "title": "Полнота охвата показателей численности и состава рабочей силы, занятых, безработных, необходимых для предоставления в Организацию экономического сотрудничества и развития, по отношению к общему числу показателей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroatwoatwo/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroasixazeroaeight",
+        "title": "Потребность в работниках для замещения вакантных рабочих мест до 2014 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroasixazeroaeight/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightaeightasix",
+        "title": "Потребность в работниках для замещения вакантных рабочих мест за 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightaeightasix/data-2020-08-21-structure-2020-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroaeightasix",
+        "title": "Потребность в работниках для замещения вакантных рабочих мест с 2018 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroaeightasix/data-2020-08-21-structure-2020-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneathreeafiveathree",
+        "title": "Приобретение квартир для граждан, уволенных с военной службы, из органов внутренних дел, и приравненных к ним лиц",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneathreeafiveathree/data-2020-09-02-structure-2020-09-02.xml"
+    },
+    {
+        "identifier": "7708234640-fourafourazeroaeightafour",
+        "title": "Прирост высокопроизводительных рабочих мест",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafourazeroaeightafour/data-2023-09-21-structure-2023-09-21.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasixanineatwo",
+        "title": "Прирост высокопроизводительных рабочих мест по сравнению с предыдущим периодом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasixanineatwo/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenanineathreeaone",
+        "title": "Прирост рабочих мест, не связанных с градообразующей организацией, по сравнению с предыдущим периодом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenanineathreeaone/data-2018-06-04-structure-2018-06-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveaeightazero",
+        "title": "Производительность труда в базовых несырьевых отраслях экономики",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveaeightazero/data-2021-05-14-structure-2021-05-14.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoanineazero",
+        "title": "Производительность труда в транспортном комплексе, в % к 2021 году",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoanineazero/data-2023-04-21-structure-2023-04-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafouranineaeight",
+        "title": "Производственный травматизм, в том числе со смертельным исходом (8.8.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafouranineaeight/data-2017-12-21-structure-2017-12-21.xml"
+    },
+    {
+        "identifier": "7708234640-fourafiveathreeasixaone",
+        "title": "Расходы на оплату труда по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafiveathreeasixaone/data-2020-08-19-structure-2020-08-19.xml"
+    },
+    {
+        "identifier": "7708234640-fourafiveathreeanineasix",
+        "title": "Расходы на оплату учебных отпусков по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafiveathreeanineasix/data-2020-08-19-structure-2020-08-19.xml"
+    },
+    {
+        "identifier": "7708234640-fourafiveathreeanineafive",
+        "title": "Расходы работодателя по выплате пособия по временной нетрудоспособности за первые три дня нетрудоспособности работника по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafiveathreeanineafive/data-2020-08-19-structure-2020-08-19.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoaeightanine",
+        "title": "Реальная заработная плата работников в % к 2021 году",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoaeightanine/data-2023-04-21-structure-2023-04-21.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeatwoafourafive",
+        "title": "Реальная начисленная заработная плата в процентах к соответствующему периоду предыдущего года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeatwoafourafive/data-2020-08-25-structure-2020-08-25.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineafouratwo",
+        "title": "Реальная среднемесячная начисленная заработная плата работников в сравнении с предыдущим периодом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineafouratwo/data-2020-08-27-structure-2020-08-27.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeanineaoneafour",
+        "title": "Снижение травматизма со смертельным исходом к уровню 2010 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeanineaoneafour/data-2018-02-06-structure-2018-02-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenanineathreeatwo",
+        "title": "Создание рабочих мест, не связанных с градообразующей организацией",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenanineathreeatwo/data-2018-06-04-structure-2018-06-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeanineaeightazero",
+        "title": "Соотношение средней заработной платы 10% наиболее и 10% наименее оплачиваемых работников по 2015 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeanineaeightazero/data-2023-06-30-structure-2023-06-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightazeroathreeatwo",
+        "title": "Соотношение средней заработной платы 10% наиболее и 10% наименее оплачиваемых работников с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightazeroathreeatwo/data-2023-06-30-structure-2023-06-30.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneasevenanineatwo",
+        "title": "Соотношение среднемесячной номинальной начисленной заработной платы работников организаций с величиной прожиточного минимума трудоспособного населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneasevenanineatwo/data-2022-11-07-structure-2022-11-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixasevenathreeazero",
+        "title": "Среднегодовая численность трудовых ресурсов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixasevenathreeazero/data-2021-07-09-structure-2021-07-09.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenafiveaone",
+        "title": "Среднее отработанное время в неделю занятыми на основной работе по полу и возрасту",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenafiveaone/data-2021-02-25-structure-2021-02-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroasevenafour",
+        "title": "Среднемесячная заработная плата работников организаций (без субъектов малого предпринимательства), осуществляющих деятельность в местах традиционного проживания и традиционной хозяйственной деятельности коренных малочисленных народов Севера, Сибири и Дальнего Востока Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroasevenafour/data-2020-08-25-structure-2020-08-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafourafiveafour",
+        "title": "Среднемесячная заработная плата работников организаций, осуществляющих деятельность в Арктической зоне Российской Федерации (без субъектов малого предпринимательства)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafourafiveafour/data-2020-08-26-structure-2020-08-26.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeazeroazeroaeight",
+        "title": "Среднемесячная заработная плата работников сельского хозяйства (без субъектов малого предпринимательства)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeazeroazeroaeight/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasixasevenanineaone",
+        "title": "Среднемесячная начисленная заработная плата наемных работников в организациях, у индивидуальных предпринимателей и физических лиц",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasixasevenanineaone/data-2021-06-09-structure-2021-06-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneasevenaeightazero",
+        "title": "Среднемесячная начисленная заработная плата работников (без выплат социального характера)с 2020 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneasevenaeightazero/data-2021-12-03-structure-2021-12-03.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeanineaoneatwo",
+        "title": "Среднемесячная номинальная заработная плата работников в сельском хозяйстве",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeanineaoneatwo/data-2020-08-25-structure-2020-08-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveaoneazeroathree",
+        "title": "Среднемесячная номинальная начисленная заработная плата в процентах к соответствующему периоду предыдущего года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveaoneazeroathree/data-2021-11-29-structure-2021-11-29.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafourathreeathree",
+        "title": "Среднемесячная номинальная начисленная заработная плата на одного работника по полному кругу организаций по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafourathreeathree/data-2020-08-25-structure-2020-08-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasevenazeroaone",
+        "title": "Среднемесячная номинальная начисленная заработная плата на одного работника по полному кругу организаций с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasevenazeroaone/data-2020-08-21-structure-2020-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeatwoafourasix",
+        "title": "Среднемесячная номинальная начисленная заработная плата работающих в экономике по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeatwoafourasix/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightatwoafour",
+        "title": "Среднемесячная номинальная начисленная заработная плата работающих в экономике с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightatwoafour/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineafouranine",
+        "title": "Среднемесячная номинальная начисленная заработная плата работников государственных образовательных учреждений среднего профессионального образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineafouranine/data-2020-08-27-structure-2020-08-27.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenathreeathreeaeight",
+        "title": "Среднемесячная номинальная начисленная заработная плата работников организаций (без субъектов малого предпринимательства) по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenathreeathreeaeight/data-2020-08-25-structure-2020-08-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightatwoathree",
+        "title": "Среднемесячная номинальная начисленная заработная плата работников организаций (без субъектов малого предпринимательства) с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightatwoathree/data-2020-08-21-structure-2020-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightafiveasix",
+        "title": "Среднемесячная номинальная начисленная заработная плата работников организаций, не относящихся к субъектам малого предпринимательства, в районах Крайнего Севера и приравненных к ним местностям",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightafiveasix/data-2020-08-21-structure-2020-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineafiveazero",
+        "title": "Среднемесячная номинальная начисленная заработная плата работников сельского хозяйства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineafiveazero/data-2020-08-27-structure-2020-08-27.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineafiveaone",
+        "title": "Среднемесячная номинальная начисленная заработная плата работников, занятых в сфере экономики региона",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineafiveaone/data-2020-08-27-structure-2020-08-27.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaoneasixanine",
+        "title": "Среднемесячные затраты на рабочую силу в расчете на одного работника по 2013 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaoneasixanine/data-2023-06-30-structure-2023-06-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaeightaoneazero",
+        "title": "Среднемесячные затраты на рабочую силу в расчете на одного работника с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaeightaoneazero/data-2023-06-30-structure-2023-06-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeafouraoneasixasix",
+        "title": "Среднесписочная численность работающих в организациях",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafouraoneasixasix/data-2018-10-16-structure-2018-10-16.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasevenathreeazero",
+        "title": "Среднесписочная численность работников (без внешних совместителей и работников несписочного состава)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasevenathreeazero/data-2020-12-14-structure-2020-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightafiveaseven",
+        "title": "Среднесписочная численность работников (без внешних совместителей) в организациях, не относящихся к субъектам малого предпринимательства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightafiveaseven/data-2020-08-21-structure-2020-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafourafourathree",
+        "title": "Среднесписочная численность работников (без внешних совместителей) микропредприятий за 2008 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafourafourathree/data-2021-12-07-structure-2021-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroasixafiveazero",
+        "title": "Среднесписочная численность работников (без внешних совместителей) микропредприятий с 2009 г. по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroasixafiveazero/data-2021-12-07-structure-2021-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafiveanineasix",
+        "title": "Среднесписочная численность работников (без внешних совместителей) микропредприятий с 2017г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafiveanineasix/data-2021-08-27-structure-2021-08-27.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightafiveathree",
+        "title": "Среднесписочная численность работников (без внешних совместителей) организаций, не относящихся к субъектам малого предпринимательства, в районах Крайнего Севера и приравненных к ним местностям",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightafiveathree/data-2020-08-21-structure-2020-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightafouraeight",
+        "title": "Среднесписочная численность работников (без внешних совместителей) по полному кругу организаций за отчетный период",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightafouraeight/data-2020-08-21-structure-2020-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneafourazero",
+        "title": "Среднесписочная численность работников (без внешних совместителей) средних организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneafourazero/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafourafourafive",
+        "title": "Среднесписочная численность работников (без совместителей и работников несписочного состава)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafourafourafive/data-2020-12-18-structure-2020-12-18.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneafiveaseven",
+        "title": "Среднесписочная численность работников (за исключением внешних совместителей)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneafiveaseven/data-2023-02-09-structure-2023-02-09.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroasevenafive",
+        "title": "Среднесписочная численность работников в организациях (без субъектов малого предпринимательства), осуществляющих деятельность в местах традиционного проживания и традиционной хозяйственной деятельности коренных малочисленных народов Севера, Сибири и Дальнего Востока Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroasevenafive/data-2020-08-25-structure-2020-08-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafourafiveafive",
+        "title": "Среднесписочная численность работников в организациях, осуществляющих деятельность в Арктической зоне Российской Федерации (без субъектов малого предпринимательства)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafourafiveafive/data-2020-08-26-structure-2020-08-26.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightazeroanineafour",
+        "title": "Среднесписочная численность работников всех организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightazeroanineafour/data-2021-02-08-structure-2021-02-08.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafouraoneanine",
+        "title": "Среднесписочная численность работников градообразующей организации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafouraoneanine/data-2022-01-31-structure-2022-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafourafouratwo",
+        "title": "Среднесписочная численность работников малых предприятий (без внешних совместителей) (без микропредприятий) за 2008 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafourafouratwo/data-2021-12-07-structure-2021-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafourathreeafour",
+        "title": "Среднесписочная численность работников малых предприятий (без внешних совместителей) (без микропредприятий) с 2009 г. по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafourathreeafour/data-2021-12-07-structure-2021-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightazeroaone",
+        "title": "Среднесписочная численность работников малых предприятий (без внешних совместителей) (без микропредприятий) с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightazeroaone/data-2021-09-28-structure-2021-09-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveasevenaone",
+        "title": "Среднесписочная численность работников малых предприятий (без внешних совместителей) (включая микропредприятия)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveasevenaone/data-2020-08-21-structure-2020-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineaeightasix",
+        "title": "Среднесписочная численность работников на предприятиях малого и среднего бизнеса (оценка)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineaeightasix/data-2021-07-07-structure-2021-07-07.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeazeroazeroaseven",
+        "title": "Среднесписочная численность работников по полному кругу организаций по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeazeroazeroaseven/data-2020-08-25-structure-2020-08-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasixanineanine",
+        "title": "Среднесписочная численность работников по полному кругу организаций с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasixanineanine/data-2020-08-21-structure-2020-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fourafiveasixathreeatwo",
+        "title": "Среднесписочная численность работников страховщика",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafiveasixathreeatwo/data-2020-12-29-structure-2020-12-29.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafourafourasix",
+        "title": "Среднесписочная численность работников страховых организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafourafourasix/data-2020-12-29-structure-2020-12-29.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafiveatwoasix",
+        "title": "Среднесписочная численность работников федеральных государственных унитарных предприятий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafiveatwoasix/data-2020-08-25-structure-2020-08-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneathreeatwo",
+        "title": "Среднесписочная численность работников федеральных государственных унитарных предприятий с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneathreeatwo/data-2020-08-25-structure-2020-08-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafiveatwoaseven",
+        "title": "Среднесписочная численность работников федеральных государственных учреждений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafiveatwoaseven/data-2020-08-25-structure-2020-08-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneathreeafour",
+        "title": "Среднесписочная численность работников федеральных государственных учреждений с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneathreeafour/data-2020-08-25-structure-2020-08-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasixasevenathree",
+        "title": "Средний почасовой заработок женщин и мужчин в разбивке по группам занятий и возрасту (8.5.1)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasixasevenathree/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaeightazeroaseven",
+        "title": "Средний эквивалентный доход от самостоятельной занятости",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaeightazeroaseven/data-2022-06-08-structure-2022-06-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaeightazeroasix",
+        "title": "Средний эквивалентный доход от самостоятельной занятости, включая денежную оценку стоимости использованной на личное потребление продукции собственного производства",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaeightazeroasix/data-2020-12-14-structure-2020-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneafiveaeight",
+        "title": "Средняя численность внешних совместителей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneafiveaeight/data-2023-02-09-structure-2023-02-09.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeanineanineanine",
+        "title": "Средняя заработная плата по 10-ти процентным группам работников по 2015 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeanineanineanine/data-2023-06-30-structure-2023-06-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightazeroathreeaone",
+        "title": "Средняя заработная плата по 10-ти процентным группам работников с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightazeroathreeaone/data-2023-06-30-structure-2023-06-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaeightazeroanine",
+        "title": "Средняя заработная плата работников списочного состава",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaeightazeroanine/data-2020-08-31-structure-2020-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourazeroazeroazero",
+        "title": "Средняя начисленная заработная плата работников организаций по полу по 2015 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourazeroazeroazero/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafiveaeightatwo",
+        "title": "Средняя начисленная заработная плата работников организаций по полу с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafiveaeightatwo/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeanineaeightaeight",
+        "title": "Средняя начисленная заработная плата работников организаций, полностью отработавших отчётный месяц, по возрастным группам по 2015 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeanineaeightaeight/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafiveaeightathree",
+        "title": "Средняя начисленная заработная плата работников организаций, полностью отработавших отчётный месяц, по возрастным группам с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafiveaeightathree/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeanineaeightanine",
+        "title": "Средняя начисленная заработная плата работников организаций, полностью отработавших отчётный месяц, по образованию по 2015 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeanineaeightanine/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafiveaeightafour",
+        "title": "Средняя начисленная заработная плата работников организаций, полностью отработавших отчётный месяц, по образованию с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafiveaeightafour/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeanineanineazero",
+        "title": "Средняя начисленная заработная плата работников организаций, полностью отработавших отчётный месяц, по профессиональным группам до 2013 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeanineanineazero/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafouraoneaseven",
+        "title": "Средняя начисленная заработная плата работников организаций, полностью отработавших отчётный месяц, по профессиональным группам за 2015 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafouraoneaseven/data-2020-10-06-structure-2020-10-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafiveaeightasix",
+        "title": "Средняя начисленная заработная плата работников организаций, полностью отработавших отчётный месяц, по профессиональным группам с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafiveaeightasix/data-2020-08-21-structure-2020-08-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightatwoaone",
+        "title": "Средняя численность внешних совместителей организаций, не относящихся к субъектам малого предпринимательства, с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightatwoaone/data-2021-03-29-structure-2021-03-29.xml"
+    },
+    {
+        "identifier": "7708234640-fourafiveasixaoneaeight",
+        "title": "Средняя численность внешних совместителей организаций, не относящихся к субъектам малого предпринимательства, по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafiveasixaoneaeight/data-2021-03-29-structure-2021-03-29.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveanineafive",
+        "title": "Средняя численность внешних совместителей, работающих на биржах",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveanineafive/data-2020-01-22-structure-2020-01-22.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoathreeaeightasix",
+        "title": "Средняя численность занятых в сфере индивидуального предпринимательства в 2020 году",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoathreeaeightasix/data-2023-06-30-structure-2023-06-30.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneafiveanine",
+        "title": "Средняя численность нештатных работников (привлеченных по договорам гражданско-правового характера)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneafiveanine/data-2023-02-09-structure-2023-02-09.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineatwoafiveaseven",
+        "title": "Средняя численность работников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineatwoafiveaseven/data-2022-11-10-structure-2022-11-10.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeatwoafourathree",
+        "title": "Средняя численность работников (работники списочного состава и внешние совместители)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeatwoafourathree/data-2018-02-06-structure-2018-02-06.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaoneatwoasix",
+        "title": "Средняя численность работников (работники списочного состава, внешние совместители, работники, выполнявшие работы по договорам гражданско-правового характера) за 2010,2015гг.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaoneatwoasix/data-2023-09-22-structure-2023-09-22.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoathreeaeightatwo",
+        "title": "Средняя численность работников (работники списочного состава, внешние совместители, работники, выполнявшие работы по договорам гражданско-правового характера) за 2020 год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoathreeaeightatwo/data-2023-06-30-structure-2023-06-30.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenazeroatwoanine",
+        "title": "Средняя численность работников за 2011 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenazeroatwoanine/data-2022-11-08-structure-2022-11-08.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafourasevenatwo",
+        "title": "Средняя численность работников малых предприятий (без микропредприятий) с 2009 г. по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafourasevenatwo/data-2021-12-07-structure-2021-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafiveasevenaseven",
+        "title": "Средняя численность работников малых предприятий (без микропредприятий) за 2008 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafiveasevenaseven/data-2021-12-07-structure-2021-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightazeroazero",
+        "title": "Средняя численность работников малых предприятий (без микропредприятий) с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightazeroazero/data-2021-09-28-structure-2021-09-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveasevenazero",
+        "title": "Средняя численность работников малых предприятий (включая микропредприятия)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveasevenazero/data-2021-08-27-structure-2021-08-27.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafourafiveaseven",
+        "title": "Средняя численность работников микропредприятий за 2008 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafourafiveaseven/data-2021-12-07-structure-2021-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroasixafiveaone",
+        "title": "Средняя численность работников микропредприятий с 2009 г. по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroasixafiveaone/data-2021-12-07-structure-2021-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafiveanineafive",
+        "title": "Средняя численность работников микропредприятий с 2017г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafiveanineafive/data-2021-08-27-structure-2021-08-27.xml"
+    },
+    {
+        "identifier": "7708234640-fourafiveasixaoneanine",
+        "title": "Средняя численность работников организаций, не относящихся к субъектам малого предпринимательства, за отчетный период по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafiveasixaoneanine/data-2021-03-29-structure-2021-03-29.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightatwoatwo",
+        "title": "Средняя численность работников организаций, не относящихся к субъектам малого предпринимательства, за отчетный период с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightatwoatwo/data-2021-03-29-structure-2021-03-29.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaeightazeroaeight",
+        "title": "Средняя численность работников списочного состава (без внешних совместителей)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaeightazeroaeight/data-2020-08-31-structure-2020-08-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourazeroazeroaone",
+        "title": "Средняя численность работников списочного состава (без внешних совместителей, без субъектов малого предпринимательства)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourazeroazeroaone/data-2023-02-20-structure-2023-02-20.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneathreeanine",
+        "title": "Средняя численность работников средних организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneathreeanine/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineasixaeight",
+        "title": "Средняя численность работников туристской индустрии",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineasixaeight/data-2023-01-31-structure-2023-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fourafourazeroafourathree",
+        "title": "Средняя численность работников, включая внешних совместителей и работников, выполнявших работы по договорам гражданско-правового характера",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafourazeroafourathree/data-2020-12-14-structure-2020-12-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenaeightatwoazero",
+        "title": "Средняя численность работников, выполнявших работы по договорам гражданско-правового характера, организаций, не относящихся к субъектам малого предпринимательства, с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenaeightatwoazero/data-2021-03-29-structure-2021-03-29.xml"
+    },
+    {
+        "identifier": "7708234640-fourafiveasixaoneasix",
+        "title": "Средняя численность работников, выполнявших работы по договорам гражданско-правового характера, организаций, не относящихся к субъектам малого предпринимательства, по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafiveasixaoneasix/data-2021-03-29-structure-2021-03-29.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafouranineaseven",
+        "title": "Стоимость работ по действующим контрактам (соглашениям) (c I квартала по III квартал 2016 г.)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafouranineaseven/data-2019-11-21-structure-2019-11-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenanineanineathree",
+        "title": "Стоимость работ по действующим контрактам (соглашениям) (с IV квартала 2016 г.)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenanineanineathree/data-2019-11-13-structure-2019-11-13.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafouranineaeight",
+        "title": "Стоимость работ по действующим контрактам (соглашениям), заключенным с начала отчетного года (c I квартала по III квартал 2016 г.)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafouranineaeight/data-2019-11-21-structure-2019-11-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightazeroazeroanine",
+        "title": "Стоимость работ по действующим контрактам (соглашениям), заключенным с начала отчетного года (с IV квартала 2016 г.)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightazeroazeroanine/data-2019-11-13-structure-2019-11-13.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoathreeazeroafour",
+        "title": "Структура занятого населения в возрасте 15 лет и старше, имеющего высшее образование, по видам экономической деятельности на основной работе",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoathreeazeroafour/data-2023-09-07-structure-2023-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoathreeazeroathree",
+        "title": "Структура занятого населения по видам экономической деятельности на основной работе",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoathreeazeroathree/data-2023-09-07-structure-2023-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveafouraone",
+        "title": "Структура иностранных трудовых мигрантов, выполнявших работу у предпринимателей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveafouraone/data-2020-09-09-structure-2020-09-09.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneafiveasevenanine",
+        "title": "Структура иностранных трудовых мигрантов, привлекавшихся домохозяйствами для выполнения работ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneafiveasevenanine/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroafourathreeasix",
+        "title": "Структура использования времени занятого населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroafourathreeasix/data-2020-08-18-structure-2020-08-18.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneafiveaeightaone",
+        "title": "Структура российских трудовых мигрантов, привлекавшихся домохозяйствами для выполнения работ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneafiveaeightaone/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineanineazeroaone",
+        "title": "Сумма оплаты труда работников организаций, осуществляющих спортивную подготовку",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineanineazeroaone/data-2020-06-30-structure-2020-06-30.xml"
+    },
+    {
+        "identifier": "7708234640-fourafiveathreeaeightatwo",
+        "title": "Суточные и подъемные по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourafiveathreeaeightatwo/data-2020-08-19-structure-2020-08-19.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasixaeightasix",
+        "title": "Темп прироста реальной среднемесячной заработной платы по сравнению с предыдущим периодом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasixaeightasix/data-2020-09-01-structure-2020-09-01.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveafourazeroafive",
+        "title": "Темп прироста реальной среднемесячной заработной платы по сравнению с предыдущим периодом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveafourazeroafive/data-2020-11-30-structure-2020-11-30.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneasevenasevenatwo",
+        "title": "Темп роста (индекс роста) реальной среднемесячной заработной платы",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneasevenasevenatwo/data-2021-11-29-structure-2021-11-29.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafouraoneafive",
+        "title": "Удельный вес безработных граждан, ищущих работу 12 и более месяцев, в общей численности безработных граждан, зарегистрированных в органах службы занятости населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafouraoneafive/data-2013-06-26-structure-2013-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafouraoneathree",
+        "title": "Удельный вес безработных граждан, переехавших в другую местность с целью трудоустройства, в общей численности безработных граждан, зарегистрированных в органах службы занятости населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafouraoneathree/data-2013-06-26-structure-2013-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafouraoneafour",
+        "title": "Удельный вес безработных граждан, прошедших профессиональную подготовку, переподготовку, повышение квалификации, в общей численности безработных граждан, зарегистрированных в органах службы занятости",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafouraoneafour/data-2013-06-26-structure-2013-06-26.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeathreeanineaeight",
+        "title": "Удельный вес иностранных работников, подтвердивших документально владение русским языком, знание истории России, основ законодательства Российской Федерации, в общей численности иностранных работников, получивших разрешение на трудовую деятельность (разрешение на работу), по данным ФМС России (по 2014 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeathreeanineaeight/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveaeightafive",
+        "title": "Удельный вес исследователей в возрасте до 39 лет в общей численности исследователей направленных на работу (стажировку) в зарубежные научные организации по 2020 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveaeightafive/data-2022-08-18-structure-2022-08-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafourafourathree",
+        "title": "Удельный вес работников, занятых во вредных и (или) опасных условиях труда, в общей численности работников по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafourafourathree/data-2023-09-05-structure-2023-09-05.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafiveanineazero",
+        "title": "Удельный вес работников, занятых во вредных и (или) опасных условиях труда, в общей численности работников с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafiveanineazero/data-2023-09-05-structure-2023-09-05.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroasixazeroaseven",
+        "title": "Удельный вес работников, имеющих право на компенсации за работу во вредных и (или) опасных условиях труда, в общей численности работников по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroasixazeroaseven/data-2023-09-05-structure-2023-09-05.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafiveanineatwo",
+        "title": "Удельный вес работников, имеющих право на компенсации за работу во вредных и (или) опасных условиях труда, в общей численности работников с 2017г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafiveanineatwo/data-2023-09-05-structure-2023-09-05.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafouraoneasix",
+        "title": "Удельный вес трудоустроенных граждан в общей численности, обратившихся за содействием в поиске подходящей работы в органы службы занятости населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafouraoneasix/data-2018-09-18-structure-2018-09-18.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneasevenanineazero",
+        "title": "Удельный вес трудоустроившихся выпускников образовательных организаций с высшим образованием в общей численности выпускников по группам профессий (специальностей)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneasevenanineazero/data-2022-05-11-structure-2022-05-11.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafiveaoneasix",
+        "title": "Удельный вес трудоустроившихся выпускников образовательных организаций с высшим образованием в общей численности выпускников по группам профессий (специальностей)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafiveaoneasix/data-2020-09-09-structure-2020-09-09.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafiveaoneanine",
+        "title": "Удельный вес трудоустроившихся выпускников образовательных организаций со средним профессиональным или высшим образованием в общей численности выпускников по уровням профессионального образования и субъектам Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafiveaoneanine/data-2023-01-12-structure-2023-01-12.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafiveaoneaeight",
+        "title": "Удельный вес трудоустроившихся выпускников образовательных организаций со средним профессиональным образованием по программам подготовки квалифицированных рабочих и служащих в общей численности выпускников по группам профессий",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafiveaoneaeight/data-2022-05-11-structure-2022-05-11.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafiveaoneaseven",
+        "title": "Удельный вес трудоустроившихся выпускников образовательных организаций со средним профессиональным образованием по программам подготовки специалистов среднего звена в общей численности выпускников по группам профессий (специальностей)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafiveaoneaseven/data-2020-09-09-structure-2020-09-09.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafourafourafour",
+        "title": "Удельный вес численности выбывших работников в среднесписочной численности по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafourafourafour/data-2020-08-25-structure-2020-08-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneafourazero",
+        "title": "Удельный вес численности выбывших работников в среднесписочной численности с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneafourazero/data-2020-08-26-structure-2020-08-26.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasixanineazero",
+        "title": "Удельный вес численности высококвалифицированных работников в общей численности квалифицированных работников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasixanineazero/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveafourazeroaeight",
+        "title": "Удельный вес численности высококвалифицированных работников в общей численности квалифицированных работников по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveafourazeroaeight/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasevenaoneanine",
+        "title": "Удельный вес численности высококвалифицированных работников в общей численности квалифицированных работников с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasevenaoneanine/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafourafourafive",
+        "title": "Удельный вес численности принятых работников в среднесписочной численности по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafourafourafive/data-2020-08-25-structure-2020-08-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneathreeanine",
+        "title": "Удельный вес численности принятых работников в среднесписочной численности с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneathreeanine/data-2020-08-26-structure-2020-08-26.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineafiveaeight",
+        "title": "Удовлетворенность предприятий работой региональных центров компетенций (доля предприятий, удовлетворенных работой названных центров)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineafiveaeight/data-2022-03-04-structure-2022-03-04.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneanineafiveaseven",
+        "title": "Удовлетворенность предприятий работой федерального центра компетенций (доля предприятий, удовлетворенных работой названного центра)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneanineafiveaseven/data-2022-03-04-structure-2022-03-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasevenaoneafour",
+        "title": "Уровень безработицы в разбивке по полу, возрасту и признаку инвалидности (8.5.2)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasevenaoneafour/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveasevenafouranine",
+        "title": "Уровень денежного довольствия военнослужащих Вооруженных Сил Российской Федерации относительно уровня оплаты труда работников организаций ведущих отраслей экономики Российской Федерации (финансовая сфера, топливно-энергетический комплекс)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveasevenafouranine/data-2017-07-18-structure-2017-07-18.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveathreeanine",
+        "title": "Уровень занятости международных мигрантов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveathreeanine/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoazeroaeight",
+        "title": "Уровень трудоустройства граждан, обратившихся в пилотные центры занятости",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoazeroaeight/data-2022-09-20-structure-2022-09-20.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveathreeaeight",
+        "title": "Уровень участия в рабочей силе международных мигрантов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveathreeaeight/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourazeroatwoaeight",
+        "title": "Уровень участия в составе рабочей силы",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourazeroatwoaeight/data-2023-09-07-structure-2023-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroanineasevenafour",
+        "title": "Уровень участия в составе рабочей силы (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroanineasevenafour/data-2023-09-07-structure-2023-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaeightathreeaone",
+        "title": "Фактически отработанное время в среднем на одного занятого в год",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaeightathreeaone/data-2021-02-18-structure-2021-02-18.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenanineatwoafour",
+        "title": "Фонд оплаты труда работников органа исполнительной власти в области лесных отношений",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenanineatwoafour/data-2022-03-28-structure-2022-03-28.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneasixanine",
+        "title": "Численность иностранной рабочей силы (патенты)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneasixanine/data-2018-07-06-structure-2018-07-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneasixaseven",
+        "title": "Численность иностранной рабочей силы (разрешения на работу)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneasixaseven/data-2018-07-06-structure-2018-07-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenasixasix",
+        "title": "Численность безработной молодежи в возрасте 15-29 лет по общеобразовательной подготовке и уровню образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenasixasix/data-2022-08-16-structure-2022-08-16.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightazeroafiveaeight",
+        "title": "Численность безработных граждан в моногородах, зарегистрированных в органах службы занятости, приходящаяся на одну вакансию",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightazeroafiveaeight/data-2017-05-29-structure-2017-05-29.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightazeroafiveanine",
+        "title": "Численность безработных граждан моногородов, зарегистрированных в органах службы занятости населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightazeroafiveanine/data-2017-05-29-structure-2017-05-29.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaoneafourazero",
+        "title": "Численность безработных граждан, зарегистрированных в государственных учреждениях службы занятости и получающих пособие по безработице на конец отчетного периода",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaoneafourazero/data-2018-09-12-structure-2018-09-12.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoafiveazero",
+        "title": "Численность безработных граждан, зарегистрированных в государственных учреждениях службы занятости населения",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoafiveazero/data-2018-09-04-structure-2018-09-04.xml"
+    },
+    {
+        "identifier": "7708234640-threeasixatwoafouranine",
+        "title": "Численность безработных граждан, зарегистрированных в государственных учреждениях службы занятости населения и получающих социальные выплаты",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasixatwoafouranine/data-2018-09-17-structure-2018-09-17.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeaoneafourathree",
+        "title": "Численность безработных граждан, которые закончили профессиональное обучение в течении отчетного периода",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeaoneafourathree/data-2012-12-07-structure-2012-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveathreeaseven",
+        "title": "Численность безработных международных трудящихся-мигрантов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveathreeaseven/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafourafiveathree",
+        "title": "Численность выбывших работников по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafourafiveathree/data-2020-08-25-structure-2020-08-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneafouraeight",
+        "title": "Численность выбывших работников с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneafouraeight/data-2020-08-26-structure-2020-08-26.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourazeroafouraseven",
+        "title": "Численность выбывших работников списочного состава в % к списочной численности по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourazeroafouraseven/data-2020-08-25-structure-2020-08-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasevenasixafive",
+        "title": "Численность выбывших работников списочного состава в % к списочной численности с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasevenasixafive/data-2022-11-15-structure-2022-11-15.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveazeroanineafive",
+        "title": "Численность выбывших работников списочного состава в связи с сокращением численности работников по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveazeroanineafive/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasevenafiveatwo",
+        "title": "Численность выбывших работников списочного состава в связи с сокращением численности работников с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasevenafiveatwo/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourazeroafourasix",
+        "title": "Численность выбывших работников списочного состава по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourazeroafourasix/data-2023-08-01-structure-2023-08-01.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveazeroanineasix",
+        "title": "Численность выбывших работников списочного состава по собственному желанию по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveazeroanineasix/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasevenafiveafive",
+        "title": "Численность выбывших работников списочного состава по собственному желанию с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasevenafiveafive/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveazeroanineafour",
+        "title": "Численность выбывших работников списочного состава по соглашению сторон по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveazeroanineafour/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasevenasixatwo",
+        "title": "Численность выбывших работников списочного состава по соглашению сторон с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasevenasixatwo/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasevenafiveazero",
+        "title": "Численность выбывших работников списочного состава с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasevenafiveazero/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixatwoaseven",
+        "title": "Численность граждан, которым впервые установлены проценты утраты профессиональной трудоспособности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixatwoaseven/data-2018-10-02-structure-2018-10-02.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafourasevenasix",
+        "title": "Численность граждан, проходящих альтернативную гражданскую службу",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafourasevenasix/data-2023-09-12-structure-2023-09-12.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourazeroafiveaone",
+        "title": "Численность занятых",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourazeroafiveaone/data-2023-09-07-structure-2023-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroanineasevenaone",
+        "title": "Численность занятых (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroanineasevenaone/data-2023-09-07-structure-2023-09-07.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoatwoaeightaeight",
+        "title": "Численность занятых в организациях транспортного комплекса",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoatwoaeightaeight/data-2023-04-21-structure-2023-04-21.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenaoneatwoatwo",
+        "title": "Численность занятых в сфере индивидуального предпринимательства за 2010,2015 гг.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenaoneatwoatwo/data-2023-09-22-structure-2023-09-22.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneaoneasevenaone",
+        "title": "Численность занятых в сфере малого и среднего предпринимательства, включая индивидуальных предпринимателей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneaoneasevenaone/data-2023-03-01-structure-2023-03-01.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveafourafive",
+        "title": "Численность занятых в сфере малого и среднего предпринимательства, включая индивидуальных предпринимателей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveafourafive/data-2019-10-01-structure-2019-10-01.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveathreeasix",
+        "title": "Численность занятых международных трудящихся-мигрантов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveathreeasix/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasevenazeroaseven",
+        "title": "Численность занятых по полу",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasevenazeroaseven/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasevenaoneathree",
+        "title": "Численность занятых по полу и возрастным группам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasevenaoneathree/data-2021-03-31-structure-2021-03-31.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneanineathree",
+        "title": "Численность занятых по полу и возрастным группам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneanineathree/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneanineafive",
+        "title": "Численность занятых по секторам экономики",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneanineafive/data-2021-01-13-structure-2021-01-13.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasevenatwoazero",
+        "title": "Численность занятых по секторам экономики",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasevenatwoazero/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneanineaseven",
+        "title": "Численность занятых, работающих в условиях неполной занятости, по полу",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneanineaseven/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneanineasix",
+        "title": "Численность занятых, работающих в условиях полной занятости, по полу",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneanineasix/data-2021-01-13-structure-2021-01-13.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourazeroafiveatwo",
+        "title": "Численность индивидуальных предпринимателей, осуществлявших предпринимательскую деятельность за 2009 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourazeroafiveatwo/data-2021-12-07-structure-2021-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeathreeanineasix",
+        "title": "Численность иностранных граждан - квалифицированных специалистов, привлекаемых на территорию Российской Федерации в соответствии с перечнем профессий (специальностей, должностей) иностранных граждан – квалифицированных специалистов, трудоустраивающихся по имеющейся профессии (специальности), на которых квоты не распространяются, по данным ФМС России (по 2014 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeathreeanineasix/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeathreeanineanine",
+        "title": "Численность иностранных граждан, получивших разрешение на работу в текущем году, по данным ФМС России (по 2014 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeathreeanineanine/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneasevenazero",
+        "title": "Численность иностранных граждан, работающих по трудовым договорам и гражданско-правовым договорам, выявленная в результате проверок",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneasevenazero/data-2018-07-06-structure-2018-07-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveafourazero",
+        "title": "Численность иностранных трудовых мигрантов, выполнявших работу у предпринимателей",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveafourazero/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneafiveasevenaeight",
+        "title": "Численность иностранных трудовых мигрантов, привлекавшихся домохозяйствами для выполнения работ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneafiveasevenaeight/data-2020-09-09-structure-2020-09-09.xml"
+    },
+    {
+        "identifier": "7710539135-fiveathreeathreeasevenathree",
+        "title": "Численность лиц, обученных в организации по дополнительным профессиональным программам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7710539135-fiveathreeathreeasevenathree/data-2017-06-21-structure-2017-06-21.xml"
+    },
+    {
+        "identifier": "7710539135-fiveathreeathreeasevenaeight",
+        "title": "Численность лиц, обученных в организации по программам повышения квалификации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7710539135-fiveathreeathreeasevenaeight/data-2017-06-21-structure-2017-06-21.xml"
+    },
+    {
+        "identifier": "7710539135-fiveathreeathreeasevenanine",
+        "title": "Численность лиц, обученных в организации по программам повышения квалификации в объеме от 16 до 72 часов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7710539135-fiveathreeathreeasevenanine/data-2017-06-21-structure-2017-06-21.xml"
+    },
+    {
+        "identifier": "7710539135-fiveathreeathreeasevenasix",
+        "title": "Численность лиц, обученных в организации по программам повышения квалификации в объеме от 72 часов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7710539135-fiveathreeathreeasevenasix/data-2017-06-21-structure-2017-06-21.xml"
+    },
+    {
+        "identifier": "7710539135-fiveaeightatwoasixafour",
+        "title": "Численность лиц, обученных в организациях по программам профессиональной переподготовки",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7710539135-fiveaeightatwoasixafour/data-2017-12-18-structure-2017-12-18.xml"
+    },
+    {
+        "identifier": "7710539135-sixaoneaoneazeroaeight",
+        "title": "Численность лиц, прошедших обучение по дополнительным профессиональным программам в образовательных организациях высшего образования, в том числе посредством онлайн-курсов (S4)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7710539135-sixaoneaoneazeroaeight/data-2022-02-14-structure-2022-02-14.xml"
+    },
+    {
+        "identifier": "7710539135-fiveathreeathreeasevenafive",
+        "title": "Численность лиц, прошедших профессиональную переподготовку (500 часов и выше)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7710539135-fiveathreeathreeasevenafive/data-2017-06-21-structure-2017-06-21.xml"
+    },
+    {
+        "identifier": "7710539135-fiveathreeathreeasevenaseven",
+        "title": "Численность лиц, прошедших профессиональную переподготовку (от 250 до 500 часов)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7710539135-fiveathreeathreeasevenaseven/data-2017-06-21-structure-2017-06-21.xml"
+    },
+    {
+        "identifier": "7707418081-fiveanineasixafouranine",
+        "title": "Численность мастеров производственного обучения в организациях, осуществляющих образовательную деятельность по образовательным программам среднего профессионального образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-fiveanineasixafouranine/data-2023-09-11-structure-2023-09-11.xml"
+    },
+    {
+        "identifier": "7708234640-threeafouraoneaeightafour",
+        "title": "Численность медицинских кадров, имеющих высшую и первую квалификационные категории",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafouraoneaeightafour/data-2021-04-01-structure-2021-04-01.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineafiveathreeathree",
+        "title": "Численность международных трудящихся-мигрантов (рабочая сила)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineafiveathreeathree/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineasevenasixaseven",
+        "title": "Численность молодежи в возрасте 15-29 лет, не входящей в состав рабочей силы, по общеобразовательной подготовке и уровню образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineasevenasixaseven/data-2022-08-16-structure-2022-08-16.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafouranineazero",
+        "title": "Численность наемных работников, занятых в сфере предпринимательской деятельности без образования юридического лица с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafouranineazero/data-2021-07-07-structure-2021-07-07.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroasixafiveafour",
+        "title": "Численность наемных работников, занятых в сфере предпринимательской деятельности без образования юридического лица за 2009 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroasixafiveafour/data-2021-12-07-structure-2021-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeazeroaoneafive",
+        "title": "Численность наемных работников, занятых в сфере предпринимательской деятельности без образования юридического лица по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeazeroaoneafive/data-2021-12-07-structure-2021-12-07.xml"
+    },
+    {
+        "identifier": "7707418081-fiveanineasixafiveaeight",
+        "title": "Численность обученных по программам переподготовки рабочих, служащих",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-fiveanineasixafiveaeight/data-2023-09-11-structure-2023-09-11.xml"
+    },
+    {
+        "identifier": "7707418081-fiveanineasixafiveaseven",
+        "title": "Численность обученных по программам профессиональной подготовки по профессиям рабочих, служащих",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-fiveanineasixafiveaseven/data-2023-09-11-structure-2023-09-11.xml"
+    },
+    {
+        "identifier": "7708234640-threeafouraoneaeightafive",
+        "title": "Численность пострадавших на производстве, частично утративших трудоспособность и переведенных с основной работы на другую на 1 рабочий день и более в соответствии с медицинским заключением",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafouraoneaeightafive/data-2018-02-06-structure-2018-02-06.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafiveafiveaeight",
+        "title": "Численность пострадавших при несчастных случаях на производстве с утратой трудоспособности на 1 рабочий день и более и со смертельным исходом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafiveafiveaeight/data-2018-02-21-structure-2018-02-21.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneafiveafiveanine",
+        "title": "Численность пострадавших при несчастных случаях на производстве со смертельным исходом",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneafiveafiveanine/data-2018-02-06-structure-2018-02-06.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineasixasix",
+        "title": "Численность преподавателей государственных образовательных учреждений среднего профессионального образования субъекта Российской Федерации (физические лица)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineasixasix/data-2023-02-20-structure-2023-02-20.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafourasixafive",
+        "title": "Численность принятых работников по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafourasixafive/data-2020-08-25-structure-2020-08-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneafourafive",
+        "title": "Численность принятых работников с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneafourafive/data-2020-08-26-structure-2020-08-26.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourazeroafiveasix",
+        "title": "Численность принятых работников списочного состава в % к списочной численности по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourazeroafiveasix/data-2020-08-25-structure-2020-08-25.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasevenasixafour",
+        "title": "Численность принятых работников списочного состава в % к списочной численности с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasevenasixafour/data-2022-11-15-structure-2022-11-15.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveazeroanineaseven",
+        "title": "Численность принятых работников списочного состава на дополнительно введенные (созданные) рабочие места по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveazeroanineaseven/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasevenafourathree",
+        "title": "Численность принятых работников списочного состава на дополнительно введенные (созданные) рабочие места с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasevenafourathree/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourazeroafiveafive",
+        "title": "Численность принятых работников списочного состава по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourazeroafiveafive/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasevenafouratwo",
+        "title": "Численность принятых работников списочного состава с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasevenafouratwo/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoanineasixaeight",
+        "title": "Численность прочего персонала государственных образовательных учреждений среднего профессионального образования субъекта Российской Федерации (административно-управленческого, учебно-вспомогательного, младшего обслуживающего персонала, а также педагогических работников, не осуществляющих учебный процесс) (физические лица)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoanineasixaeight/data-2023-02-20-structure-2023-02-20.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafiveasevenafive",
+        "title": "Численность работающих на территории других субъектов Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafiveasevenafive/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafiveasevenasix",
+        "title": "Численность работающих на территории своего субъекта Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafiveasevenasix/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-threeanineasixaeightasix",
+        "title": "Численность работников - всего по состоянию на 31 декабря отчетного года",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeanineasixaeightasix/data-2021-06-23-structure-2021-06-23.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneatwoaeightafive",
+        "title": "Численность работников в расчете на 1 субъекта малого и среднего предпринимательства (I5)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneatwoaeightafive/data-2022-02-07-structure-2022-02-07.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneasevenasevenafour",
+        "title": "Численность работников на конец отчетного периода, фактически, с 2020 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneasevenasevenafour/data-2021-12-03-structure-2021-12-03.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoafourathreeasix",
+        "title": "Численность работников на конец отчетного периода, фактически, за 2019г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoafourathreeasix/data-2023-08-14-structure-2023-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourazeroafiveaeight",
+        "title": "Численность работников на конец отчетного периода, фактически, по 2018 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourazeroafiveaeight/data-2023-08-14-structure-2023-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafiveasevenathree",
+        "title": "Численность работников по категориям персонала и возрасту, получивших дополнительное профессиональное образование, прошедших профессиональное обучение от общей численности работников по 2013 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafiveasevenathree/data-2021-07-01-structure-2021-07-01.xml"
+    },
+    {
+        "identifier": "7708234640-sixatwoaoneanineaeight",
+        "title": "Численность работников списочного состава на конец отчетного квартала",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixatwoaoneanineaeight/data-2022-09-28-structure-2022-09-28.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroasevenasevenafive",
+        "title": "Численность работников списочного состава, использовавших компьютер",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroasevenasevenafive/data-2023-03-01-structure-2023-03-01.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroasevenasevenaseven",
+        "title": "Численность работников списочного состава, использовавших сеть Интернет",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroasevenasevenaseven/data-2023-03-01-structure-2023-03-01.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveafiveaeight",
+        "title": "Численность работников списочного состава, находившихся в простое по вине работодателя и по причинам, не зависящим от работодателя и работника по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveafiveaeight/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasevenasevenafive",
+        "title": "Численность работников списочного состава, находившихся в простое по вине работодателя и по причинам, не зависящим от работодателя и работника с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasevenasevenafive/data-2021-11-29-structure-2021-11-29.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeasixatwoaeight",
+        "title": "Численность работников, замещавших государственные (муниципальные) должности и должности государственной гражданской (муниципальной) службы, получивших дополнительное профессиональное образование по 2019 г",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeasixatwoaeight/data-2023-04-12-structure-2023-04-12.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroanineasixaeight",
+        "title": "Численность работников, замещавших государственные (муниципальные) должности и должности государственной гражданской (муниципальной) службы, получивших дополнительное профессиональное образование с 2020 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroanineasixaeight/data-2023-03-22-structure-2023-03-22.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroasixazeroafive",
+        "title": "Численность работников, замещавших государственные (муниципальные) должности и должности государственной гражданской (муниципальной) службы, фактически по полу",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroasixazeroafive/data-2020-08-27-structure-2020-08-27.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroasixazeroasix",
+        "title": "Численность работников, замещавших государственные (муниципальные) должности и должности государственной гражданской (муниципальной) службы, фактически по стажу",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroasixazeroasix/data-2020-08-27-structure-2020-08-27.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoatwoaeightasix",
+        "title": "Численность работников, замещающих должности руководителей и специалистов сельскохозяйственных организаций",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoatwoaeightasix/data-2021-09-03-structure-2021-09-03.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenafourathreeatwo",
+        "title": "Численность работников, занятых в организациях (хозяйствах) (окончательные итоги)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenafourathreeatwo/data-2020-08-24-structure-2020-08-24.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeazeroazeroathree",
+        "title": "Численность работников, намеченных к высвобождению в следующем отчетном периоде по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeazeroazeroathree/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasevenafiveaeight",
+        "title": "Численность работников, намеченных к высвобождению в следующем отчетном периоде с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasevenafiveaeight/data-2023-08-07-structure-2023-08-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafourasixasix",
+        "title": "Численность работников, непосредственно вовлеченных в забастовку по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafourasixasix/data-2020-08-18-structure-2020-08-18.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightazeroaeightafour",
+        "title": "Численность работников, непосредственно вовлеченных в забастовку с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightazeroaeightafour/data-2022-03-25-structure-2022-03-25.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafouranineaone",
+        "title": "Численность работников, по категориям персонала и возрасту, прошедших обучение, получивших образование от общей численности работников",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafouranineaone/data-2021-12-03-structure-2021-12-03.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneafouraeightanine",
+        "title": "Численность работников, получивших дополнительное профессиональное образование по программам от численности работников, получивших дополнительное профессиональное образование",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneafouraeightanine/data-2021-12-03-structure-2021-12-03.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafiveasevenatwo",
+        "title": "Численность работников, получивших дополнительное профессиональное образование по программам от численности работников, получивших дополнительное профессиональное образование по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafiveasevenatwo/data-2023-02-10-structure-2023-02-10.xml"
+    },
+    {
+        "identifier": "7708234640-fourazeroafiveasevenafour",
+        "title": "Численность работников, получивших дополнительное профессиональное образование, прошедших профессиональное обучение по 2013 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourazeroafiveasevenafour/data-2021-07-01-structure-2021-07-01.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenanineafouratwo",
+        "title": "Численность работников, предполагаемых к увольнению",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenanineafouratwo/data-2022-01-31-structure-2022-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenanineasevenaeight",
+        "title": "Численность работников, прошедших обучение, получивших образование в 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenanineasevenaeight/data-2023-02-10-structure-2023-02-10.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeazeroazeroafive",
+        "title": "Численность работников, работавших неполное рабочее время по инициативе работодателя по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeazeroazeroafive/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasevenasevenazero",
+        "title": "Численность работников, работавших неполное рабочее время по инициативе работодателя с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasevenasevenazero/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeazeroazeroafour",
+        "title": "Численность работников, работавших неполное рабочее время по соглашению между работником и работодателем по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeazeroazeroafour/data-2020-08-14-structure-2020-08-14.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasevenasevenafour",
+        "title": "Численность работников, работавших неполное рабочее время по соглашению между работником и работодателем с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasevenasevenafour/data-2022-11-15-structure-2022-11-15.xml"
+    },
+    {
+        "identifier": "7708234640-threeafourazeroasixaone",
+        "title": "Численность рабочей силы",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafourazeroasixaone/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroanineasevenazero",
+        "title": "Численность рабочей силы (оперативные данные)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroanineasevenazero/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasevenazeroafive",
+        "title": "Численность рабочей силы по полу",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasevenazeroafive/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightasevenaoneafive",
+        "title": "Численность рабочей силы по полу и возрастным группам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightasevenaoneafive/data-2021-03-31-structure-2021-03-31.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineaoneanineaone",
+        "title": "Численность рабочей силы по полу и возрастным группам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineaoneanineaone/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightaoneasixaeight",
+        "title": "Численность российских граждан, выехавших на работу за границу",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightaoneasixaeight/data-2018-07-06-structure-2018-07-06.xml"
+    },
+    {
+        "identifier": "7708234640-fiveathreeathreeazeroafive",
+        "title": "Численность российских граждан, выехавших на работу за границу при содействии организаций, имеющих лицензию на этот вид деятельности, по данным ФМС России (по 2014 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveathreeathreeazeroafive/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneafiveaeightazero",
+        "title": "Численность российских трудовых мигрантов, привлекавшихся домохозяйствами для выполнения работ",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneafiveaeightazero/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-threeafiveanineasixaeight",
+        "title": "Численность семей лиц, снятых с учета за 2 квартал из числа подавших заявление о предоставлении временного убежища в текущем году (дальнее зарубежье), по данным ФМС России (по 2011 год)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeafiveanineasixaeight/data-2017-12-04-structure-2017-12-04.xml"
+    },
+    {
+        "identifier": "7710539135-sixatwoafourasevenafive",
+        "title": "Численность слушателей в возрасте 15 лет и старше, обученных по дополнительным профессиональным программам",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7710539135-sixatwoafourasevenafive/data-2023-10-05-structure-2023-10-05.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveazeroanineanine",
+        "title": "Численность требуемых работников списочного состава на вакантные рабочие места на конец отчетного квартала по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveazeroanineanine/data-2020-08-26-structure-2020-08-26.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenasevenasixaeight",
+        "title": "Численность требуемых работников списочного состава на вакантные рабочие места на конец отчетного квартала с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenasevenasixaeight/data-2022-11-15-structure-2022-11-15.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaoneafiveaeightafour",
+        "title": "Численность трудовых мигрантов, привлекавшихся на работу предпринимателями",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaoneafiveaeightafour/data-2020-09-10-structure-2020-09-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveasevenafiveaoneatwo",
+        "title": "Численность трудоустроившихся выпускников образовательных организаций со средним профессиональным образованием по программам подготовки специалистов среднего звена по группам профессий (специальностей)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveasevenafiveaoneatwo/data-2020-09-09-structure-2020-09-09.xml"
+    },
+    {
+        "identifier": "7707418081-fiveanineasixazeroasix",
+        "title": "Численность учителей в организациях, осуществляющих образовательную деятельность по образовательным программам начального общего, основного общего, среднего общего образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-fiveanineasixazeroasix/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeazeroazeroatwo",
+        "title": "Численность фактически действующих индивидуальных предпринимателей по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeazeroazeroatwo/data-2021-12-07-structure-2021-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafouraeightaseven",
+        "title": "Численность фактически действующих индивидуальных предпринимателей с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafouraeightaseven/data-2021-07-07-structure-2021-07-07.xml"
+    },
+    {
+        "identifier": "7708234640-fiveafiveaoneazeroafour",
+        "title": "Число высокопроизводительных рабочих мест по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveafiveaoneazeroafour/data-2023-09-21-structure-2023-09-21.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafouraeightazero",
+        "title": "Число высокопроизводительных рабочих мест с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafouraeightazero/data-2023-09-21-structure-2023-09-21.xml"
+    },
+    {
+        "identifier": "7707418081-sixaoneaoneafiveathree",
+        "title": "Число граждан, охваченных проведением профессиональных конкурсов, в целях предоставления возможностей для профессионального и карьерного роста (EA)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7707418081-sixaoneaoneafiveathree/data-2023-09-08-structure-2023-09-08.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixanineaone",
+        "title": "Число дней временной нетрудоспособности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixanineaone/data-2013-12-12-structure-2013-12-12.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixanineazero",
+        "title": "Число дней временной нетрудоспособности на 100 работающих",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixanineazero/data-2013-12-12-structure-2013-12-12.xml"
+    },
+    {
+        "identifier": "7708234640-fiveaeightafouranineatwo",
+        "title": "Число занятых в бизнесе индивидуального предпринимателя с 2017 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveaeightafouranineatwo/data-2021-07-07-structure-2021-07-07.xml"
+    },
+    {
+        "identifier": "7708234640-fourathreeafiveaoneaseven",
+        "title": "Число занятых в бизнесе индивидуального предпринимателя по 2016 г.",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fourathreeafiveaoneaseven/data-2021-12-07-structure-2021-12-07.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeafouraone",
+        "title": "Число лиц с впервые установленным диагнозом профессионального заболевания (отравления)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeafouraone/data-2012-10-31-structure-2012-10-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeasevenathreeathreeanine",
+        "title": "Число лиц с впервые установленным диагнозом хронического профессионального заболевания (отравления)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeasevenathreeathreeanine/data-2012-10-31-structure-2012-10-31.xml"
+    },
+    {
+        "identifier": "7708234640-threeathreeafourasevenasix",
+        "title": "Число негосударственных образовательных учреждений, реализующих программы высшего профессионального образования",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeathreeafourasevenasix/data-2022-06-01-structure-2022-06-01.xml"
+    },
+    {
+        "identifier": "7708234640-threeaeightatwoafiveafive",
+        "title": "Число обследованных рабочих мест на уровни физических факторов",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaeightatwoafiveafive/data-2012-10-31-structure-2012-10-31.xml"
+    },
+    {
+        "identifier": "7708234640-sixazeroaeightasixafive",
+        "title": "Число организаций, использовавших сеть Интернет для внутреннего/внешнего набора персонала",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixazeroaeightasixafive/data-2023-03-01-structure-2023-03-01.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasevenasevenatwo",
+        "title": "Число погибших в авариях членов экипажа",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasevenasevenatwo/data-2013-08-20-structure-2013-08-20.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafiveatwoazero",
+        "title": "Число погибших на море членов экипажа",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafiveatwoazero/data-2012-01-31-structure-2012-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafiveaoneatwo",
+        "title": "Число погибших членов экипажа при аварийных случаях с морскими судами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafiveaoneatwo/data-2012-01-31-structure-2012-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafouranineaseven",
+        "title": "Число погибших членов экипажа при аварийных случаях с рыбопромысловыми судами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafouranineaseven/data-2012-01-31-structure-2012-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafiveazeroafour",
+        "title": "Число погибших членов экипажа при аварийных случаях с судами смешанного (река-море) плавания",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafiveazeroafour/data-2012-03-11-structure-2012-03-11.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafiveaoneanine",
+        "title": "Число получивших тяжкие телесные повреждения на море в прямой связи с эксплуатацией судна",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafiveaoneanine/data-2012-01-31-structure-2012-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafiveaoneaseven",
+        "title": "Число получивших тяжкие телесные повреждения членов экипажа на море",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafiveaoneaseven/data-2012-01-31-structure-2012-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafiveazeroanine",
+        "title": "Число получивших тяжкие телесные повреждения членов экипажа при аварийных случаях с морскими судами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafiveazeroanine/data-2012-01-31-structure-2012-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneafouranineafour",
+        "title": "Число получивших тяжкие телесные повреждения членов экипажа при аварийных случаях с рыбопромысловыми судами",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneafouranineafour/data-2012-01-31-structure-2012-01-31.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixaeightanine",
+        "title": "Число случаев временной нетрудоспособности",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixaeightanine/data-2013-12-10-structure-2013-12-10.xml"
+    },
+    {
+        "identifier": "7708234640-fouraoneasixaeightaeight",
+        "title": "Число случаев временной нетрудоспособности на 100 работающих",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouraoneasixaeightaeight/data-2013-12-10-structure-2013-12-10.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroasixaone",
+        "title": "Число сотрудников морских вокзалов (терминалов), речных вокзалов (причалов)",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroasixaone/data-2021-04-16-structure-2021-04-16.xml"
+    },
+    {
+        "identifier": "7708234640-fiveanineazeroasixazero",
+        "title": "Число сотрудников, прошедших инструктирование или обучение для работы с инвалидами по вопросам, связанным с обеспечением доступности для них объектов и услуг в соответствии с законодательством Российской Федерации",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fiveanineazeroasixazero/data-2021-04-16-structure-2021-04-16.xml"
+    },
+    {
+        "identifier": "7708234640-fouratwoasevenasixanine",
+        "title": "Число травмированных при авариях членов экипажа",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-fouratwoasevenasixanine/data-2013-08-20-structure-2013-08-20.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeafouraseven",
+        "title": "Число часов, потерянных из-за аварий, ликвидированных в отчетном году, в бурении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeafouraseven/data-2022-08-09-structure-2022-08-09.xml"
+    },
+    {
+        "identifier": "7708234640-sixaoneathreeafourasix",
+        "title": "Число часов, потерянных из-за аварий, происшедших в бурении",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-sixaoneathreeafourasix/data-2022-08-09-structure-2022-08-09.xml"
+    },
+    {
+        "identifier": "7708234640-threeaoneasixatwoathree",
+        "title": "Число человеко-дней нетрудоспособности у пострадавших при несчастных случаях на производстве с утратой трудоспособности на 1 рабочий день и более, временная нетрудоспособность которых закончилась в отчетном периоде",
+        "format": "xml",
+        "link": "https://fedstat.ru/opendata/7708234640-threeaoneasixatwoathree/data-2018-02-06-structure-2018-02-06.xml"
+    }
+]
