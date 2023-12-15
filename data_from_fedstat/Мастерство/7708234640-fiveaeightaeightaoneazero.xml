@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericData
+ xmlns="http://www.SDMX.org/resources/SDMXML/schemas/v1_0/message"
+ xmlns:common="http://www.SDMX.org/resources/SDMXML/schemas/v1_0/common"
+ xmlns:compact="http://www.SDMX.org/resources/SDMXML/schemas/v1_0/compact"
+ xmlns:cross="http://www.SDMX.org/resources/SDMXML/schemas/v1_0/cross"
+ xmlns:generic="http://www.SDMX.org/resources/SDMXML/schemas/v1_0/generic"
+ xmlns:query="http://www.SDMX.org/resources/SDMXML/schemas/v1_0/query"
+ xmlns:structure="http://www.SDMX.org/resources/SDMXML/schemas/v1_0/structure"
+ xmlns:utility="http://www.SDMX.org/resources/SDMXML/schemas/v1_0/utility"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.SDMX.org/resources/SDMXML/schemas/v1_0/message SDMXMessage.xsd">
+<Header Id="singHead">
+	<ID>738810540</ID>
+	<Test>false</Test>
+	<Truncated>false</Truncated>
+	<Prepared>2023-12-02T22:37:39</Prepared>
+	<Extracted>2023-12-02T22:37:39</Extracted>
+	<Sender id="UIS">
+		<Name xml:lang="en">Official statistics</Name>
+		<Name xml:lang="ru">Государственная статистика</Name>
+	</Sender>
+	<DataSetAgency>1</DataSetAgency>
+	<DataSetID>9470022</DataSetID>
+</Header>
+<CodeLists>
+	<structure:CodeList id="s_OKVED2">
+		<structure:Name xml:lang="ru">Классификатор видов экономической деятельности (ОКВЭД2)</structure:Name>
+		<structure:Code value="B">
+			<structure:Description xml:lang="ru">ДОБЫЧА ПОЛЕЗНЫХ ИСКОПАЕМЫХ</structure:Description>
+		</structure:Code>
+		<structure:Code value="05">
+			<structure:Description xml:lang="ru">Добыча угля</structure:Description>
+		</structure:Code>
+		<structure:Code value="06">
+			<structure:Description xml:lang="ru">Добыча нефти и природного газа</structure:Description>
+		</structure:Code>
+		<structure:Code value="07">
+			<structure:Description xml:lang="ru">Добыча металлических руд</structure:Description>
+		</structure:Code>
+		<structure:Code value="08">
+			<structure:Description xml:lang="ru">Добыча прочих полезных ископаемых</structure:Description>
+		</structure:Code>
+		<structure:Code value="09">
+			<structure:Description xml:lang="ru">Предоставление услуг в области добычи полезных ископаемых</structure:Description>
+		</structure:Code>
+		<structure:Code value="C">
+			<structure:Description xml:lang="ru">ОБРАБАТЫВАЮЩИЕ ПРОИЗВОДСТВА</structure:Description>
+		</structure:Code>
+		<structure:Code value="10">
+			<structure:Description xml:lang="ru">Производство пищевых продуктов</structure:Description>
+		</structure:Code>
+		<structure:Code value="11">
+			<structure:Description xml:lang="ru">Производство напитков</structure:Description>
+		</structure:Code>
+		<structure:Code value="12">
+			<structure:Description xml:lang="ru">Производство табачных изделий</structure:Description>
+		</structure:Code>
+		<structure:Code value="13">
+			<structure:Description xml:lang="ru">Производство текстильных изделий</structure:Description>
+		</structure:Code>
+		<structure:Code value="14">
+			<structure:Description xml:lang="ru">Производство одежды</structure:Description>
+		</structure:Code>
+		<structure:Code value="15">
+			<structure:Description xml:lang="ru">Производство кожи и изделий из кожи</structure:Description>
+		</structure:Code>
+		<structure:Code value="16">
+			<structure:Description xml:lang="ru">Обработка древесины и производство изделий из дерева и пробки, кроме мебели, производство изделий из соломки и материалов для плетения</structure:Description>
+		</structure:Code>
+		<structure:Code value="17">
+			<structure:Description xml:lang="ru">Производство бумаги и бумажных изделий</structure:Description>
+		</structure:Code>
+		<structure:Code value="18">
+			<structure:Description xml:lang="ru">Деятельность полиграфическая и копирование носителей информации</structure:Description>
+		</structure:Code>
+		<structure:Code value="19">
+			<structure:Description xml:lang="ru">Производство кокса и нефтепродуктов</structure:Description>
+		</structure:Code>
+		<structure:Code value="20">
+			<structure:Description xml:lang="ru">Производство химических веществ и химических продуктов</structure:Description>
+		</structure:Code>
+		<structure:Code value="21">
+			<structure:Description xml:lang="ru">Производство лекарственных средств и материалов, применяемых в медицинских целях и ветеринарии</structure:Description>
+		</structure:Code>
+		<structure:Code value="22">
+			<structure:Description xml:lang="ru">Производство резиновых и пластмассовых изделий</structure:Description>
+		</structure:Code>
+		<structure:Code value="23">
+			<structure:Description xml:lang="ru">Производство прочей неметаллической минеральной продукции</structure:Description>
+		</structure:Code>
+		<structure:Code value="24">
+			<structure:Description xml:lang="ru">Производство металлургическое</structure:Description>
+		</structure:Code>
+		<structure:Code value="25">
+			<structure:Description xml:lang="ru">Производство готовых металлических изделий, кроме машин и оборудования</structure:Description>
+		</structure:Code>
+		<structure:Code value="26">
+			<structure:Description xml:lang="ru">Производство компьютеров, электронных и оптических изделий</structure:Description>
+		</structure:Code>
+		<structure:Code value="27">
+			<structure:Description xml:lang="ru">Производство электрического оборудования</structure:Description>
+		</structure:Code>
+		<structure:Code value="28">
+			<structure:Description xml:lang="ru">Производство машин и оборудования, не включенных в другие группировки</structure:Description>
+		</structure:Code>
+		<structure:Code value="29">
+			<structure:Description xml:lang="ru">Производство автотранспортных средств, прицепов и полуприцепов</structure:Description>
+		</structure:Code>
+		<structure:Code value="30">
+			<structure:Description xml:lang="ru">Производство прочих транспортных средств и оборудования</structure:Description>
+		</structure:Code>
+		<structure:Code value="31">
+			<structure:Description xml:lang="ru">Производство мебели</structure:Description>
+		</structure:Code>
+		<structure:Code value="32">
+			<structure:Description xml:lang="ru">Производство прочих готовых изделий</structure:Description>
+		</structure:Code>
+		<structure:Code value="33">
+			<structure:Description xml:lang="ru">Ремонт и монтаж машин и оборудования</structure:Description>
+		</structure:Code>
+		<structure:Code value="D">
+			<structure:Description xml:lang="ru">ОБЕСПЕЧЕНИЕ ЭЛЕКТРИЧЕСКОЙ ЭНЕРГИЕЙ, ГАЗОМ И ПАРОМ; КОНДИЦИОНИРОВАНИЕ ВОЗДУХА</structure:Description>
+		</structure:Code>
+		<structure:Code value="35">
+			<structure:Description xml:lang="ru">Обеспечение электрической энергией, газом и паром; кондиционирование воздуха</structure:Description>
+		</structure:Code>
+		<structure:Code value="E">
+			<structure:Description xml:lang="ru">ВОДОСНАБЖЕНИЕ; ВОДООТВЕДЕНИЕ, ОРГАНИЗАЦИЯ СБОРА И УТИЛИЗАЦИИ ОТХОДОВ, ДЕЯТЕЛЬНОСТЬ ПО ЛИКВИДАЦИИ ЗАГРЯЗНЕНИЙ</structure:Description>
+		</structure:Code>
+		<structure:Code value="36">
+			<structure:Description xml:lang="ru">Забор, очистка и распределение воды</structure:Description>
+		</structure:Code>
+		<structure:Code value="37">
+			<structure:Description xml:lang="ru">Сбор и обработка сточных вод</structure:Description>
+		</structure:Code>
+		<structure:Code value="37.0">
+			<structure:Description xml:lang="ru">Сбор и обработка сточных вод</structure:Description>
+		</structure:Code>
+		<structure:Code value="38">
+			<structure:Description xml:lang="ru">Сбор, обработка и утилизация отходов; обработка вторичного сырья</structure:Description>
+		</structure:Code>
+		<structure:Code value="39">
+			<structure:Description xml:lang="ru">Предоставление услуг в области ликвидации последствий загрязнений и прочих услуг, связанных с удалением отходов</structure:Description>
+		</structure:Code>
+		<structure:Code value="F">
+			<structure:Description xml:lang="ru">СТРОИТЕЛЬСТВО</structure:Description>
+		</structure:Code>
+		<structure:Code value="41">
+			<structure:Description xml:lang="ru">Строительство зданий</structure:Description>
+		</structure:Code>
+		<structure:Code value="42">
+			<structure:Description xml:lang="ru">Строительство инженерных сооружений</structure:Description>
+		</structure:Code>
+		<structure:Code value="43">
+			<structure:Description xml:lang="ru">Работы строительные специализированные</structure:Description>
+		</structure:Code>
+		<structure:Code value="G">
+			<structure:Description xml:lang="ru">ТОРГОВЛЯ ОПТОВАЯ И РОЗНИЧНАЯ; РЕМОНТ АВТОТРАНСПОРТНЫХ СРЕДСТВ И МОТОЦИКЛОВ</structure:Description>
+		</structure:Code>
+		<structure:Code value="45">
+			<structure:Description xml:lang="ru">Торговля оптовая и розничная автотранспортными средствами и мотоциклами и их ремонт</structure:Description>
+		</structure:Code>
+		<structure:Code value="46">
+			<structure:Description xml:lang="ru">Торговля оптовая, кроме оптовой торговли автотранспортными средствами и мотоциклами</structure:Description>
+		</structure:Code>
+		<structure:Code value="47">
+			<structure:Description xml:lang="ru">Торговля розничная, кроме торговли автотранспортными средствами и мотоциклами</structure:Description>
+		</structure:Code>
+		<structure:Code value="H">
+			<structure:Description xml:lang="ru">ТРАНСПОРТИРОВКА И ХРАНЕНИЕ</structure:Description>
+		</structure:Code>
+		<structure:Code value="49">
+			<structure:Description xml:lang="ru">Деятельность сухопутного и трубопроводного транспорта</structure:Description>
+		</structure:Code>
+		<structure:Code value="49.3">
+			<structure:Description xml:lang="ru">Деятельность прочего сухопутного пассажирского транспорта</structure:Description>
+		</structure:Code>
+		<structure:Code value="50">
+			<structure:Description xml:lang="ru">Деятельность водного транспорта</structure:Description>
+		</structure:Code>
+		<structure:Code value="51">
+			<structure:Description xml:lang="ru">Деятельность воздушного и космического транспорта</structure:Description>
+		</structure:Code>
+		<structure:Code value="52">
+			<structure:Description xml:lang="ru">Складское хозяйство и вспомогательная транспортная деятельность</structure:Description>
+		</structure:Code>
+		<structure:Code value="53">
+			<structure:Description xml:lang="ru">Деятельность почтовой связи и курьерская деятельность</structure:Description>
+		</structure:Code>
+		<structure:Code value="I">
+			<structure:Description xml:lang="ru">ДЕЯТЕЛЬНОСТЬ ГОСТИНИЦ И ПРЕДПРИЯТИЙ ОБЩЕСТВЕННОГО ПИТАНИЯ</structure:Description>
+		</structure:Code>
+		<structure:Code value="55">
+			<structure:Description xml:lang="ru">Деятельность по предоставлению мест для временного проживания</structure:Description>
+		</structure:Code>
+		<structure:Code value="56">
+			<structure:Description xml:lang="ru">Деятельность по предоставлению продуктов питания и напитков</structure:Description>
+		</structure:Code>
+		<structure:Code value="J">
+			<structure:Description xml:lang="ru">ДЕЯТЕЛЬНОСТЬ В ОБЛАСТИ ИНФОРМАЦИИ И СВЯЗИ</structure:Description>
+		</structure:Code>
+		<structure:Code value="58">
+			<structure:Description xml:lang="ru">Деятельность издательская</structure:Description>
+		</structure:Code>
+		<structure:Code value="59">
+			<structure:Description xml:lang="ru">Производство кинофильмов, видеофильмов и телевизионных программ, издание звукозаписей и нот</structure:Description>
+		</structure:Code>
+		<structure:Code value="60">
+			<structure:Description xml:lang="ru">Деятельность в области телевизионного и радиовещания</structure:Description>
+		</structure:Code>
+		<structure:Code value="61">
+			<structure:Description xml:lang="ru">Деятельность в сфере телекоммуникаций</structure:Description>
+		</structure:Code>
+		<structure:Code value="63">
+			<structure:Description xml:lang="ru">Деятельность в области информационных технологий</structure:Description>
+		</structure:Code>
+		<structure:Code value="K">
+			<structure:Description xml:lang="ru">ДЕЯТЕЛЬНОСТЬ ФИНАНСОВАЯ И СТРАХОВАЯ</structure:Description>
+		</structure:Code>
+		<structure:Code value="64">
+			<structure:Description xml:lang="ru">Деятельность по предоставлению финансовых услуг, кроме услуг по страхованию и пенсионному обеспечению</structure:Description>
+		</structure:Code>
+		<structure:Code value="65">
+			<structure:Description xml:lang="ru">Страхование, перестрахование, деятельность негосударственных пенсионных фондов, кроме обязательного социального обеспечения</structure:Description>
+		</structure:Code>
+		<structure:Code value="66">
+			<structure:Description xml:lang="ru">Деятельность вспомогательная в сфере финансовых услуг и страхования</structure:Description>
+		</structure:Code>
+		<structure:Code value="L">
+			<structure:Description xml:lang="ru">ДЕЯТЕЛЬНОСТЬ ПО ОПЕРАЦИЯМ С НЕДВИЖИМЫМ ИМУЩЕСТВОМ</structure:Description>
+		</structure:Code>
+		<structure:Code value="68">
+			<structure:Description xml:lang="ru">Операции с недвижимым имуществом</structure:Description>
+		</structure:Code>
+		<structure:Code value="M">
+			<structure:Description xml:lang="ru">ДЕЯТЕЛЬНОСТЬ ПРОФЕССИОНАЛЬНАЯ, НАУЧНАЯ И ТЕХНИЧЕСКАЯ</structure:Description>
+		</structure:Code>
+		<structure:Code value="69">
+			<structure:Description xml:lang="ru">Деятельность в области права и бухгалтерского учета</structure:Description>
+		</structure:Code>
+		<structure:Code value="70">
+			<structure:Description xml:lang="ru">Деятельность головных офисов; консультирование по вопросам управления</structure:Description>
+		</structure:Code>
+		<structure:Code value="71">
+			<structure:Description xml:lang="ru">Деятельность в области архитектуры и инженерно-технического проектирования; технических испытаний, исследований и анализа</structure:Description>
+		</structure:Code>
+		<structure:Code value="72">
+			<structure:Description xml:lang="ru">Научные исследования и разработки</structure:Description>
+		</structure:Code>
+		<structure:Code value="73">
+			<structure:Description xml:lang="ru">Деятельность рекламная и исследование конъюнктуры рынка</structure:Description>
+		</structure:Code>
+		<structure:Code value="74">
+			<structure:Description xml:lang="ru">Деятельность профессиональная научная и техническая прочая</structure:Description>
+		</structure:Code>
+		<structure:Code value="75">
+			<structure:Description xml:lang="ru">Деятельность ветеринарная</structure:Description>
+		</structure:Code>
+		<structure:Code value="N">
+			<structure:Description xml:lang="ru">ДЕЯТЕЛЬНОСТЬ АДМИНИСТРАТИВНАЯ И СОПУТСТВУЮЩИЕ ДОПОЛНИТЕЛЬНЫЕ УСЛУГИ</structure:Description>
+		</structure:Code>
+		<structure:Code value="77">
+			<structure:Description xml:lang="ru">Аренда и лизинг</structure:Description>
+		</structure:Code>
+		<structure:Code value="78">
+			<structure:Description xml:lang="ru">Деятельность по трудоустройству и подбору персонала</structure:Description>
+		</structure:Code>
+		<structure:Code value="79">
+			<structure:Description xml:lang="ru">Деятельность туристических агентств и прочих организаций, предоставляющих услуги в сфере туризма</structure:Description>
+		</structure:Code>
+		<structure:Code value="80">
+			<structure:Description xml:lang="ru">Деятельность по обеспечению безопасности и проведению расследований</structure:Description>
+		</structure:Code>
+		<structure:Code value="81">
+			<structure:Description xml:lang="ru">Деятельность по обслуживанию зданий и территорий</structure:Description>
+		</structure:Code>
+		<structure:Code value="82">
+			<structure:Description xml:lang="ru">Деятельность административно-хозяйственная, вспомогательная деятельность по обеспечению функционирования организации, деятельность по предоставлению прочих вспомогательных услуг для бизнеса</structure:Description>
+		</structure:Code>
+		<structure:Code value="10.11.01.АГ">
+			<structure:Description xml:lang="ru">Производство пищевых продуктов; производство напитков; производство табачных изделий</structure:Description>
+		</structure:Code>
+		<structure:Code value="102.АГ">
+			<structure:Description xml:lang="ru">Промышленное производство (промышленность)</structure:Description>
+		</structure:Code>
+		<structure:Code value="24.25.01.АГ">
+			<structure:Description xml:lang="ru">Производство металлургическое; производство готовых металлических изделий, кроме машин и оборудования</structure:Description>
+		</structure:Code>
+		<structure:Code value="26.27.01.АГ">
+			<structure:Description xml:lang="ru">Производство компьютеров, электронных и оптических изделий; производство электрического оборудования; производство машин и оборудования, не включенных в другие группировки</structure:Description>
+		</structure:Code>
+		<structure:Code value="29.30.01.АГ">
+			<structure:Description xml:lang="ru">Производство автотранспортных средств, прицепов и полуприцепов; производство прочих транспортных средств и оборудования</structure:Description>
+		</structure:Code>
+		<structure:Code value="109.АГ">
+			<structure:Description xml:lang="ru">Всего по отдельным перечисленным видам экономической деятельности</structure:Description>
+		</structure:Code>
+		<structure:Code value="49.01.02.АГ">
+			<structure:Description xml:lang="ru">Деятельность железнодорожного транспорта: междугородные и международные пассажирские перевозки, грузовые перевозки</structure:Description>
+		</structure:Code>
+		<structure:Code value="118.АГ">
+			<structure:Description xml:lang="ru">Деятельность организаций, осуществляющих отдельные виды деятельности</structure:Description>
+		</structure:Code>
+		<structure:Code value="22.23.03.АГ">
+			<structure:Description xml:lang="ru">Другие виды обрабатывающих производств</structure:Description>
+		</structure:Code>
+		<structure:Code value="17.18.01.АГ">
+			<structure:Description xml:lang="ru">Производство бумаги и бумажных изделий; деятельность полиграфическая и копирование носителей информации</structure:Description>
+		</structure:Code>
+		<structure:Code value="13.14.02.АГ">
+			<structure:Description xml:lang="ru">Производство текстильных изделий; производство одежды</structure:Description>
+		</structure:Code>
+		<structure:Code value="20.21.01.АГ">
+			<structure:Description xml:lang="ru">Производство химических веществ и химических продуктов; производство лекарственных средств и материалов, применяемых в медицинских целях</structure:Description>
+		</structure:Code>
+		<structure:Code value="1323500.029.31">
+			<structure:Description xml:lang="ru">Собирательная классификационная группировка видов экономической деятельности &quot;Промышленность&quot; на основе ОКВЭД2 (КДЕС Ред. 2)</structure:Description>
+		</structure:Code>
+		<structure:Code value="62.0">
+			<structure:Description xml:lang="ru">Разработка компьютерного программного обеспечения, консультационные услуги в данной области и другие сопутствующие услуги</structure:Description>
+		</structure:Code>
+	</structure:CodeList>
+	<structure:CodeList id="s_OKATO">
+		<structure:Name xml:lang="ru">Классификатор объектов административно-территориального деления (ОКАТО)</structure:Name>
+		<structure:Code value="643">
+			<structure:Description xml:lang="ru">Российская Федерация</structure:Description>
+		</structure:Code>
+		<structure:Code value="030">
+			<structure:Description xml:lang="ru">Центральный федеральный округ</structure:Description>
+		</structure:Code>
+		<structure:Code value="14000000000">
+			<structure:Description xml:lang="ru">Белгородская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="15000000000">
+			<structure:Description xml:lang="ru">Брянская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="17000000000">
+			<structure:Description xml:lang="ru">Владимирская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="20000000000">
+			<structure:Description xml:lang="ru">Воронежская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="24000000000">
+			<structure:Description xml:lang="ru">Ивановская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="29000000000">
+			<structure:Description xml:lang="ru">Калужская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="34000000000">
+			<structure:Description xml:lang="ru">Костромская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="38000000000">
+			<structure:Description xml:lang="ru">Курская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="42000000000">
+			<structure:Description xml:lang="ru">Липецкая область</structure:Description>
+		</structure:Code>
+		<structure:Code value="46000000000">
+			<structure:Description xml:lang="ru">Московская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="54000000000">
+			<structure:Description xml:lang="ru">Орловская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="61000000000">
+			<structure:Description xml:lang="ru">Рязанская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="66000000000">
+			<structure:Description xml:lang="ru">Смоленская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="68000000000">
+			<structure:Description xml:lang="ru">Тамбовская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="28000000000">
+			<structure:Description xml:lang="ru">Тверская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="70000000000">
+			<structure:Description xml:lang="ru">Тульская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="78000000000">
+			<structure:Description xml:lang="ru">Ярославская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="45000000000">
+			<structure:Description xml:lang="ru">Город Москва столица Российской Федерации город федерального значения</structure:Description>
+		</structure:Code>
+		<structure:Code value="031">
+			<structure:Description xml:lang="ru">Северо-Западный федеральный округ</structure:Description>
+		</structure:Code>
+		<structure:Code value="86000000000">
+			<structure:Description xml:lang="ru">Республика Карелия</structure:Description>
+		</structure:Code>
+		<structure:Code value="87000000000">
+			<structure:Description xml:lang="ru">Республика Коми</structure:Description>
+		</structure:Code>
+		<structure:Code value="11000000000">
+			<structure:Description xml:lang="ru">Архангельская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="11100000000">
+			<structure:Description xml:lang="ru">Ненецкий автономный округ (Архангельская область)</structure:Description>
+		</structure:Code>
+		<structure:Code value="11001000000">
+			<structure:Description xml:lang="ru">Архангельская область (кроме Ненецкого автономного округа)</structure:Description>
+		</structure:Code>
+		<structure:Code value="19000000000">
+			<structure:Description xml:lang="ru">Вологодская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="27000000000">
+			<structure:Description xml:lang="ru">Калининградская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="41000000000">
+			<structure:Description xml:lang="ru">Ленинградская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="47000000000">
+			<structure:Description xml:lang="ru">Мурманская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="49000000000">
+			<structure:Description xml:lang="ru">Новгородская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="58000000000">
+			<structure:Description xml:lang="ru">Псковская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="40000000000">
+			<structure:Description xml:lang="ru">Город Санкт-Петербург город федерального значения</structure:Description>
+		</structure:Code>
+		<structure:Code value="040">
+			<structure:Description xml:lang="ru">Южный федеральный округ (с 29.07.2016)</structure:Description>
+		</structure:Code>
+		<structure:Code value="79000000000">
+			<structure:Description xml:lang="ru">Республика Адыгея (Адыгея)</structure:Description>
+		</structure:Code>
+		<structure:Code value="85000000000">
+			<structure:Description xml:lang="ru">Республика Калмыкия</structure:Description>
+		</structure:Code>
+		<structure:Code value="35000000000">
+			<structure:Description xml:lang="ru">Республика Крым</structure:Description>
+		</structure:Code>
+		<structure:Code value="03000000000">
+			<structure:Description xml:lang="ru">Краснодарский край</structure:Description>
+		</structure:Code>
+		<structure:Code value="12000000000">
+			<structure:Description xml:lang="ru">Астраханская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="18000000000">
+			<structure:Description xml:lang="ru">Волгоградская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="60000000000">
+			<structure:Description xml:lang="ru">Ростовская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="67000000000">
+			<structure:Description xml:lang="ru">Город федерального значения Севастополь</structure:Description>
+		</structure:Code>
+		<structure:Code value="038">
+			<structure:Description xml:lang="ru">Северо-Кавказский федеральный округ</structure:Description>
+		</structure:Code>
+		<structure:Code value="82000000000">
+			<structure:Description xml:lang="ru">Республика Дагестан</structure:Description>
+		</structure:Code>
+		<structure:Code value="26000000000">
+			<structure:Description xml:lang="ru">Республика Ингушетия</structure:Description>
+		</structure:Code>
+		<structure:Code value="83000000000">
+			<structure:Description xml:lang="ru">Кабардино-Балкарская Республика</structure:Description>
+		</structure:Code>
+		<structure:Code value="91000000000">
+			<structure:Description xml:lang="ru">Карачаево-Черкесская Республика</structure:Description>
+		</structure:Code>
+		<structure:Code value="90000000000">
+			<structure:Description xml:lang="ru">Республика Северная Осетия-Алания</structure:Description>
+		</structure:Code>
+		<structure:Code value="96000000000">
+			<structure:Description xml:lang="ru">Чеченская Республика</structure:Description>
+		</structure:Code>
+		<structure:Code value="07000000000">
+			<structure:Description xml:lang="ru">Ставропольский край</structure:Description>
+		</structure:Code>
+		<structure:Code value="033">
+			<structure:Description xml:lang="ru">Приволжский федеральный округ</structure:Description>
+		</structure:Code>
+		<structure:Code value="80000000000">
+			<structure:Description xml:lang="ru">Республика Башкортостан</structure:Description>
+		</structure:Code>
+		<structure:Code value="88000000000">
+			<structure:Description xml:lang="ru">Республика Марий Эл</structure:Description>
+		</structure:Code>
+		<structure:Code value="89000000000">
+			<structure:Description xml:lang="ru">Республика Мордовия</structure:Description>
+		</structure:Code>
+		<structure:Code value="92000000000">
+			<structure:Description xml:lang="ru">Республика Татарстан (Татарстан)</structure:Description>
+		</structure:Code>
+		<structure:Code value="94000000000">
+			<structure:Description xml:lang="ru">Удмуртская Республика</structure:Description>
+		</structure:Code>
+		<structure:Code value="97000000000">
+			<structure:Description xml:lang="ru">Чувашская Республика - Чувашия</structure:Description>
+		</structure:Code>
+		<structure:Code value="57000000000">
+			<structure:Description xml:lang="ru">Пермский край</structure:Description>
+		</structure:Code>
+		<structure:Code value="33000000000">
+			<structure:Description xml:lang="ru">Кировская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="22000000000">
+			<structure:Description xml:lang="ru">Нижегородская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="53000000000">
+			<structure:Description xml:lang="ru">Оренбургская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="56000000000">
+			<structure:Description xml:lang="ru">Пензенская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="36000000000">
+			<structure:Description xml:lang="ru">Самарская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="63000000000">
+			<structure:Description xml:lang="ru">Саратовская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="73000000000">
+			<structure:Description xml:lang="ru">Ульяновская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="034">
+			<structure:Description xml:lang="ru">Уральский федеральный округ</structure:Description>
+		</structure:Code>
+		<structure:Code value="37000000000">
+			<structure:Description xml:lang="ru">Курганская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="65000000000">
+			<structure:Description xml:lang="ru">Свердловская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="71000000000">
+			<structure:Description xml:lang="ru">Тюменская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="71100000000">
+			<structure:Description xml:lang="ru">Ханты-Мансийский автономный округ - Югра (Тюменская область)</structure:Description>
+		</structure:Code>
+		<structure:Code value="71140000000">
+			<structure:Description xml:lang="ru">Ямало-Ненецкий автономный округ (Тюменская область)</structure:Description>
+		</structure:Code>
+		<structure:Code value="71001000000">
+			<structure:Description xml:lang="ru">Тюменская область (кроме Ханты-Мансийского автономного округа-Югры и Ямало-Ненецкого автономного округа)</structure:Description>
+		</structure:Code>
+		<structure:Code value="75000000000">
+			<structure:Description xml:lang="ru">Челябинская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="035">
+			<structure:Description xml:lang="ru">Сибирский федеральный округ</structure:Description>
+		</structure:Code>
+		<structure:Code value="041">
+			<structure:Description xml:lang="ru">Сибирский федеральный округ</structure:Description>
+		</structure:Code>
+		<structure:Code value="84000000000">
+			<structure:Description xml:lang="ru">Республика Алтай</structure:Description>
+		</structure:Code>
+		<structure:Code value="93000000000">
+			<structure:Description xml:lang="ru">Республика Тыва</structure:Description>
+		</structure:Code>
+		<structure:Code value="95000000000">
+			<structure:Description xml:lang="ru">Республика Хакасия</structure:Description>
+		</structure:Code>
+		<structure:Code value="01000000000">
+			<structure:Description xml:lang="ru">Алтайский край</structure:Description>
+		</structure:Code>
+		<structure:Code value="04000000000">
+			<structure:Description xml:lang="ru">Красноярский край</structure:Description>
+		</structure:Code>
+		<structure:Code value="25000000000">
+			<structure:Description xml:lang="ru">Иркутская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="32000000000">
+			<structure:Description xml:lang="ru">Кемеровская область - Кузбасс</structure:Description>
+		</structure:Code>
+		<structure:Code value="50000000000">
+			<structure:Description xml:lang="ru">Новосибирская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="52000000000">
+			<structure:Description xml:lang="ru">Омская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="69000000000">
+			<structure:Description xml:lang="ru">Томская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="036">
+			<structure:Description xml:lang="ru">Дальневосточный федеральный округ</structure:Description>
+		</structure:Code>
+		<structure:Code value="042">
+			<structure:Description xml:lang="ru">Дальневосточный федеральный округ</structure:Description>
+		</structure:Code>
+		<structure:Code value="81000000000">
+			<structure:Description xml:lang="ru">Республика Бурятия</structure:Description>
+		</structure:Code>
+		<structure:Code value="76000000000">
+			<structure:Description xml:lang="ru">Забайкальский край</structure:Description>
+		</structure:Code>
+		<structure:Code value="98000000000">
+			<structure:Description xml:lang="ru">Республика Саха (Якутия)</structure:Description>
+		</structure:Code>
+		<structure:Code value="30000000000">
+			<structure:Description xml:lang="ru">Камчатский край</structure:Description>
+		</structure:Code>
+		<structure:Code value="05000000000">
+			<structure:Description xml:lang="ru">Приморский край</structure:Description>
+		</structure:Code>
+		<structure:Code value="08000000000">
+			<structure:Description xml:lang="ru">Хабаровский край</structure:Description>
+		</structure:Code>
+		<structure:Code value="10000000000">
+			<structure:Description xml:lang="ru">Амурская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="44000000000">
+			<structure:Description xml:lang="ru">Магаданская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="64000000000">
+			<structure:Description xml:lang="ru">Сахалинская область</structure:Description>
+		</structure:Code>
+		<structure:Code value="99000000000">
+			<structure:Description xml:lang="ru">Еврейская автономная область</structure:Description>
+		</structure:Code>
+		<structure:Code value="77000000000">
+			<structure:Description xml:lang="ru">Чукотский автономный округ</structure:Description>
+		</structure:Code>
+	</structure:CodeList>
+</CodeLists>
+<Description Id="signObj">
+	<Indicator id="58810" name="Среднемесячные затраты на рабочую силу в расчете на одного работника с 2017 г.">
+		<Units>
+			<Unit value="рубль"/>
+		</Units>
+		<Periodicities>
+			<Periodicity value="1 раз в 4-5 лет - не охарактеризована" releases="1-я неделя октября" next-release="11.10.2024"/>
+		</Periodicities>
+		<DataRange start="2017" end="2021"/>
+		<LastUpdate value="2022-10-11T16:22:33"/>
+		<Dimensions>
+			<Dimension value="s_OKVED2" agencyID="1">
+				<Name xml:lang="ru">Классификатор видов экономической деятельности (ОКВЭД2)</Name>
+			</Dimension>
+			<Dimension value="s_OKATO" agencyID="1">
+				<Name xml:lang="ru">Классификатор объектов административно-территориального деления (ОКАТО)</Name>
+			</Dimension>
+		</Dimensions>
+		<Methodology value="Определяется делением общей суммы затрат на рабочую силу на среднесписочную численность работников. "/>
+		<Organization value="Федеральная служба государственной статистики"/>
+		<Department value="Управление статистики труда"/>
+		<Allocations>
+			<Allocation id="1.30.6.">
+				<Name xml:lang="ru">По федеральному плану статработ / Федеральная служба государственной статистики / Рынок труда / Затраты организаций на рабочую силу</Name>
+			</Allocation>
+		</Allocations>
+		<Comment value="Информацию по показателю за период с 2005 по 2013 г. см. по показателю «Среднемесячные затраты на рабочую силу в расчете на одного работника по 2013 г.».   Статистические данные по Российской Федерации публикуются без учета статистической информации по Донецкой Народной Республике (ДНР), Луганской Народной Республике (ЛНР), Запорожской и Херсонской областям"/>
+		<Responsible>
+			<Name xml:lang="ru">Шалаевская Т.Ю. </Name>
+			<Contacts xml:lang="ru">(495) 568-00-42, 99560 ca_ShalaevskayaTY@gks.ru</Contacts>
+		</Responsible>
+		<Forms>
+			<Form value="1 (рабочая сила)">
+				<Name xml:lang="ru">Сведения о составе затрат организации на рабочую силу</Name>
+			</Form>
+		</Forms>
+	</Indicator>
+</Description>
+<DataSet>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="B"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="104076"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="C"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="54152"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="15"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="33830"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="16"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="36543"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="19"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="129723"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="D"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="60655"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="E"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="39597"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="F"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="52302"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="G"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="47952"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="H"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="64068"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="49"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="85403"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="49.3"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="47574"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="51"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="150446"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="I"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="33927"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="J"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="81081"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="K"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="106237"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="L"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="40075"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="M"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="83564"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="N"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="36846"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="10.11.01.АГ"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="43087"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="102.АГ"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="59676"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="24.25.01.АГ"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="60392"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="26.27.01.АГ"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="55816"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="29.30.01.АГ"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="59122"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="49.01.02.АГ"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="72919"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="118.АГ"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="59902"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="22.23.03.АГ"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="47817"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="17.18.01.АГ"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="51338"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="13.14.02.АГ"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="29227"/>
+		</generic:Obs>
+	</generic:Series>
+	<generic:Series>
+		<generic:SeriesKey>
+			<generic:Value concept="s_OKVED2" value="20.21.01.АГ"/>
+			<generic:Value concept="s_OKATO" value="643"/>
+		</generic:SeriesKey>
+		<generic:Attributes>
+			<generic:Value concept="EI" value="рубль"/>
+			<generic:Value concept="PERIOD" value="значение показателя за год"/>
+		</generic:Attributes>
+		<generic:Obs>
+			<generic:ObsValue value="66522"/>
+		</generic:Obs>
+	</generic:Series>
+</DataSet>
+</GenericData>
