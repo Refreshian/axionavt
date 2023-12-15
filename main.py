@@ -574,7 +574,7 @@ class Indicators(BaseModel):
     for key, val in dct.items():
         a.append({"id": str(key), "name": val})
 
-    return ModelRegions(regions=a)
+    return Regions(regions=a)
 
 
 class ValueParam(BaseModel):
@@ -682,4 +682,4 @@ def get_map_data(value: str, indicators: List[int] = None) -> RegionValue:
  
 
 if __name__ == "__main__":
-    uvicorn.run("main_test:app", host="0.0.0.0", port=5000, reload=True)
+    uvicorn.run("main:app", host="0.0.0.0", port=5000, reload=True)
